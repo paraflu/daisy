@@ -1,0 +1,194 @@
+startbot.sh: 7: [: unexpected operator
+22:30:24 INFO config: ./../config/config.json read
+22:30:24 INFO root: memory = ./../config/memory.json, failsafe = 3, delay = 1
+22:30:24 INFO config: ./../config/memory.json read
+22:30:24 INFO requests.packages.urllib3.connectionpool: Starting new HTTPS connection (1): accounts.google.com
+22:30:24 INFO requests.packages.urllib3.connectionpool: Starting new HTTPS connection (1): accounts.google.com
+22:30:25 INFO requests.packages.urllib3.connectionpool: Starting new HTTPS connection (1): www.google.com
+22:30:25 INFO requests.packages.urllib3.connectionpool: Starting new HTTPS connection (1): www.google.it
+22:30:30 INFO tagging: refreshed
+22:30:30 INFO monkeypatch.otr_support: removeuser replaced with otr_monkeypatch_removeuser
+22:30:30 INFO monkeypatch.otr_support: adduser replaced with otr_monkeypatched_adduser
+22:30:30 INFO plugins: otr_support - no commands
+22:30:31 INFO permamem: loading 33 conversations from memory
+22:30:31 INFO permamem: loading 32 users from hangups
+22:30:31 INFO permamem: loading 30 conversations from hangups
+22:30:31 WARNING permamem: unknown users returned from Nerd disadattati della bassa che donano soldi alla Esso con la scusa di giocare ad Ingress (PSCZ®) (UgygYiqxSUTc7bNQriF4AaABAQ): ['100710742925270496280']
+22:30:31 WARNING permamem: unknown users returned from Unknown (UgzwxDvnN1gs8iNuNSF4AaABAagBh7fsDw): ['100710742925270496280']
+22:30:32 INFO permamem: total conversations: 33
+22:30:32 INFO permamem: total users: 32 cached: 32 definitive (at start): 31
+22:30:32 INFO plugins: plugincontrol - *plugininfo, *pluginload, *pluginreload, *pluginunload
+22:30:32 INFO plugins: basic - help, *locale, optout, ping, *resourcememory, version
+22:30:32 INFO plugins: tagging - *tagdel, *tagindexdump, *tagscommand, *tagset, *tagspurge, *tagsuser, *tagsuserlist
+22:30:32 INFO plugins: permamem - *dumpconv, *dumpunknownusers, *makeallusersindefinite, *refreshusermemory, *removeconvrecord, *resetunknownusers
+22:30:32 INFO plugins: convid - *convecho, *convfilter, *convleave, *convrename, *convusers
+22:30:32 INFO plugins: loggertochat - *logconfig, *lograise
+22:30:32 INFO plugins: excluded 29: ['lottery', 'image_links', 'urbandict', 'chance', 'forwarding', 'lookup', 'spotify', 'slack', 'metar', 'humor_hangoutcalls', 'image_screenshot', 'monitoradds', 'catfact', 'webbridge_hubot', 'restrictedadd', 'easteregg', 'namelock', 'api', 'image_linker_reddit', 'wolframalpha', 'syncrooms', 'syncrooms_config', 'forecast', 'convtools_invitations', 'chatlogger', 'simplewikipedia', 'slackrtm', 'syncrooms_autotranslate', 'convtools']
+22:30:32 INFO plugins: included 13: ['default', 'mentions', 'autoreply', 'cleverbot', 'dnd', 'starter', 'remind', 'tldr', 'botaliases', 'subscribe', 'simplytranslate', 'botalive', 'image_memegenerator']
+22:30:32 INFO plugins: default - *broadcast, *config, echo, *hangouts, *leave, *quit, *reload, *rename, *user, *users, *whereami, whoami
+22:30:32 INFO plugins: mentions - bemorespecific, *mention, pushbulletapi, setnickname
+22:30:32 INFO plugins: autoreply - *autoreply
+22:30:32 INFO plugins: cleverbot - chat, *chatreset
+22:30:32 INFO plugins: dnd - dnd
+22:30:32 INFO plugins: starter - *files, iamspartacus, *test_one2one_message, verifyme
+22:30:32 INFO plugins: remind - remindall, remindme
+22:30:32 INFO plugins: tldr - tldr
+22:30:32 INFO plugins.botaliases: aliases: ['/bot', '/daisy', '/114381395495050993911', 'add!', '!']
+22:30:32 INFO plugins: botaliases - botalias
+22:30:32 INFO plugins: subscribe - subscribe, unsubscribe
+22:30:32 INFO plugins: simplytranslate - no commands
+22:30:32 INFO plugins: botalive - no commands
+22:30:32 INFO plugins: image_memegenerator - meme
+22:30:32 INFO root: bot initialised
+22:30:32 INFO event: eid/dt: 8A2IrU_0QSf8AbiPeeSShI/2016-02-23 22:30:32
+22:30:32 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+22:30:32 INFO event: c/g/un: 113227689978504931898/113227689978504931898/Andrea Forlin
+22:30:32 INFO event: len/tx: 6/! ping
+22:30:33 INFO event: eid/dt: 8A2IrU_0QSf8AbiPeeSShI/2016-02-23 22:30:32
+22:30:33 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+22:30:33 INFO event: c/g/un: 113227689978504931898/113227689978504931898/Andrea Forlin
+22:30:33 INFO event: len/tx: 6/! ping
+22:30:33 INFO event: eid/dt: 8A2IrU_0QSf8AbiPolvsmL/2016-02-23 22:30:33
+22:30:33 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+22:30:33 INFO event: c/g/un: 114381395495050993911/114381395495050993911/Daisy Burn
+22:30:33 INFO event: len/tx: 4/pong
+22:30:34 INFO event: eid/dt: 8A2IrU_0QSf8AbiPr4rfN8/2016-02-23 22:30:33
+22:30:34 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+22:30:34 INFO event: c/g/un: 113233973177106453014/113233973177106453014/Michael Snidaro
+22:30:34 INFO event: len/tx: 18/Ok, quit forbidden
+22:30:34 INFO event: eid/dt: 8A2IrU_0QSf8AbiPs9Ova6/2016-02-23 22:30:33
+22:30:34 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+22:30:34 INFO event: c/g/un: 114381395495050993911/114381395495050993911/Daisy Burn
+22:30:34 INFO event: len/tx: 4/pong
+22:30:45 INFO event: eid/dt: 8A2IrU_0QSf8AbiRDjmthx/2016-02-23 22:30:44
+22:30:45 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+22:30:45 INFO event: c/g/un: 113227689978504931898/113227689978504931898/Andrea Forlin
+22:30:45 INFO event: len/tx: 26/se non sei al terminale no
+22:30:49 INFO event: eid/dt: 8A2khb34iE28AbiRn_bM4i/2016-02-23 22:30:49
+22:30:49 INFO event: cid/cn: Ugzc9QDaeT1UGq7mXKZ4AaABAagBsf2ODQ/Michael Snidaro
+22:30:49 INFO event: c/g/un: 113233973177106453014/113233973177106453014/Michael Snidaro
+22:30:49 INFO event: len/tx: 14/! Help mention
+22:30:49 INFO root: get_1on1: remembered Ugzc9QDaeT1UGq7mXKZ4AaABAagBsf2ODQ for 113233973177106453014
+22:30:50 INFO event: eid/dt: 8A2IrU_0QSf8AbiRsDlv1k/2016-02-23 22:30:50
+22:30:50 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+22:30:50 INFO event: c/g/un: 113227689978504931898/113227689978504931898/Andrea Forlin
+22:30:50 INFO event: len/tx: 21/potrei darti un login
+22:30:50 INFO event: eid/dt: 8A2khb34iE28AbiRsj7CuA/2016-02-23 22:30:50
+22:30:50 INFO event: cid/cn: Ugzc9QDaeT1UGq7mXKZ4AaABAagBsf2ODQ/Michael Snidaro
+22:30:50 INFO event: c/g/un: 114381395495050993911/114381395495050993911/Daisy Burn
+22:30:50 INFO event: len/tx: 32/mention: alert a @mentioned user
+22:30:55 INFO event: eid/dt: 8A2IrU_0QSf8AbiSPvfSK_/2016-02-23 22:30:54
+22:30:55 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+22:30:55 INFO event: c/g/un: 113227689978504931898/113227689978504931898/Andrea Forlin
+22:30:55 INFO event: len/tx: 3/O_o
+22:30:58 INFO event: eid/dt: 8A2IrU_0QSf8AbiSqp_PDX/2016-02-23 22:30:58
+22:30:58 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+22:30:58 INFO event: c/g/un: 113227689978504931898/113227689978504931898/Andrea Forlin
+22:30:58 INFO event: len/tx: 10/ma anca no
+22:30:59 INFO event: eid/dt: 8A2IrU_0QSf8AbiSujcVwm/2016-02-23 22:30:58
+22:30:59 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+22:30:59 INFO event: c/g/un: 113227689978504931898/113227689978504931898/Andrea Forlin
+22:30:59 INFO event: len/tx: 1/😀
+22:31:14 INFO event: eid/dt: 8A2IrU_0QSf8AbiUppVKJt/2016-02-23 22:31:14
+22:31:14 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+22:31:14 INFO event: c/g/un: 113233973177106453014/113233973177106453014/Michael Snidaro
+22:31:14 INFO event: len/tx: 1/😁
+22:31:33 INFO event: eid/dt: 8A2khb34iE28AbiX8DucNl/2016-02-23 22:31:33
+22:31:33 INFO event: cid/cn: Ugzc9QDaeT1UGq7mXKZ4AaABAagBsf2ODQ/Michael Snidaro
+22:31:33 INFO event: c/g/un: 113233973177106453014/113233973177106453014/Michael Snidaro
+22:31:33 INFO event: len/tx: 19/! Help tagsuserlist
+22:31:33 INFO root: get_1on1: remembered Ugzc9QDaeT1UGq7mXKZ4AaABAagBsf2ODQ for 113233973177106453014
+22:31:34 INFO event: eid/dt: 8A2khb34iE28AbiXEMaTqf/2016-02-23 22:31:34
+22:31:34 INFO event: cid/cn: Ugzc9QDaeT1UGq7mXKZ4AaABAagBsf2ODQ/Michael Snidaro
+22:31:34 INFO event: c/g/un: 114381395495050993911/114381395495050993911/Daisy Burn
+22:31:34 INFO event: len/tx: 160/tagsuserlist: get tag assignments for all users in a conversation, filtered by (optional) taglist. usage: tagsuserlist <conv id> [<tag name> [<tag name>] [...]]
+22:32:05 INFO event: eid/dt: 8A2IrU_0QSf8Abia3h-_Lu/2016-02-23 22:32:05
+22:32:05 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+22:32:05 INFO event: c/g/un: 113233973177106453014/113233973177106453014/Michael Snidaro
+22:32:05 INFO event: len/tx: 37/Un delirio di comandi admin da capire
+22:32:18 INFO event: eid/dt: 8A2IrU_0QSf8AbibehOJUs/2016-02-23 22:32:18
+22:32:18 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+22:32:18 INFO event: c/g/un: 113233973177106453014/113233973177106453014/Michael Snidaro
+22:32:18 INFO event: len/tx: 46/Questo però può aiutarmi con la localizzazione
+22:32:36 INFO event: eid/dt: 8A2IrU_0QSf8AbidmcF-XA/2016-02-23 22:32:36
+22:32:36 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+22:32:36 INFO event: c/g/un: 113227689978504931898/113227689978504931898/Andrea Forlin
+22:32:36 INFO event: len/tx: 39/sopratutto per la gestione dei permessi
+22:33:10 INFO event: eid/dt: 8A2khb34iE28Abii0VDxSH/2016-02-23 22:33:10
+22:33:10 INFO event: cid/cn: Ugzc9QDaeT1UGq7mXKZ4AaABAagBsf2ODQ/Michael Snidaro
+22:33:10 INFO event: c/g/un: 113233973177106453014/113233973177106453014/Michael Snidaro
+22:33:10 INFO event: len/tx: 16/! Help autoreply
+22:33:10 INFO root: get_1on1: remembered Ugzc9QDaeT1UGq7mXKZ4AaABAagBsf2ODQ for 113233973177106453014
+22:33:11 INFO event: eid/dt: 8A2khb34iE28Abii6Z2qhF/2016-02-23 22:33:11
+22:33:11 INFO event: cid/cn: Ugzc9QDaeT1UGq7mXKZ4AaABAagBsf2ODQ/Michael Snidaro
+22:33:11 INFO event: c/g/un: 114381395495050993911/114381395495050993911/Daisy Burn
+22:33:11 INFO event: len/tx: 248/autoreply: adds or removes an autoreply.
+    Format:
+    /bot autoreply add [["question1","question2"],"answer"] // add an autoreply
+    /bot autoreply remove [["question"],"answer"] // remove an autoreply
+    /bot autoreply // view all autoreplies
+22:34:48 INFO event: eid/dt: 8A2khb34iE28Abitx3-5Vq/2016-02-23 22:34:48
+22:34:48 INFO event: cid/cn: Ugzc9QDaeT1UGq7mXKZ4AaABAagBsf2ODQ/Michael Snidaro
+22:34:48 INFO event: c/g/un: 113233973177106453014/113233973177106453014/Michael Snidaro
+22:34:48 INFO event: len/tx: 61/! Autoreply add "Gad?", "Gad vi risponderà appena possibile "
+22:34:48 ERROR commands: RUN: autoreply
+Traceback (most recent call last):
+  File "/home/andrea/project/daisy/commands/__init__.py", line 178, in run
+    results = yield from func(bot, event, *args, **kwds)
+  File "/home/andrea/project/daisy/plugins/autoreply.py", line 133, in autoreply
+    value.append(json.loads(argument))
+  File "/usr/lib/python3.4/json/__init__.py", line 318, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python3.4/json/decoder.py", line 346, in decode
+    raise ValueError(errmsg("Extra data", s, end, len(s)))
+ValueError: Extra data: line 1 column 8 - line 1 column 47 (char 7 - 46)
+22:34:49 INFO event: eid/dt: 8A2khb34iE28Abiu2EnYDK/2016-02-23 22:34:49
+22:34:49 INFO event: cid/cn: Ugzc9QDaeT1UGq7mXKZ4AaABAagBsf2ODQ/Michael Snidaro
+22:34:49 INFO event: c/g/un: 114381395495050993911/114381395495050993911/Daisy Burn
+22:34:49 INFO event: len/tx: 82/autoreply ValueError: Extra data: line 1 column 8 - line 1 column 47 (char 7 - 46)
+22:36:01 INFO event: eid/dt: 8A2khb34iE28Abj1pLkaKq/2016-02-23 22:36:01
+22:36:01 INFO event: cid/cn: Ugzc9QDaeT1UGq7mXKZ4AaABAagBsf2ODQ/Michael Snidaro
+22:36:01 INFO event: c/g/un: 113233973177106453014/113233973177106453014/Michael Snidaro
+22:36:01 INFO event: len/tx: 58/! Autoreply add [[Gad?], [Gad risponderà appena possibile]
+22:36:01 ERROR commands: RUN: autoreply
+Traceback (most recent call last):
+  File "/home/andrea/project/daisy/commands/__init__.py", line 178, in run
+    results = yield from func(bot, event, *args, **kwds)
+  File "/home/andrea/project/daisy/plugins/autoreply.py", line 133, in autoreply
+    value.append(json.loads(argument))
+  File "/usr/lib/python3.4/json/__init__.py", line 318, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python3.4/json/decoder.py", line 343, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python3.4/json/decoder.py", line 361, in raw_decode
+    raise ValueError(errmsg("Expecting value", s, err.value)) from None
+ValueError: Expecting value: line 1 column 3 (char 2)
+22:36:02 INFO event: eid/dt: 8A2khb34iE28Abj1vw9i-2/2016-02-23 22:36:02
+22:36:02 INFO event: cid/cn: Ugzc9QDaeT1UGq7mXKZ4AaABAagBsf2ODQ/Michael Snidaro
+22:36:02 INFO event: c/g/un: 114381395495050993911/114381395495050993911/Daisy Burn
+22:36:02 INFO event: len/tx: 63/autoreply ValueError: Expecting value: line 1 column 3 (char 2)
+22:37:01 INFO event: eid/dt: 8A2khb34iE28Abj98EcsdE/2016-02-23 22:37:01
+22:37:01 INFO event: cid/cn: Ugzc9QDaeT1UGq7mXKZ4AaABAagBsf2ODQ/Michael Snidaro
+22:37:01 INFO event: c/g/un: 113233973177106453014/113233973177106453014/Michael Snidaro
+22:37:01 INFO event: len/tx: 62/! Autoreply add [["Gad?"], ["Gad risponderà appena possibile"]
+22:37:01 ERROR commands: RUN: autoreply
+Traceback (most recent call last):
+  File "/home/andrea/project/daisy/commands/__init__.py", line 178, in run
+    results = yield from func(bot, event, *args, **kwds)
+  File "/home/andrea/project/daisy/plugins/autoreply.py", line 133, in autoreply
+    value.append(json.loads(argument))
+  File "/usr/lib/python3.4/json/__init__.py", line 318, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python3.4/json/decoder.py", line 343, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python3.4/json/decoder.py", line 359, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting ',' delimiter: line 1 column 47 (char 46)
+22:37:02 INFO event: eid/dt: 8A2khb34iE28Abj9Gh6mg-/2016-02-23 22:37:02
+22:37:02 INFO event: cid/cn: Ugzc9QDaeT1UGq7mXKZ4AaABAagBsf2ODQ/Michael Snidaro
+22:37:02 INFO event: c/g/un: 114381395495050993911/114381395495050993911/Daisy Burn
+22:37:02 INFO event: len/tx: 73/autoreply ValueError: Expecting ',' delimiter: line 1 column 47 (char 46)
+22:37:28 INFO event: eid/dt: 8A2IrU_0QSf8AbjCVoOuAm/2016-02-23 22:37:28
+22:37:28 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+22:37:28 INFO event: c/g/un: 113233973177106453014/113233973177106453014/Michael Snidaro
+22:37:28 INFO event: len/tx: 35/Autoreply è un casino da aggiungere

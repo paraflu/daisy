@@ -1,0 +1,888 @@
+{
+  "bot.command_aliases": [
+    "/bot",
+    "/daisy",
+    "/114381395495050993911",
+    "add!",
+    "!"
+  ],
+  "convmem": {
+    "Ugw-LGoWvY78ZdfTRjF4AaABAagB1aLdBA": {
+      "history": true,
+      "participants": [
+        "103823824300748061668"
+      ],
+      "source": "event",
+      "title": "Giulia Scandura",
+      "type": "ONE_TO_ONE",
+      "updated": "20160218214532"
+    },
+    "Ugw9hZqJfFXdcg6YULx4AaABAagBnZbODw": {
+      "history": true,
+      "participants": [
+        "110140747680553487867"
+      ],
+      "source": "event",
+      "title": "Mio Veken",
+      "type": "ONE_TO_ONE",
+      "updated": "20160218214545"
+    },
+    "UgwBfaBko5OmRZXjRYF4AaABAagB05qpDQ": {
+      "history": true,
+      "participants": [
+        "117537461295829830058"
+      ],
+      "source": "event",
+      "title": "Denis Todone",
+      "type": "ONE_TO_ONE",
+      "updated": "20160218214542"
+    },
+    "UgwI4aIRFpqSINTPg1l4AaABAagB1--PBg": {
+      "history": true,
+      "participants": [
+        "117743148691186484007"
+      ],
+      "source": "event",
+      "title": "Joseph N.",
+      "type": "ONE_TO_ONE",
+      "updated": "20160218214509"
+    },
+    "UgwJPwOH6Mk9RpwZlf14AaABAagB79XEAQ": {
+      "history": true,
+      "participants": [
+        "100133902886494086787"
+      ],
+      "source": "event",
+      "title": "riccardo polat",
+      "type": "ONE_TO_ONE",
+      "updated": "20160218214548"
+    },
+    "UgwL_RC0zG-K1THpA_h4AaABAagB8aKIDg": {
+      "history": true,
+      "participants": [
+        "101431826199349071200"
+      ],
+      "source": "event",
+      "title": "Tommaso Iacolettig",
+      "type": "ONE_TO_ONE",
+      "updated": "20160218214539"
+    },
+    "UgwgGpHaghZ0SmCf5pZ4AaABAagB6uyABA": {
+      "history": true,
+      "participants": [
+        "111296620258408323414"
+      ],
+      "source": "event",
+      "title": "Andrea Calderone",
+      "type": "ONE_TO_ONE",
+      "updated": "20160218214449"
+    },
+    "UgwkkKrT3TIpPAVA_AR4AaABAagBmKTZCw": {
+      "history": true,
+      "participants": [
+        "111335088578508521546"
+      ],
+      "source": "event",
+      "title": "Antonio Bonutti",
+      "type": "ONE_TO_ONE",
+      "updated": "20160218214551"
+    },
+    "Ugwku014FY3Lzjf4X4R4AaABAagB36nPDQ": {
+      "history": true,
+      "participants": [
+        "116518681815724876432"
+      ],
+      "source": "event",
+      "title": "Elena vanzella",
+      "type": "ONE_TO_ONE",
+      "updated": "20160218214455"
+    },
+    "Ugwzn5VZcotesf53Jbt4AaABAagBnNgF": {
+      "history": true,
+      "participants": [
+        "104887444646600901872"
+      ],
+      "source": "event",
+      "title": "Andrea Peruzzi",
+      "type": "ONE_TO_ONE",
+      "updated": "20160218214443"
+    },
+    "Ugx2rN2i1Or-t_9iE4N4AaABAQ": {
+      "history": true,
+      "participants": [
+        "105205364708729768576",
+        "113233973177106453014",
+        "113227689978504931898"
+      ],
+      "source": "event",
+      "title": "Hangout BOT workgroup",
+      "type": "GROUP",
+      "updated": "20160223222143"
+    },
+    "UgxMqRbAYyqaJd_hVzB4AaABAagBv_DXAQ": {
+      "history": true,
+      "participants": [
+        "113227689978504931898"
+      ],
+      "source": "init",
+      "title": "daisy",
+      "type": "ONE_TO_ONE",
+      "updated": "20160218174937"
+    },
+    "UgxZTF5C6m6rxUlT6sB4AaABAagBgoL6Bw": {
+      "history": true,
+      "participants": [
+        "111953178313840802528"
+      ],
+      "source": "event",
+      "title": "Alex Barnaba",
+      "type": "ONE_TO_ONE",
+      "updated": "20160218214440"
+    },
+    "Ugxc6Gvxe6AGbz5Wuyt4AaABAagB_7-uDQ": {
+      "history": true,
+      "participants": [
+        "115662678648560275824"
+      ],
+      "source": "event",
+      "title": "Andrea Turco",
+      "type": "ONE_TO_ONE",
+      "updated": "20160218214554"
+    },
+    "UgxjSmA_lOHYca2Rkyl4AaABAagBhorVCA": {
+      "history": true,
+      "participants": [
+        "111132969461037763987"
+      ],
+      "source": "event",
+      "title": "Marco Baruzzo",
+      "type": "ONE_TO_ONE",
+      "updated": "20160218214600"
+    },
+    "UgxsOLA9GAoFYMPOINZ4AaABAagBg_iWCg": {
+      "history": true,
+      "participants": [
+        "104199549131362603257"
+      ],
+      "source": "event",
+      "title": "Kristina Steckiene",
+      "type": "ONE_TO_ONE",
+      "updated": "20160218214513"
+    },
+    "UgxzurPXoLiokCBtdRF4AaABAagBkIzlCQ": {
+      "history": true,
+      "participants": [
+        "105398501329871598151"
+      ],
+      "source": "event",
+      "title": "Susanna L",
+      "type": "ONE_TO_ONE",
+      "updated": "20160218214446"
+    },
+    "UgyOMunRJuseASKxLsZ4AaABAagB9LP_AQ": {
+      "history": true,
+      "participants": [
+        "110814605625458497326"
+      ],
+      "source": "event",
+      "title": "Luca Sodomaco",
+      "type": "ONE_TO_ONE",
+      "updated": "20160218214536"
+    },
+    "UgySRSgslW4Q3-ymezx4AaABAagB6affBA": {
+      "history": true,
+      "participants": [
+        "113899940972538661767"
+      ],
+      "source": "event",
+      "title": "Gaya F",
+      "type": "ONE_TO_ONE",
+      "updated": "20160218214458"
+    },
+    "UgyU85QOyq55bciDMW14AaABAagBxP7aDA": {
+      "history": true,
+      "participants": [
+        "113803422009593836663"
+      ],
+      "source": "event",
+      "title": "Diego Troian",
+      "type": "ONE_TO_ONE",
+      "updated": "20160218204933"
+    },
+    "UgyUfhDFhanBl0UTETp4AaABAagB7s2RBg": {
+      "history": true,
+      "participants": [
+        "100959367485396136007"
+      ],
+      "source": "event",
+      "title": "Michele Bassan",
+      "type": "ONE_TO_ONE",
+      "updated": "20160218214523"
+    },
+    "UgygYiqxSUTc7bNQriF4AaABAQ": {
+      "history": true,
+      "participants": [
+        "111953178313840802528",
+        "104887444646600901872",
+        "105398501329871598151",
+        "111296620258408323414",
+        "103063954006107109190",
+        "116518681815724876432",
+        "113899940972538661767",
+        "117188762955379722381",
+        "113417345484543885413",
+        "117743148691186484007",
+        "104199549131362603257",
+        "116477120479200301256",
+        "104957687930118967562",
+        "115015747211922750658",
+        "100959367485396136007",
+        "107569927447384017152",
+        "100710742925270496280",
+        "113803422009593836663",
+        "103823824300748061668",
+        "105205364708729768576",
+        "110814605625458497326",
+        "101431826199349071200",
+        "117537461295829830058",
+        "110140747680553487867",
+        "100133902886494086787",
+        "111335088578508521546",
+        "115662678648560275824",
+        "113233973177106453014",
+        "102272196666396295776",
+        "111132969461037763987",
+        "113227689978504931898"
+      ],
+      "source": "event",
+      "title": "Nerd disadattati della bassa che donano soldi alla Esso con la scusa di giocare ad Ingress (PSCZ\u00ae)",
+      "type": "GROUP",
+      "updated": "20160218195436"
+    },
+    "UgzKBpgTgnnEqmygdYF4AaABAagBwNijDw": {
+      "history": true,
+      "participants": [
+        "116477120479200301256"
+      ],
+      "source": "event",
+      "title": "Burn Bot",
+      "type": "ONE_TO_ONE",
+      "updated": "20160218214516"
+    },
+    "UgzPbdpxwtYXJH93vfN4AaABAagB7_HuCA": {
+      "history": true,
+      "participants": [
+        "115015747211922750658"
+      ],
+      "source": "event",
+      "title": "Stefano Gervasutti",
+      "type": "ONE_TO_ONE",
+      "updated": "20160218205816"
+    },
+    "UgzRO2bEuGAwKjY6cGt4AaABAagBs-XMBQ": {
+      "history": true,
+      "participants": [
+        "102272196666396295776"
+      ],
+      "source": "event",
+      "title": "Raffaello Indri",
+      "type": "ONE_TO_ONE",
+      "updated": "20160218214557"
+    },
+    "UgzVXtkQCY8v_GyyAYp4AaABAagB1YTECQ": {
+      "history": true,
+      "participants": [
+        "105205364708729768576"
+      ],
+      "source": "init",
+      "title": "Kaeel L.",
+      "type": "ONE_TO_ONE",
+      "updated": "20160218174937"
+    },
+    "Ugzc9QDaeT1UGq7mXKZ4AaABAagBsf2ODQ": {
+      "history": true,
+      "participants": [
+        "113233973177106453014"
+      ],
+      "source": "init",
+      "title": "Michael Snidaro",
+      "type": "ONE_TO_ONE",
+      "updated": "20160218174937"
+    },
+    "UgzlSNbaA1jiLK747It4AaABAagB_7-0Cw": {
+      "history": true,
+      "participants": [
+        "107569927447384017152"
+      ],
+      "source": "event",
+      "title": "Federico de Fabrizi",
+      "type": "ONE_TO_ONE",
+      "updated": "20160218214526"
+    },
+    "UgznxLSto7QCE9JLM9B4AaABAagBrN2BAg": {
+      "history": true,
+      "participants": [
+        "113417345484543885413"
+      ],
+      "source": "event",
+      "title": "Denis Sorar\u00fa",
+      "type": "ONE_TO_ONE",
+      "updated": "20160218214506"
+    },
+    "Ugzva8lQurCR0LNcLJ14AaABAagBl7ucCQ": {
+      "history": true,
+      "participants": [
+        "103063954006107109190"
+      ],
+      "source": "event",
+      "title": "bruno pendalo",
+      "type": "ONE_TO_ONE",
+      "updated": "20160218214452"
+    },
+    "Ugzw8f3rJ4Lt_FYdxCN4AaABAagBgYrRBA": {
+      "history": true,
+      "participants": [
+        "104957687930118967562"
+      ],
+      "source": "event",
+      "title": "Asterion Nemesis",
+      "type": "ONE_TO_ONE",
+      "updated": "20160218214519"
+    },
+    "UgzwxDvnN1gs8iNuNSF4AaABAagBh7fsDw": {
+      "history": true,
+      "participants": [
+        "100710742925270496280"
+      ],
+      "source": "event",
+      "title": "Unknown",
+      "type": "ONE_TO_ONE",
+      "updated": "20160218214530"
+    },
+    "UgzylHbkclxiGpm5V4t4AaABAagBqK7sDQ": {
+      "history": true,
+      "participants": [
+        "117188762955379722381"
+      ],
+      "source": "event",
+      "title": "Massimo Goss",
+      "type": "ONE_TO_ONE",
+      "updated": "20160218214501"
+    }
+  },
+  "donotdisturb": {},
+  "lottery": {
+    "UgxMqRbAYyqaJd_hVzB4AaABAagBv_DXAQ:default": {
+      "box": [
+        "3",
+        "9",
+        "8",
+        "6",
+        "2",
+        "10",
+        "1",
+        "5",
+        "7"
+      ],
+      "users": {
+        "113227689978504931898": "4"
+      }
+    },
+    "UgygYiqxSUTc7bNQriF4AaABAQ:lotteria": {
+      "box": [
+        "6",
+        "4",
+        "1",
+        "2",
+        "3",
+        "5"
+      ],
+      "users": {}
+    }
+  },
+  "tldr": {
+    "Ugx2rN2i1Or-t_9iE4N4AaABAQ": {
+      "1456232043.7603655": "localizzazione @Gad",
+      "1456232318.6806033": "aggiungere meme plugin sul config @paraflu",
+      "1456232381.0062025": "userguide @gad 1",
+      "1456232978.6666868": "add admin Michael (Gadjet), chat_id = 113233973177106453014"
+    },
+    "UgxMqRbAYyqaJd_hVzB4AaABAagBv_DXAQ": {},
+    "UgygYiqxSUTc7bNQriF4AaABAQ": {
+      "1455821927.942333": "tutti i presenti sono invitati a giochicchiare col bot",
+      "1455821960.574563": "anche e soprattutto stegerva! \ud83d\ude02",
+      "1455889709.5497808": "uovaaaaa"
+    }
+  },
+  "user_data": {
+    "100133902886494086787": {
+      "1on1": "UgwJPwOH6Mk9RpwZlf14AaABAagB79XEAQ",
+      "_hangups": {
+        "chat_id": "100133902886494086787",
+        "emails": [],
+        "first_name": "riccardo",
+        "full_name": "riccardo polat",
+        "gaia_id": "100133902886494086787",
+        "is_definitive": true,
+        "is_self": false,
+        "photo_url": "//lh6.googleusercontent.com/-irIpyGC3gEM/AAAAAAAAAAI/AAAAAAAAAEk/aDWxUUbFwJk/photo.jpg",
+        "updated": "20160218213054"
+      }
+    },
+    "100710742925270496280": {
+      "1on1": "UgzwxDvnN1gs8iNuNSF4AaABAagBh7fsDw",
+      "_hangups": {
+        "chat_id": "100710742925270496280",
+        "emails": [],
+        "first_name": "Unknown",
+        "full_name": "Unknown",
+        "gaia_id": "100710742925270496280",
+        "is_definitive": false,
+        "is_self": false,
+        "photo_url": null,
+        "updated": "20160218213054"
+      }
+    },
+    "100959367485396136007": {
+      "1on1": "UgyUfhDFhanBl0UTETp4AaABAagB7s2RBg",
+      "_hangups": {
+        "chat_id": "100959367485396136007",
+        "emails": [],
+        "first_name": "Michele",
+        "full_name": "Michele Bassan",
+        "gaia_id": "100959367485396136007",
+        "is_definitive": true,
+        "is_self": false,
+        "photo_url": "//lh3.googleusercontent.com/-qa0gDwm4PQw/AAAAAAAAAAI/AAAAAAAAABk/Lr_FDJUeYHI/photo.jpg",
+        "updated": "20160218213054"
+      }
+    },
+    "101431826199349071200": {
+      "1on1": "UgwL_RC0zG-K1THpA_h4AaABAagB8aKIDg",
+      "_hangups": {
+        "chat_id": "101431826199349071200",
+        "emails": [],
+        "first_name": "Tommaso",
+        "full_name": "Tommaso Iacolettig",
+        "gaia_id": "101431826199349071200",
+        "is_definitive": true,
+        "is_self": false,
+        "photo_url": "//lh5.googleusercontent.com/-DBQzO0jBnYA/AAAAAAAAAAI/AAAAAAAADUo/qFsw3N8Y4r8/photo.jpg",
+        "updated": "20160218213054"
+      }
+    },
+    "102272196666396295776": {
+      "1on1": "UgzRO2bEuGAwKjY6cGt4AaABAagBs-XMBQ",
+      "_hangups": {
+        "chat_id": "102272196666396295776",
+        "emails": [],
+        "first_name": "Raffaello",
+        "full_name": "Raffaello Indri",
+        "gaia_id": "102272196666396295776",
+        "is_definitive": true,
+        "is_self": false,
+        "photo_url": "//lh6.googleusercontent.com/-Hsv_lyG1jqI/AAAAAAAAAAI/AAAAAAAAAA8/aeJmbQ7B5oc/photo.jpg",
+        "updated": "20160218213054"
+      }
+    },
+    "103063954006107109190": {
+      "1on1": "Ugzva8lQurCR0LNcLJ14AaABAagBl7ucCQ",
+      "_hangups": {
+        "chat_id": "103063954006107109190",
+        "emails": [],
+        "first_name": "bruno",
+        "full_name": "bruno pendalo",
+        "gaia_id": "103063954006107109190",
+        "is_definitive": true,
+        "is_self": false,
+        "photo_url": "//lh4.googleusercontent.com/-tyK21c6ZbTg/AAAAAAAAAAI/AAAAAAAAHCU/z26uKcGIKnQ/photo.jpg",
+        "updated": "20160218213054"
+      }
+    },
+    "103823824300748061668": {
+      "1on1": "Ugw-LGoWvY78ZdfTRjF4AaABAagB1aLdBA",
+      "_hangups": {
+        "chat_id": "103823824300748061668",
+        "emails": [],
+        "first_name": "Giulia",
+        "full_name": "Giulia Scandura",
+        "gaia_id": "103823824300748061668",
+        "is_definitive": true,
+        "is_self": false,
+        "photo_url": "//lh6.googleusercontent.com/-b0CugsDXw0o/AAAAAAAAAAI/AAAAAAAAFbA/hg99sAEnB-A/photo.jpg",
+        "updated": "20160218213054"
+      }
+    },
+    "104199549131362603257": {
+      "1on1": "UgxsOLA9GAoFYMPOINZ4AaABAagBg_iWCg",
+      "_hangups": {
+        "chat_id": "104199549131362603257",
+        "emails": [],
+        "first_name": "Kristina",
+        "full_name": "Kristina Steckiene",
+        "gaia_id": "104199549131362603257",
+        "is_definitive": true,
+        "is_self": false,
+        "photo_url": "//lh5.googleusercontent.com/-r35U6hmWr1Y/AAAAAAAAAAI/AAAAAAAAABU/_OBEYsaKU-M/photo.jpg",
+        "updated": "20160218213054"
+      }
+    },
+    "104887444646600901872": {
+      "1on1": "Ugwzn5VZcotesf53Jbt4AaABAagBnNgF",
+      "_hangups": {
+        "chat_id": "104887444646600901872",
+        "emails": [],
+        "first_name": "Andrea",
+        "full_name": "Andrea Peruzzi",
+        "gaia_id": "104887444646600901872",
+        "is_definitive": true,
+        "is_self": false,
+        "photo_url": "//lh3.googleusercontent.com/-eDkgu39GbvA/AAAAAAAAAAI/AAAAAAAAAEU/QDX300BOoKs/photo.jpg",
+        "updated": "20160218213054"
+      }
+    },
+    "104957687930118967562": {
+      "1on1": "Ugzw8f3rJ4Lt_FYdxCN4AaABAagBgYrRBA",
+      "_hangups": {
+        "chat_id": "104957687930118967562",
+        "emails": [],
+        "first_name": "Asterion",
+        "full_name": "Asterion Nemesis",
+        "gaia_id": "104957687930118967562",
+        "is_definitive": true,
+        "is_self": false,
+        "photo_url": "//lh4.googleusercontent.com/-FWUNIz4Vwbg/AAAAAAAAAAI/AAAAAAAAAA0/R6KVlIYlUgI/photo.jpg",
+        "updated": "20160218213054"
+      }
+    },
+    "105205364708729768576": {
+      "1on1": "UgzVXtkQCY8v_GyyAYp4AaABAagB1YTECQ",
+      "_hangups": {
+        "chat_id": "105205364708729768576",
+        "emails": [],
+        "first_name": "Kaeel",
+        "full_name": "Kaeel L.",
+        "gaia_id": "105205364708729768576",
+        "is_definitive": true,
+        "is_self": false,
+        "photo_url": "//lh5.googleusercontent.com/-ZeuwTh4ycZA/AAAAAAAAAAI/AAAAAAAAPzI/KQglr1CsieQ/photo.jpg",
+        "updated": "20160218174937"
+      },
+      "keywords": [
+        "kaeel",
+        "paul",
+        "paolo"
+      ]
+    },
+    "105398501329871598151": {
+      "1on1": "UgxzurPXoLiokCBtdRF4AaABAagBkIzlCQ",
+      "_hangups": {
+        "chat_id": "105398501329871598151",
+        "emails": [],
+        "first_name": "Susanna",
+        "full_name": "Susanna L",
+        "gaia_id": "105398501329871598151",
+        "is_definitive": true,
+        "is_self": false,
+        "photo_url": "//lh5.googleusercontent.com/-MiiIeepQPeM/AAAAAAAAAAI/AAAAAAAABUI/16MdI8OuoB0/photo.jpg",
+        "updated": "20160218213054"
+      }
+    },
+    "107569927447384017152": {
+      "1on1": "UgzlSNbaA1jiLK747It4AaABAagB_7-0Cw",
+      "_hangups": {
+        "chat_id": "107569927447384017152",
+        "emails": [],
+        "first_name": "Federico",
+        "full_name": "Federico de Fabrizi",
+        "gaia_id": "107569927447384017152",
+        "is_definitive": true,
+        "is_self": false,
+        "photo_url": "//lh4.googleusercontent.com/-aXaYvBI5XvE/AAAAAAAAAAI/AAAAAAAANUQ/YvvmQdbi1Qw/photo.jpg",
+        "updated": "20160218213054"
+      }
+    },
+    "110140747680553487867": {
+      "1on1": "Ugw9hZqJfFXdcg6YULx4AaABAagBnZbODw",
+      "_hangups": {
+        "chat_id": "110140747680553487867",
+        "emails": [],
+        "first_name": "Mio",
+        "full_name": "Mio Veken",
+        "gaia_id": "110140747680553487867",
+        "is_definitive": true,
+        "is_self": false,
+        "photo_url": "//lh5.googleusercontent.com/-E_STw7FE-Wo/AAAAAAAAAAI/AAAAAAAAC0E/a2yg_ycf6xg/photo.jpg",
+        "updated": "20160218213054"
+      }
+    },
+    "110814605625458497326": {
+      "1on1": "UgyOMunRJuseASKxLsZ4AaABAagB9LP_AQ",
+      "_hangups": {
+        "chat_id": "110814605625458497326",
+        "emails": [],
+        "first_name": "Luca",
+        "full_name": "Luca Sodomaco",
+        "gaia_id": "110814605625458497326",
+        "is_definitive": true,
+        "is_self": false,
+        "photo_url": "//lh6.googleusercontent.com/-ntvDgjKhBwM/AAAAAAAAAAI/AAAAAAAAAAs/36J4H3Q0nck/photo.jpg",
+        "updated": "20160218213054"
+      }
+    },
+    "111132969461037763987": {
+      "1on1": "UgxjSmA_lOHYca2Rkyl4AaABAagBhorVCA",
+      "_hangups": {
+        "chat_id": "111132969461037763987",
+        "emails": [],
+        "first_name": "Marco",
+        "full_name": "Marco Baruzzo",
+        "gaia_id": "111132969461037763987",
+        "is_definitive": true,
+        "is_self": false,
+        "photo_url": "//lh5.googleusercontent.com/-isvKhE0rTMw/AAAAAAAAAAI/AAAAAAAAAb8/HaOAW2vqCyc/photo.jpg",
+        "updated": "20160218213054"
+      }
+    },
+    "111296620258408323414": {
+      "1on1": "UgwgGpHaghZ0SmCf5pZ4AaABAagB6uyABA",
+      "_hangups": {
+        "chat_id": "111296620258408323414",
+        "emails": [],
+        "first_name": "Andrea",
+        "full_name": "Andrea Calderone",
+        "gaia_id": "111296620258408323414",
+        "is_definitive": true,
+        "is_self": false,
+        "photo_url": "//lh4.googleusercontent.com/-1HCUydzFciQ/AAAAAAAAAAI/AAAAAAAAADY/mUHCED4CXIE/photo.jpg",
+        "updated": "20160218213054"
+      }
+    },
+    "111335088578508521546": {
+      "1on1": "UgwkkKrT3TIpPAVA_AR4AaABAagBmKTZCw",
+      "_hangups": {
+        "chat_id": "111335088578508521546",
+        "emails": [],
+        "first_name": "Antonio",
+        "full_name": "Antonio Bonutti",
+        "gaia_id": "111335088578508521546",
+        "is_definitive": true,
+        "is_self": false,
+        "photo_url": "//lh5.googleusercontent.com/-Hw4QIX1JiDI/AAAAAAAAAAI/AAAAAAAAAwQ/c4PS4xQRckc/photo.jpg",
+        "updated": "20160218213054"
+      }
+    },
+    "111953178313840802528": {
+      "1on1": "UgxZTF5C6m6rxUlT6sB4AaABAagBgoL6Bw",
+      "_hangups": {
+        "chat_id": "111953178313840802528",
+        "emails": [],
+        "first_name": "Alex",
+        "full_name": "Alex Barnaba",
+        "gaia_id": "111953178313840802528",
+        "is_definitive": true,
+        "is_self": false,
+        "photo_url": "//lh5.googleusercontent.com/-ynu6xQ-4uUs/AAAAAAAAAAI/AAAAAAAAAOU/erG806sPeRE/photo.jpg",
+        "updated": "20160218213054"
+      }
+    },
+    "113227689978504931898": {
+      "1on1": "UgxMqRbAYyqaJd_hVzB4AaABAagBv_DXAQ",
+      "_hangups": {
+        "chat_id": "113227689978504931898",
+        "emails": [],
+        "first_name": "Andrea",
+        "full_name": "Andrea Forlin",
+        "gaia_id": "113227689978504931898",
+        "is_definitive": true,
+        "is_self": false,
+        "photo_url": "//lh3.googleusercontent.com/-nNF-z1OQPa8/AAAAAAAAAAI/AAAAAAAArwk/uLqQufzdtjQ/photo.jpg",
+        "updated": "20160218174937"
+      },
+      "keywords": [
+        "uovaaaa",
+        "suka"
+      ],
+      "label": "Andrea (paraflu)",
+      "mentionmultipleusermessage": true,
+      "nickname": "paraflu"
+    },
+    "113233973177106453014": {
+      "1on1": "Ugzc9QDaeT1UGq7mXKZ4AaABAagBsf2ODQ",
+      "_hangups": {
+        "chat_id": "113233973177106453014",
+        "emails": [],
+        "first_name": "Michael",
+        "full_name": "Michael Snidaro",
+        "gaia_id": "113233973177106453014",
+        "is_definitive": true,
+        "is_self": false,
+        "photo_url": "//lh5.googleusercontent.com/-ksN_EajK5nQ/AAAAAAAAAAI/AAAAAAAAB-k/fOnpilN6wlI/photo.jpg",
+        "updated": "20160218174937"
+      },
+      "keywords": [
+        "gad",
+        "michael",
+        "gadjet",
+        "gadget"
+      ],
+      "label": "Michael (Gadjet)",
+      "nickname": "Gadjet"
+    },
+    "113417345484543885413": {
+      "1on1": "UgznxLSto7QCE9JLM9B4AaABAagBrN2BAg",
+      "_hangups": {
+        "chat_id": "113417345484543885413",
+        "emails": [],
+        "first_name": "Denis",
+        "full_name": "Denis Sorar\u00fa",
+        "gaia_id": "113417345484543885413",
+        "is_definitive": true,
+        "is_self": false,
+        "photo_url": "//lh3.googleusercontent.com/-O6RZKTS3-YA/AAAAAAAAAAI/AAAAAAAAD-I/itpMydJeTIw/photo.jpg",
+        "updated": "20160218213054"
+      }
+    },
+    "113803422009593836663": {
+      "1on1": "UgyU85QOyq55bciDMW14AaABAagBxP7aDA",
+      "_hangups": {
+        "chat_id": "113803422009593836663",
+        "emails": [],
+        "first_name": "Diego",
+        "full_name": "Diego Troian",
+        "gaia_id": "113803422009593836663",
+        "is_definitive": true,
+        "is_self": false,
+        "photo_url": "//lh5.googleusercontent.com/-I6QypIb-FgI/AAAAAAAAAAI/AAAAAAAAABM/g4CHMU1FAaM/photo.jpg",
+        "updated": "20160218213054"
+      }
+    },
+    "113899940972538661767": {
+      "1on1": "UgySRSgslW4Q3-ymezx4AaABAagB6affBA",
+      "_hangups": {
+        "chat_id": "113899940972538661767",
+        "emails": [],
+        "first_name": "Gaya",
+        "full_name": "Gaya F",
+        "gaia_id": "113899940972538661767",
+        "is_definitive": true,
+        "is_self": false,
+        "photo_url": "//lh5.googleusercontent.com/-r3j8m1nDeoI/AAAAAAAAAAI/AAAAAAAAAUc/c8lAf5rkLaU/photo.jpg",
+        "updated": "20160218213054"
+      }
+    },
+    "114381395495050993911": {
+      "_hangups": {
+        "chat_id": "114381395495050993911",
+        "emails": [
+          "daisyburnit40@gmail.com"
+        ],
+        "first_name": "Daisy",
+        "full_name": "Daisy Burn",
+        "gaia_id": "114381395495050993911",
+        "is_definitive": true,
+        "is_self": true,
+        "photo_url": "//lh3.googleusercontent.com/-W68sNFLgtF0/AAAAAAAAAAI/AAAAAAAAAD4/zKnnXnAkfuU/photo.jpg",
+        "updated": "20160220152145"
+      }
+    },
+    "115015747211922750658": {
+      "1on1": "UgzPbdpxwtYXJH93vfN4AaABAagB7_HuCA",
+      "_hangups": {
+        "chat_id": "115015747211922750658",
+        "emails": [],
+        "first_name": "Stefano",
+        "full_name": "Stefano Gervasutti",
+        "gaia_id": "115015747211922750658",
+        "is_definitive": true,
+        "is_self": false,
+        "photo_url": "//lh4.googleusercontent.com/-al7fB197zIY/AAAAAAAAAAI/AAAAAAAATvE/H-dxl6a4U5w/photo.jpg",
+        "updated": "20160218213054"
+      }
+    },
+    "115662678648560275824": {
+      "1on1": "Ugxc6Gvxe6AGbz5Wuyt4AaABAagB_7-uDQ",
+      "_hangups": {
+        "chat_id": "115662678648560275824",
+        "emails": [],
+        "first_name": "Andrea",
+        "full_name": "Andrea Turco",
+        "gaia_id": "115662678648560275824",
+        "is_definitive": true,
+        "is_self": false,
+        "photo_url": "//lh6.googleusercontent.com/-gVYRglTWwOw/AAAAAAAAAAI/AAAAAAAAApY/I1WNbp1Yzm8/photo.jpg",
+        "updated": "20160218213054"
+      }
+    },
+    "116477120479200301256": {
+      "1on1": "UgzKBpgTgnnEqmygdYF4AaABAagBwNijDw",
+      "_hangups": {
+        "chat_id": "116477120479200301256",
+        "emails": [],
+        "first_name": "Burn",
+        "full_name": "Burn Bot",
+        "gaia_id": "116477120479200301256",
+        "is_definitive": true,
+        "is_self": false,
+        "photo_url": "//lh5.googleusercontent.com/-F7OB1nMup00/AAAAAAAAAAI/AAAAAAAAABA/LXxEClfRpV4/photo.jpg",
+        "updated": "20160218213054"
+      }
+    },
+    "116518681815724876432": {
+      "1on1": "Ugwku014FY3Lzjf4X4R4AaABAagB36nPDQ",
+      "_hangups": {
+        "chat_id": "116518681815724876432",
+        "emails": [],
+        "first_name": "Elena",
+        "full_name": "Elena vanzella",
+        "gaia_id": "116518681815724876432",
+        "is_definitive": true,
+        "is_self": false,
+        "photo_url": "//lh3.googleusercontent.com/-bR9z5vNQO6g/AAAAAAAAAAI/AAAAAAAAAB8/PT6kiFxUa4s/photo.jpg",
+        "updated": "20160218213054"
+      }
+    },
+    "117188762955379722381": {
+      "1on1": "UgzylHbkclxiGpm5V4t4AaABAagBqK7sDQ",
+      "_hangups": {
+        "chat_id": "117188762955379722381",
+        "emails": [],
+        "first_name": "Massimo",
+        "full_name": "Massimo Goss",
+        "gaia_id": "117188762955379722381",
+        "is_definitive": true,
+        "is_self": false,
+        "photo_url": "//lh6.googleusercontent.com/-vemSpnozwwc/AAAAAAAAAAI/AAAAAAAAAeI/hLnNS3CL4Vs/photo.jpg",
+        "updated": "20160218213054"
+      }
+    },
+    "117537461295829830058": {
+      "1on1": "UgwBfaBko5OmRZXjRYF4AaABAagB05qpDQ",
+      "_hangups": {
+        "chat_id": "117537461295829830058",
+        "emails": [],
+        "first_name": "Denis",
+        "full_name": "Denis Todone",
+        "gaia_id": "117537461295829830058",
+        "is_definitive": true,
+        "is_self": false,
+        "photo_url": "//lh6.googleusercontent.com/-xu8_T2uTEQM/AAAAAAAAAAI/AAAAAAAABsk/N76ZZP8V3Sk/photo.jpg",
+        "updated": "20160218213054"
+      }
+    },
+    "117743148691186484007": {
+      "1on1": "UgwI4aIRFpqSINTPg1l4AaABAagB1--PBg",
+      "_hangups": {
+        "chat_id": "117743148691186484007",
+        "emails": [],
+        "first_name": "Joseph",
+        "full_name": "Joseph N.",
+        "gaia_id": "117743148691186484007",
+        "is_definitive": true,
+        "is_self": false,
+        "photo_url": "//lh3.googleusercontent.com/-yrqcXCXyuso/AAAAAAAAAAI/AAAAAAAAFbw/t8w533KuG_8/photo.jpg",
+        "updated": "20160218213054"
+      }
+    }
+  }
+}
