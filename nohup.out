@@ -1,0 +1,2137 @@
+10:49:51 INFO config: /home/andrea/.local/share/hangupsbot/config.json read
+10:49:51 INFO root: memory = /home/andrea/.local/share/hangupsbot/memory.json, failsafe = 3, delay = 1
+10:49:51 INFO config: /home/andrea/.local/share/hangupsbot/memory.json read
+10:49:51 INFO requests.packages.urllib3.connectionpool: Starting new HTTPS connection (1): accounts.google.com
+10:49:51 INFO requests.packages.urllib3.connectionpool: Starting new HTTPS connection (1): accounts.google.com
+10:49:52 INFO requests.packages.urllib3.connectionpool: Starting new HTTPS connection (1): www.google.com
+10:49:52 INFO requests.packages.urllib3.connectionpool: Starting new HTTPS connection (1): www.google.it
+10:49:57 INFO tagging: refreshed
+10:49:57 INFO monkeypatch.otr_support: removeuser replaced with otr_monkeypatch_removeuser
+10:49:57 INFO monkeypatch.otr_support: adduser replaced with otr_monkeypatched_adduser
+10:49:57 INFO plugins: otr_support - no commands
+10:49:59 INFO permamem: loading 33 conversations from memory
+10:49:59 INFO permamem: loading 32 users from hangups
+10:49:59 INFO permamem: loading 30 conversations from hangups
+10:49:59 WARNING permamem: unknown users returned from Unknown (UgzwxDvnN1gs8iNuNSF4AaABAagBh7fsDw): ['100710742925270496280']
+10:50:00 WARNING permamem: unknown users returned from Nerd disadattati della bassa che donano soldi alla Esso con la scusa di giocare ad Ingress (PSCZ®) (UgygYiqxSUTc7bNQriF4AaABAQ): ['100710742925270496280']
+10:50:01 INFO permamem: total conversations: 33
+10:50:01 INFO permamem: total users: 32 cached: 32 definitive (at start): 31
+10:50:01 INFO plugins: plugincontrol - *plugininfo, *pluginload, *pluginreload, *pluginunload
+10:50:01 INFO plugins: basic - help, *locale, optout, ping, *resourcememory, version
+10:50:01 INFO plugins: tagging - *tagdel, *tagindexdump, *tagscommand, *tagset, *tagspurge, *tagsuser, *tagsuserlist
+10:50:01 INFO plugins: permamem - *dumpconv, *dumpunknownusers, *makeallusersindefinite, *refreshusermemory, *removeconvrecord, *resetunknownusers
+10:50:01 INFO plugins: convid - *convecho, *convfilter, *convleave, *convrename, *convusers
+10:50:01 INFO plugins: loggertochat - *logconfig, *lograise
+10:50:01 INFO plugins: excluded 30: ['lottery', 'image_links', 'urbandict', 'chance', 'forwarding', 'lookup', 'spotify', 'slack', 'metar', 'humor_hangoutcalls', 'image_screenshot', 'monitoradds', 'catfact', 'webbridge_hubot', 'restrictedadd', 'easteregg', 'namelock', 'api', 'image_linker_reddit', 'image_memegenerator', 'wolframalpha', 'syncrooms', 'syncrooms_config', 'forecast', 'convtools_invitations', 'chatlogger', 'simplewikipedia', 'slackrtm', 'syncrooms_autotranslate', 'convtools']
+10:50:01 INFO plugins: included 12: ['default', 'mentions', 'autoreply', 'cleverbot', 'dnd', 'starter', 'remind', 'tldr', 'botaliases', 'subscribe', 'simplytranslate', 'botalive']
+10:50:01 INFO plugins: default - *broadcast, *config, echo, *hangouts, *leave, *quit, *reload, *rename, *user, *users, *whereami, whoami
+10:50:01 INFO plugins: mentions - bemorespecific, *mention, pushbulletapi, setnickname
+10:50:01 INFO plugins: autoreply - *autoreply
+10:50:01 INFO plugins: cleverbot - chat, *chatreset
+10:50:01 INFO plugins: dnd - dnd
+10:50:01 INFO plugins: starter - *files, iamspartacus, *test_one2one_message, verifyme
+10:50:01 INFO plugins: remind - remindall, remindme
+10:50:01 INFO plugins: tldr - tldr
+10:50:01 INFO plugins.botaliases: aliases: ['/bot', '/daisy', '/114381395495050993911', 'add!', '!']
+10:50:01 INFO plugins: botaliases - botalias
+10:50:01 INFO plugins: subscribe - subscribe, unsubscribe
+10:50:02 INFO plugins: simplytranslate - no commands
+10:50:02 INFO plugins: botalive - no commands
+10:50:02 INFO root: bot initialised
+11:48:40 INFO root: Connection lost!
+13:35:28 INFO event: eid/dt: 7-H0Z7-Jq1P8AZBNool4DU/2016-02-22 13:35:27
+13:35:28 INFO event: cid/cn: UgygYiqxSUTc7bNQriF4AaABAQ/Nerd disadattati della bassa che donano soldi alla Esso con la scusa di giocare ad Ingress (PSCZ®)
+13:35:28 INFO event: c/g/un: 113233973177106453014/113233973177106453014/Michael Snidaro
+13:35:28 INFO event: len/tx: 160/Utilità di maddog: arriva in piazza con un portale bianco e tutti gli altri moribondi, non tira una singola bomba, prende solo il portale bianco e lo modda così
+13:35:28 WARNING permamem: unknown users returned from Nerd disadattati della bassa che donano soldi alla Esso con la scusa di giocare ad Ingress (PSCZ®) (UgygYiqxSUTc7bNQriF4AaABAQ): ['100710742925270496280']
+13:35:34 INFO event: eid/dt: 7-H0Z7-Jq1P8AZBOb3C8vb/2016-02-22 13:35:34
+13:35:34 INFO event: cid/cn: UgygYiqxSUTc7bNQriF4AaABAQ/Nerd disadattati della bassa che donano soldi alla Esso con la scusa di giocare ad Ingress (PSCZ®)
+13:35:34 INFO event: c/g/un: 113233973177106453014/113233973177106453014/Michael Snidaro
+13:35:34 INFO event: len/tx: 100/https://lh3.googleusercontent.com/-5voz8imu3aE/VssAlfaUtsI/AAAAAAAAMMU/4qQ8prWZFS4/s0/2016-02-22.jpg
+13:35:34 WARNING permamem: unknown users returned from Nerd disadattati della bassa che donano soldi alla Esso con la scusa di giocare ad Ingress (PSCZ®) (UgygYiqxSUTc7bNQriF4AaABAQ): ['100710742925270496280']
+13:35:51 INFO event: eid/dt: 7-H0Z7-Jq1P8AZBQdgSAYn/2016-02-22 13:35:51
+13:35:51 INFO event: cid/cn: UgygYiqxSUTc7bNQriF4AaABAQ/Nerd disadattati della bassa che donano soldi alla Esso con la scusa di giocare ad Ingress (PSCZ®)
+13:35:51 INFO event: c/g/un: 113233973177106453014/113233973177106453014/Michael Snidaro
+13:35:51 INFO event: len/tx: 53/Quindi prova addirittura a caricare mentre lo abbatto
+13:35:51 WARNING permamem: unknown users returned from Nerd disadattati della bassa che donano soldi alla Esso con la scusa di giocare ad Ingress (PSCZ®) (UgygYiqxSUTc7bNQriF4AaABAQ): ['100710742925270496280']
+13:38:33 INFO event: eid/dt: 7-H0Z7-Jq1P8AZBjSTe-us/2016-02-22 13:38:33
+13:38:33 INFO event: cid/cn: UgygYiqxSUTc7bNQriF4AaABAQ/Nerd disadattati della bassa che donano soldi alla Esso con la scusa di giocare ad Ingress (PSCZ®)
+13:38:33 INFO event: c/g/un: 113803422009593836663/113803422009593836663/Diego Troian
+13:38:33 INFO event: len/tx: 143/Stessa utilità di Lasthero ieri a Grado, ha tirato delle bombe su portali l1 senza nemmeno abbatterli e poi ha preso un singolo portale inutile
+13:38:33 WARNING permamem: unknown users returned from Nerd disadattati della bassa che donano soldi alla Esso con la scusa di giocare ad Ingress (PSCZ®) (UgygYiqxSUTc7bNQriF4AaABAQ): ['100710742925270496280']
+13:39:18 INFO event: eid/dt: 7-H0Z7-Jq1P8AZBosoNhkA/2016-02-22 13:39:17
+13:39:18 INFO event: cid/cn: UgygYiqxSUTc7bNQriF4AaABAQ/Nerd disadattati della bassa che donano soldi alla Esso con la scusa di giocare ad Ingress (PSCZ®)
+13:39:18 INFO event: c/g/un: 113233973177106453014/113233973177106453014/Michael Snidaro
+13:39:18 INFO event: len/tx: 8/Muffe...
+13:39:18 WARNING permamem: unknown users returned from Nerd disadattati della bassa che donano soldi alla Esso con la scusa di giocare ad Ingress (PSCZ®) (UgygYiqxSUTc7bNQriF4AaABAQ): ['100710742925270496280']
+13:39:46 INFO event: eid/dt: 7-H0Z7-Jq1P8AZBsKZBUQY/2016-02-22 13:39:46
+13:39:46 INFO event: cid/cn: UgygYiqxSUTc7bNQriF4AaABAQ/Nerd disadattati della bassa che donano soldi alla Esso con la scusa di giocare ad Ingress (PSCZ®)
+13:39:46 INFO event: c/g/un: 113803422009593836663/113803422009593836663/Diego Troian
+13:39:46 INFO event: len/tx: 19/Muffe inutili direi
+13:39:46 WARNING permamem: unknown users returned from Nerd disadattati della bassa che donano soldi alla Esso con la scusa di giocare ad Ingress (PSCZ®) (UgygYiqxSUTc7bNQriF4AaABAQ): ['100710742925270496280']
+13:40:15 INFO event: eid/dt: 7-H0Z7-Jq1P8AZBvvZdFZA/2016-02-22 13:40:15
+13:40:15 INFO event: cid/cn: UgygYiqxSUTc7bNQriF4AaABAQ/Nerd disadattati della bassa che donano soldi alla Esso con la scusa di giocare ad Ingress (PSCZ®)
+13:40:15 INFO event: c/g/un: 113233973177106453014/113233973177106453014/Michael Snidaro
+13:40:15 INFO event: len/tx: 41/Non abbiamo molti esempi di muffe utili 😊
+13:40:15 WARNING permamem: unknown users returned from Nerd disadattati della bassa che donano soldi alla Esso con la scusa di giocare ad Ingress (PSCZ®) (UgygYiqxSUTc7bNQriF4AaABAQ): ['100710742925270496280']
+13:41:12 INFO event: eid/dt: 7-H0Z7-Jq1P8AZC1m3hc5D/2016-02-22 13:41:11
+13:41:12 INFO event: cid/cn: UgygYiqxSUTc7bNQriF4AaABAQ/Nerd disadattati della bassa che donano soldi alla Esso con la scusa di giocare ad Ingress (PSCZ®)
+13:41:12 INFO event: c/g/un: 113803422009593836663/113803422009593836663/Diego Troian
+13:41:12 INFO event: len/tx: 69/Lo so ma quelle citate poco fa sono inutili persino alla loro fazione
+13:41:12 WARNING permamem: unknown users returned from Nerd disadattati della bassa che donano soldi alla Esso con la scusa di giocare ad Ingress (PSCZ®) (UgygYiqxSUTc7bNQriF4AaABAQ): ['100710742925270496280']
+21:47:55 INFO event: eid/dt: 8A2IrU_0QSf8A_3jh0kskF/2016-02-22 21:47:55
+21:47:55 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+21:47:55 INFO event: c/g/un: 113227689978504931898/113227689978504931898/Andrea Forlin
+21:47:55 INFO event: len/tx: 6/! Ping
+21:47:57 INFO event: eid/dt: 8A2IrU_0QSf8A_3jnMmq8M/2016-02-22 21:47:56
+21:47:57 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+21:47:57 INFO event: c/g/un: 114381395495050993911/114381395495050993911/Daisy Burn
+21:47:57 INFO event: len/tx: 4/pong
+21:47:57 INFO event: eid/dt: 8A2IrU_0QSf8A_3jo4WQno/2016-02-22 21:47:56
+21:47:57 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+21:47:57 INFO event: c/g/un: 114381395495050993911/114381395495050993911/Daisy Burn
+21:47:57 INFO event: len/tx: 4/pong
+21:48:21 INFO event: eid/dt: 8A2IrU_0QSf8A_3mpKJqoG/2016-02-22 21:48:21
+21:48:21 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+21:48:21 INFO event: c/g/un: 113227689978504931898/113227689978504931898/Andrea Forlin
+21:48:21 INFO event: len/tx: 1/😐
+22:39:13 INFO root: Connection lost!
+22:59:19 INFO root: Connection lost!
+00:33:28 INFO event: eid/dt: 8A2IrU_0QSf8A_Mg3UCGHE/2016-02-23 00:33:27
+00:33:28 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+00:33:28 INFO event: c/g/un: 113233973177106453014/113233973177106453014/Michael Snidaro
+00:33:28 INFO event: len/tx: 6/! Ping
+00:33:28 INFO event: eid/dt: 8A2IrU_0QSf8A_MgDKE7rc/2016-02-23 00:33:28
+00:33:28 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+00:33:28 INFO event: c/g/un: 114381395495050993911/114381395495050993911/Daisy Burn
+00:33:28 INFO event: len/tx: 4/pong
+00:33:29 INFO event: eid/dt: 8A2IrU_0QSf8A_MgHDdgGL/2016-02-23 00:33:28
+00:33:29 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+00:33:29 INFO event: c/g/un: 114381395495050993911/114381395495050993911/Daisy Burn
+00:33:29 INFO event: len/tx: 4/pong
+00:33:51 INFO event: eid/dt: 8A2IrU_0QSf8A_MizU96IP/2016-02-23 00:33:51
+00:33:51 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+00:33:51 INFO event: c/g/un: 113233973177106453014/113233973177106453014/Michael Snidaro
+00:33:51 INFO event: len/tx: 40/Doppio pong? Flawless victory! Fatality!
+00:33:59 INFO event: eid/dt: 8A2IrU_0QSf8A_Mju9Yd3Y/2016-02-23 00:33:58
+00:33:59 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+00:33:59 INFO event: c/g/un: 113233973177106453014/113233973177106453014/Michael Snidaro
+00:33:59 INFO event: len/tx: 10/! Whereami
+00:33:59 INFO event: eid/dt: 8A2IrU_0QSf8A_MjyogEed/2016-02-23 00:33:59
+00:33:59 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+00:33:59 INFO event: c/g/un: 114381395495050993911/114381395495050993911/Daisy Burn
+00:33:59 INFO event: len/tx: 31/Michael Snidaro: Can't do that.
+00:33:59 INFO event: eid/dt: 8A2IrU_0QSf8A_Mk-SmzDS/2016-02-23 00:33:59
+00:33:59 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+00:33:59 INFO event: c/g/un: 114381395495050993911/114381395495050993911/Daisy Burn
+00:33:59 INFO event: len/tx: 31/Michael Snidaro: Can't do that.
+00:34:27 INFO event: eid/dt: 8A2IrU_0QSf8A_MnRTnWQO/2016-02-23 00:34:27
+00:34:27 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+00:34:27 INFO event: c/g/un: 113227689978504931898/113227689978504931898/Andrea Forlin
+00:34:27 INFO event: len/tx: 25/Ci sono 2 sessioni attive
+00:34:31 INFO event: eid/dt: 8A2IrU_0QSf8A_Mnr2EPcj/2016-02-23 00:34:31
+00:34:31 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+00:34:31 INFO event: c/g/un: 113227689978504931898/113227689978504931898/Andrea Forlin
+00:34:31 INFO event: len/tx: 8/A occhio
+00:35:27 INFO event: eid/dt: 8A2IrU_0QSf8A_MuhGqunG/2016-02-23 00:35:27
+00:35:27 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+00:35:27 INFO event: c/g/un: 113233973177106453014/113233973177106453014/Michael Snidaro
+00:35:27 INFO event: len/tx: 13/Doppio bot? 😂
+00:35:49 INFO event: eid/dt: 8A2IrU_0QSf8A_MxPsQwcb/2016-02-23 00:35:49
+00:35:49 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+00:35:49 INFO event: c/g/un: 113227689978504931898/113227689978504931898/Andrea Forlin
+00:35:49 INFO event: len/tx: 3/Yes
+00:36:22 INFO root: bot is exiting
+00:36:22 INFO plugins: monkeypatch.otr_support unloaded
+00:36:22 INFO plugins: commands.tagging unloaded
+00:36:22 INFO plugins: commands.permamem unloaded
+00:36:22 INFO plugins: commands.basic unloaded
+00:36:22 INFO plugins: plugins.default unloaded
+00:36:22 INFO plugins: plugins.tldr unloaded
+00:36:22 INFO plugins: plugins.botaliases unloaded
+00:36:22 INFO plugins: commands.convid unloaded
+00:36:22 INFO plugins: plugins.botalive unloaded
+00:36:22 INFO plugins: plugins.simplytranslate unloaded
+00:36:22 INFO plugins: plugins.starter unloaded
+00:36:22 INFO plugins: commands.loggertochat unloaded
+00:36:22 INFO plugins: plugins.remind unloaded
+00:36:22 INFO plugins: plugins.subscribe unloaded
+00:36:22 INFO plugins: commands.plugincontrol unloaded
+00:36:22 INFO plugins: plugins.autoreply unloaded
+00:36:22 INFO plugins: plugins.cleverbot unloaded
+00:36:22 INFO plugins: plugins.dnd unloaded
+00:36:22 INFO plugins: plugins.mentions unloaded
+00:38:21 INFO config: /home/andrea/.local/share/hangupsbot/config.json read
+00:38:21 INFO root: memory = /home/andrea/.local/share/hangupsbot/memory.json, failsafe = 3, delay = 1
+00:38:21 INFO config: /home/andrea/.local/share/hangupsbot/memory.json read
+00:38:21 INFO requests.packages.urllib3.connectionpool: Starting new HTTPS connection (1): accounts.google.com
+00:38:21 INFO requests.packages.urllib3.connectionpool: Starting new HTTPS connection (1): accounts.google.com
+00:38:22 INFO requests.packages.urllib3.connectionpool: Starting new HTTPS connection (1): www.google.com
+00:38:22 INFO requests.packages.urllib3.connectionpool: Starting new HTTPS connection (1): www.google.it
+00:38:27 INFO tagging: refreshed
+00:38:27 INFO monkeypatch.otr_support: removeuser replaced with otr_monkeypatch_removeuser
+00:38:27 INFO monkeypatch.otr_support: adduser replaced with otr_monkeypatched_adduser
+00:38:27 INFO plugins: otr_support - no commands
+00:38:28 INFO permamem: loading 33 conversations from memory
+00:38:28 INFO permamem: loading 32 users from hangups
+00:38:28 INFO permamem: loading 30 conversations from hangups
+00:38:28 WARNING permamem: unknown users returned from Unknown (UgzwxDvnN1gs8iNuNSF4AaABAagBh7fsDw): ['100710742925270496280']
+00:38:28 WARNING permamem: unknown users returned from Nerd disadattati della bassa che donano soldi alla Esso con la scusa di giocare ad Ingress (PSCZ®) (UgygYiqxSUTc7bNQriF4AaABAQ): ['100710742925270496280']
+00:38:29 INFO permamem: total conversations: 33
+00:38:29 INFO permamem: total users: 32 cached: 32 definitive (at start): 31
+00:38:29 INFO plugins: plugincontrol - *plugininfo, *pluginload, *pluginreload, *pluginunload
+00:38:29 INFO plugins: basic - help, *locale, optout, ping, *resourcememory, version
+00:38:29 INFO plugins: tagging - *tagdel, *tagindexdump, *tagscommand, *tagset, *tagspurge, *tagsuser, *tagsuserlist
+00:38:29 INFO plugins: permamem - *dumpconv, *dumpunknownusers, *makeallusersindefinite, *refreshusermemory, *removeconvrecord, *resetunknownusers
+00:38:29 INFO plugins: convid - *convecho, *convfilter, *convleave, *convrename, *convusers
+00:38:29 INFO plugins: loggertochat - *logconfig, *lograise
+00:38:29 INFO plugins: excluded 30: ['lottery', 'image_links', 'urbandict', 'chance', 'forwarding', 'lookup', 'spotify', 'slack', 'metar', 'humor_hangoutcalls', 'image_screenshot', 'monitoradds', 'catfact', 'webbridge_hubot', 'restrictedadd', 'easteregg', 'namelock', 'api', 'image_linker_reddit', 'image_memegenerator', 'wolframalpha', 'syncrooms', 'syncrooms_config', 'forecast', 'convtools_invitations', 'chatlogger', 'simplewikipedia', 'slackrtm', 'syncrooms_autotranslate', 'convtools']
+00:38:29 INFO plugins: included 12: ['default', 'mentions', 'autoreply', 'cleverbot', 'dnd', 'starter', 'remind', 'tldr', 'botaliases', 'subscribe', 'simplytranslate', 'botalive']
+00:38:29 INFO plugins: default - *broadcast, *config, echo, *hangouts, *leave, *quit, *reload, *rename, *user, *users, *whereami, whoami
+00:38:29 INFO plugins: mentions - bemorespecific, *mention, pushbulletapi, setnickname
+00:38:29 INFO plugins: autoreply - *autoreply
+00:38:29 INFO plugins: cleverbot - chat, *chatreset
+00:38:29 INFO plugins: dnd - dnd
+00:38:29 INFO plugins: starter - *files, iamspartacus, *test_one2one_message, verifyme
+00:38:29 INFO plugins: remind - remindall, remindme
+00:38:29 INFO plugins: tldr - tldr
+00:38:29 INFO plugins.botaliases: aliases: ['/bot', '/daisy', '/114381395495050993911', 'add!', '!']
+00:38:29 INFO plugins: botaliases - botalias
+00:38:29 INFO plugins: subscribe - subscribe, unsubscribe
+00:38:29 INFO plugins: simplytranslate - no commands
+00:38:29 INFO plugins: botalive - no commands
+00:38:29 INFO root: bot initialised
+00:39:37 INFO config: /home/andrea/.local/share/hangupsbot/config.json read
+00:39:37 INFO root: memory = /home/andrea/.local/share/hangupsbot/memory.json, failsafe = 3, delay = 1
+00:39:37 INFO config: /home/andrea/.local/share/hangupsbot/memory.json read
+00:39:37 INFO requests.packages.urllib3.connectionpool: Starting new HTTPS connection (1): accounts.google.com
+00:39:38 INFO requests.packages.urllib3.connectionpool: Starting new HTTPS connection (1): accounts.google.com
+00:39:38 INFO requests.packages.urllib3.connectionpool: Starting new HTTPS connection (1): www.google.com
+00:39:39 INFO requests.packages.urllib3.connectionpool: Starting new HTTPS connection (1): www.google.it
+00:39:44 INFO tagging: refreshed
+00:39:44 INFO monkeypatch.otr_support: removeuser replaced with otr_monkeypatch_removeuser
+00:39:44 INFO monkeypatch.otr_support: adduser replaced with otr_monkeypatched_adduser
+00:39:44 INFO plugins: otr_support - no commands
+00:39:45 INFO permamem: loading 33 conversations from memory
+00:39:45 INFO permamem: loading 32 users from hangups
+00:39:45 INFO permamem: loading 30 conversations from hangups
+00:39:45 WARNING permamem: unknown users returned from Unknown (UgzwxDvnN1gs8iNuNSF4AaABAagBh7fsDw): ['100710742925270496280']
+00:39:45 WARNING permamem: unknown users returned from Nerd disadattati della bassa che donano soldi alla Esso con la scusa di giocare ad Ingress (PSCZ®) (UgygYiqxSUTc7bNQriF4AaABAQ): ['100710742925270496280']
+00:39:46 INFO permamem: total conversations: 33
+00:39:46 INFO permamem: total users: 32 cached: 32 definitive (at start): 31
+00:39:46 INFO plugins: plugincontrol - *plugininfo, *pluginload, *pluginreload, *pluginunload
+00:39:46 INFO plugins: basic - help, *locale, optout, ping, *resourcememory, version
+00:39:46 INFO plugins: tagging - *tagdel, *tagindexdump, *tagscommand, *tagset, *tagspurge, *tagsuser, *tagsuserlist
+00:39:46 INFO plugins: permamem - *dumpconv, *dumpunknownusers, *makeallusersindefinite, *refreshusermemory, *removeconvrecord, *resetunknownusers
+00:39:46 INFO plugins: convid - *convecho, *convfilter, *convleave, *convrename, *convusers
+00:39:46 INFO plugins: loggertochat - *logconfig, *lograise
+00:39:46 INFO plugins: excluded 30: ['lottery', 'image_links', 'urbandict', 'chance', 'forwarding', 'lookup', 'spotify', 'slack', 'metar', 'humor_hangoutcalls', 'image_screenshot', 'monitoradds', 'catfact', 'webbridge_hubot', 'restrictedadd', 'easteregg', 'namelock', 'api', 'image_linker_reddit', 'image_memegenerator', 'wolframalpha', 'syncrooms', 'syncrooms_config', 'forecast', 'convtools_invitations', 'chatlogger', 'simplewikipedia', 'slackrtm', 'syncrooms_autotranslate', 'convtools']
+00:39:46 INFO plugins: included 12: ['default', 'mentions', 'autoreply', 'cleverbot', 'dnd', 'starter', 'remind', 'tldr', 'botaliases', 'subscribe', 'simplytranslate', 'botalive']
+00:39:46 INFO plugins: default - *broadcast, *config, echo, *hangouts, *leave, *quit, *reload, *rename, *user, *users, *whereami, whoami
+00:39:46 INFO plugins: mentions - bemorespecific, *mention, pushbulletapi, setnickname
+00:39:46 INFO plugins: autoreply - *autoreply
+00:39:46 INFO plugins: cleverbot - chat, *chatreset
+00:39:46 INFO plugins: dnd - dnd
+00:39:46 INFO plugins: starter - *files, iamspartacus, *test_one2one_message, verifyme
+00:39:46 INFO plugins: remind - remindall, remindme
+00:39:46 INFO plugins: tldr - tldr
+00:39:46 INFO plugins.botaliases: aliases: ['/bot', '/daisy', '/114381395495050993911', 'add!', '!']
+00:39:46 INFO plugins: botaliases - botalias
+00:39:46 INFO plugins: subscribe - subscribe, unsubscribe
+00:39:46 INFO plugins: simplytranslate - no commands
+00:39:46 INFO plugins: botalive - no commands
+00:39:46 INFO root: bot initialised
+00:39:55 INFO event: eid/dt: 8A2IrU_0QSf8A_NQPHV77W/2016-02-23 00:39:55
+00:39:55 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+00:39:55 INFO event: c/g/un: 113227689978504931898/113227689978504931898/Andrea Forlin
+00:39:55 INFO event: len/tx: 6/! Quit
+00:39:55 INFO event: eid/dt: 8A2IrU_0QSf8A_NQPHV77W/2016-02-23 00:39:55
+00:39:55 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+00:39:55 INFO event: c/g/un: 113227689978504931898/113227689978504931898/Andrea Forlin
+00:39:55 INFO event: len/tx: 6/! Quit
+00:39:55 INFO plugins.default: HangupsBot killed by user Andrea Forlin from conversation Hangout BOT workgroup
+00:39:55 INFO root: bot is exiting
+00:39:55 INFO plugins: monkeypatch.otr_support unloaded
+00:39:55 INFO plugins: plugins.dnd unloaded
+00:39:55 INFO plugins: commands.plugincontrol unloaded
+00:39:55 INFO plugins: plugins.tldr unloaded
+00:39:55 INFO plugins: plugins.botaliases unloaded
+00:39:55 INFO plugins: plugins.subscribe unloaded
+00:39:55 INFO plugins: plugins.cleverbot unloaded
+00:39:55 INFO plugins: plugins.botalive unloaded
+00:39:55 INFO plugins: plugins.mentions unloaded
+00:39:55 INFO plugins: commands.basic unloaded
+00:39:55 INFO plugins: commands.convid unloaded
+00:39:55 INFO plugins: plugins.remind unloaded
+00:39:55 INFO plugins: commands.tagging unloaded
+00:39:55 INFO plugins: plugins.default unloaded
+00:39:55 INFO plugins: commands.loggertochat unloaded
+00:39:55 INFO plugins: commands.permamem unloaded
+00:39:55 INFO plugins: plugins.simplytranslate unloaded
+00:39:55 INFO plugins: plugins.autoreply unloaded
+00:39:55 INFO plugins: plugins.starter unloaded
+00:39:55 INFO plugins.default: HangupsBot killed by user Andrea Forlin from conversation Hangout BOT workgroup
+00:39:55 INFO root: bot is exiting
+00:39:55 INFO plugins: plugins.dnd unloaded
+00:39:55 INFO plugins: plugins.starter unloaded
+00:39:55 INFO plugins: plugins.default unloaded
+00:39:55 INFO plugins: plugins.tldr unloaded
+00:39:55 INFO plugins: plugins.mentions unloaded
+00:39:55 INFO plugins: plugins.botalive unloaded
+00:39:55 INFO plugins: plugins.autoreply unloaded
+00:39:55 INFO plugins: commands.loggertochat unloaded
+00:39:55 INFO plugins: commands.convid unloaded
+00:39:55 INFO plugins: commands.basic unloaded
+00:39:55 INFO plugins: monkeypatch.otr_support unloaded
+00:39:55 INFO plugins: plugins.subscribe unloaded
+00:39:55 INFO plugins: commands.permamem unloaded
+00:39:55 INFO plugins: plugins.remind unloaded
+00:39:55 INFO plugins: commands.plugincontrol unloaded
+00:39:55 INFO plugins: plugins.botaliases unloaded
+00:39:55 INFO plugins: plugins.cleverbot unloaded
+00:39:55 INFO plugins: commands.tagging unloaded
+00:39:55 INFO plugins: plugins.simplytranslate unloaded
+00:40:25 INFO config: /home/andrea/.local/share/hangupsbot/config.json read
+00:40:25 INFO root: memory = /home/andrea/.local/share/hangupsbot/memory.json, failsafe = 3, delay = 1
+00:40:25 INFO config: /home/andrea/.local/share/hangupsbot/memory.json read
+00:40:25 INFO requests.packages.urllib3.connectionpool: Starting new HTTPS connection (1): accounts.google.com
+00:40:26 INFO requests.packages.urllib3.connectionpool: Starting new HTTPS connection (1): accounts.google.com
+00:40:26 INFO requests.packages.urllib3.connectionpool: Starting new HTTPS connection (1): www.google.com
+00:40:27 INFO requests.packages.urllib3.connectionpool: Starting new HTTPS connection (1): www.google.it
+00:40:32 INFO tagging: refreshed
+00:40:32 INFO monkeypatch.otr_support: removeuser replaced with otr_monkeypatch_removeuser
+00:40:32 INFO monkeypatch.otr_support: adduser replaced with otr_monkeypatched_adduser
+00:40:32 INFO plugins: otr_support - no commands
+00:40:33 INFO permamem: loading 33 conversations from memory
+00:40:33 INFO permamem: loading 32 users from hangups
+00:40:33 INFO permamem: loading 30 conversations from hangups
+00:40:33 WARNING permamem: unknown users returned from Unknown (UgzwxDvnN1gs8iNuNSF4AaABAagBh7fsDw): ['100710742925270496280']
+00:40:33 WARNING permamem: unknown users returned from Nerd disadattati della bassa che donano soldi alla Esso con la scusa di giocare ad Ingress (PSCZ®) (UgygYiqxSUTc7bNQriF4AaABAQ): ['100710742925270496280']
+00:40:33 INFO permamem: total conversations: 33
+00:40:33 INFO permamem: total users: 32 cached: 32 definitive (at start): 31
+00:40:33 INFO plugins: plugincontrol - *plugininfo, *pluginload, *pluginreload, *pluginunload
+00:40:33 INFO plugins: basic - help, *locale, optout, ping, *resourcememory, version
+00:40:33 INFO plugins: tagging - *tagdel, *tagindexdump, *tagscommand, *tagset, *tagspurge, *tagsuser, *tagsuserlist
+00:40:33 INFO plugins: permamem - *dumpconv, *dumpunknownusers, *makeallusersindefinite, *refreshusermemory, *removeconvrecord, *resetunknownusers
+00:40:33 INFO plugins: convid - *convecho, *convfilter, *convleave, *convrename, *convusers
+00:40:33 INFO plugins: loggertochat - *logconfig, *lograise
+00:40:33 INFO plugins: excluded 30: ['lottery', 'image_links', 'urbandict', 'chance', 'forwarding', 'lookup', 'spotify', 'slack', 'metar', 'humor_hangoutcalls', 'image_screenshot', 'monitoradds', 'catfact', 'webbridge_hubot', 'restrictedadd', 'easteregg', 'namelock', 'api', 'image_linker_reddit', 'image_memegenerator', 'wolframalpha', 'syncrooms', 'syncrooms_config', 'forecast', 'convtools_invitations', 'chatlogger', 'simplewikipedia', 'slackrtm', 'syncrooms_autotranslate', 'convtools']
+00:40:33 INFO plugins: included 12: ['default', 'mentions', 'autoreply', 'cleverbot', 'dnd', 'starter', 'remind', 'tldr', 'botaliases', 'subscribe', 'simplytranslate', 'botalive']
+00:40:33 INFO plugins: default - *broadcast, *config, echo, *hangouts, *leave, *quit, *reload, *rename, *user, *users, *whereami, whoami
+00:40:33 INFO plugins: mentions - bemorespecific, *mention, pushbulletapi, setnickname
+00:40:33 INFO plugins: autoreply - *autoreply
+00:40:33 INFO plugins: cleverbot - chat, *chatreset
+00:40:33 INFO plugins: dnd - dnd
+00:40:33 INFO plugins: starter - *files, iamspartacus, *test_one2one_message, verifyme
+00:40:33 INFO plugins: remind - remindall, remindme
+00:40:33 INFO plugins: tldr - tldr
+00:40:33 INFO plugins.botaliases: aliases: ['/bot', '/daisy', '/114381395495050993911', 'add!', '!']
+00:40:33 INFO plugins: botaliases - botalias
+00:40:33 INFO plugins: subscribe - subscribe, unsubscribe
+00:40:34 INFO plugins: simplytranslate - no commands
+00:40:34 INFO plugins: botalive - no commands
+00:40:34 INFO root: bot initialised
+00:40:35 INFO event: eid/dt: 8A2IrU_0QSf8A_NVGbTOZK/2016-02-23 00:40:34
+00:40:35 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+00:40:35 INFO event: c/g/un: 113227689978504931898/113227689978504931898/Andrea Forlin
+00:40:35 INFO event: len/tx: 6/! Pong
+00:40:35 INFO event: eid/dt: 8A2IrU_0QSf8A_NVLy2UPE/2016-02-23 00:40:35
+00:40:35 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+00:40:35 INFO event: c/g/un: 114381395495050993911/114381395495050993911/Daisy Burn
+00:40:35 INFO event: len/tx: 30/Andrea Forlin: Unknown Command
+00:40:39 INFO event: eid/dt: 8A2IrU_0QSf8A_NVnRR84q/2016-02-23 00:40:39
+00:40:39 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+00:40:39 INFO event: c/g/un: 113227689978504931898/113227689978504931898/Andrea Forlin
+00:40:39 INFO event: len/tx: 6/! Ping
+00:40:40 INFO event: eid/dt: 8A2IrU_0QSf8A_NVrhEESM/2016-02-23 00:40:39
+00:40:40 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+00:40:40 INFO event: c/g/un: 114381395495050993911/114381395495050993911/Daisy Burn
+00:40:40 INFO event: len/tx: 4/pong
+00:40:46 INFO event: eid/dt: 8A2IrU_0QSf8A_NWaG2kGm/2016-02-23 00:40:45
+00:40:46 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+00:40:46 INFO event: c/g/un: 113227689978504931898/113227689978504931898/Andrea Forlin
+00:40:46 INFO event: len/tx: 6/Ho bot
+00:40:52 INFO event: eid/dt: 8A2IrU_0QSf8A_NXKlG2VT/2016-02-23 00:40:51
+00:40:52 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+00:40:52 INFO event: c/g/un: 113227689978504931898/113227689978504931898/Andrea Forlin
+00:40:52 INFO event: len/tx: 6/Ho bot
+00:40:57 INFO event: eid/dt: 8A2IrU_0QSf8A_NXybMdw1/2016-02-23 00:40:57
+00:40:57 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+00:40:57 INFO event: c/g/un: 113227689978504931898/113227689978504931898/Andrea Forlin
+00:40:57 INFO event: len/tx: 6/Hi bot
+00:40:57 INFO plugins.autoreply: matched chat: hi bot
+00:40:57 INFO event: eid/dt: 8A2IrU_0QSf8A_NY23LSKa/2016-02-23 00:40:57
+00:40:57 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+00:40:57 INFO event: c/g/un: 114381395495050993911/114381395495050993911/Daisy Burn
+00:40:57 INFO event: len/tx: 12/Hello world!
+00:41:12 INFO event: eid/dt: 8A2IrU_0QSf8A_NZnZz92_/2016-02-23 00:41:12
+00:41:12 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+00:41:12 INFO event: c/g/un: 113227689978504931898/113227689978504931898/Andrea Forlin
+00:41:12 INFO event: len/tx: 14/! Iamspartacus
+00:41:12 INFO event: eid/dt: 8A2IrU_0QSf8A_NZrqQ7YT/2016-02-23 00:41:12
+00:41:12 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+00:41:12 INFO event: c/g/un: 114381395495050993911/114381395495050993911/Daisy Burn
+00:41:12 INFO event: len/tx: 19/No! I am Spartacus!
+00:41:20 INFO event: eid/dt: 8A2IrU_0QSf8A_N_p-xac2/2016-02-23 00:41:20
+00:41:20 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+00:41:20 INFO event: c/g/un: 113227689978504931898/113227689978504931898/Andrea Forlin
+00:41:20 INFO event: len/tx: 1/😂
+00:41:26 INFO event: eid/dt: 8A2IrU_0QSf8A_NaZMhZGn/2016-02-23 00:41:26
+00:41:26 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+00:41:26 INFO event: c/g/un: 113227689978504931898/113227689978504931898/Andrea Forlin
+00:41:26 INFO event: len/tx: 18/Non me l'aspettavo
+00:41:53 INFO event: eid/dt: 8A2kfI43Aqw8A_NdqYHJma/2016-02-23 00:41:53
+00:41:53 INFO event: cid/cn: UgxMqRbAYyqaJd_hVzB4AaABAagBv_DXAQ/daisy
+00:41:53 INFO event: c/g/un: 113227689978504931898/113227689978504931898/Andrea Forlin
+00:41:53 INFO event: len/tx: 6/! Tldr
+00:41:54 INFO event: eid/dt: 8A2kfI43Aqw8A_NdxOaQJ1/2016-02-23 00:41:54
+00:41:54 INFO event: cid/cn: UgxMqRbAYyqaJd_hVzB4AaABAagBv_DXAQ/daisy
+00:41:54 INFO event: c/g/un: 114381395495050993911/114381395495050993911/Daisy Burn
+00:41:54 INFO event: len/tx: 15/TL;DR not found
+00:42:23 INFO event: eid/dt: 8A2IrU_0QSf8A_NhXqiA-Y/2016-02-23 00:42:23
+00:42:23 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+00:42:23 INFO event: c/g/un: 105205364708729768576/105205364708729768576/Kaeel L.
+00:42:23 INFO event: len/tx: 8/Risorse?
+00:42:31 INFO event: eid/dt: 8A2IrU_0QSf8A_NiUtPBDR/2016-02-23 00:42:31
+00:42:31 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+00:42:31 INFO event: c/g/un: 113227689978504931898/113227689978504931898/Andrea Forlin
+00:42:31 INFO event: len/tx: 1/?
+00:42:54 INFO event: eid/dt: 8A2IrU_0QSf8A_NlD3ig9P/2016-02-23 00:42:53
+00:42:54 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+00:42:54 INFO event: c/g/un: 105205364708729768576/105205364708729768576/Kaeel L.
+00:42:54 INFO event: len/tx: 10/È risorto?
+00:43:00 INFO event: eid/dt: 8A2IrU_0QSf8A_NlyhY_ZX/2016-02-23 00:42:59
+00:43:00 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+00:43:00 INFO event: c/g/un: 113227689978504931898/113227689978504931898/Andrea Forlin
+00:43:00 INFO event: len/tx: 6/Aaa si
+00:43:30 INFO event: eid/dt: 8A2IrU_0QSf8A_Npbu_adV/2016-02-23 00:43:29
+00:43:30 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+00:43:30 INFO event: c/g/un: 113227689978504931898/113227689978504931898/Andrea Forlin
+00:43:30 INFO event: len/tx: 54/Ho imparato il retry a 99 volte contro le 5 di default
+00:43:34 INFO event: eid/dt: 8A2IrU_0QSf8A_NqAYUxDW/2016-02-23 00:43:34
+00:43:34 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+00:43:34 INFO event: c/g/un: 113227689978504931898/113227689978504931898/Andrea Forlin
+00:43:34 INFO event: len/tx: 16/Dovrebbe reggere
+00:43:52 INFO event: eid/dt: 8A2IrU_0QSf8A_NsMTsfPR/2016-02-23 00:43:52
+00:43:52 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+00:43:52 INFO event: c/g/un: 113227689978504931898/113227689978504931898/Andrea Forlin
+00:43:52 INFO event: len/tx: 6/! Help
+00:43:52 INFO root: get_1on1: remembered UgxMqRbAYyqaJd_hVzB4AaABAagBv_DXAQ for 113227689978504931898
+00:43:53 INFO event: eid/dt: 8A2kfI43Aqw8A_NsTKwgqb/2016-02-23 00:43:53
+00:43:53 INFO event: cid/cn: UgxMqRbAYyqaJd_hVzB4AaABAagBv_DXAQ/daisy
+00:43:53 INFO event: c/g/un: 114381395495050993911/114381395495050993911/Daisy Burn
+00:43:53 INFO event: len/tx: 786/User commands:
+bemorespecific, botalias, chat, dnd, echo, help, iamspartacus, optout, ping, pushbulletapi, remindall, remindme, setnickname, subscribe, tldr, unsubscribe, verifyme, version, whoami
+
+For more information, please see: https://github.com/hangoutsbot/hangoutsbot/wiki/User-Guide
+
+Admin commands:
+autoreply, broadcast, chatreset, config, convecho, convfilter, convleave, convrename, convusers, dumpconv, dumpunknownusers, files, hangouts, leave, locale, logconfig, lograise, makeallusersindefinite, mention, plugininfo, pluginload, pluginreload, pluginunload, quit, refreshusermemory, reload, removeconvrecord, rename, resetunknownusers, resourcememory, tagdel, tagindexdump, tagscommand, tagset, tagspurge, tagsuser, tagsuserlist, test_one2one_message, user, users, whereami
+00:43:53 INFO event: eid/dt: 8A2IrU_0QSf8A_NsWMEyyj/2016-02-23 00:43:53
+00:43:53 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+00:43:53 INFO event: c/g/un: 114381395495050993911/114381395495050993911/Daisy Burn
+00:43:53 INFO event: len/tx: 41/Andrea Forlin, I've sent you some help ;)
+00:44:37 INFO event: eid/dt: 8A2kfI43Aqw8A_Nxmvs71b/2016-02-23 00:44:36
+00:44:37 INFO event: cid/cn: UgxMqRbAYyqaJd_hVzB4AaABAagBv_DXAQ/daisy
+00:44:37 INFO event: c/g/un: 113227689978504931898/113227689978504931898/Andrea Forlin
+00:44:37 INFO event: len/tx: 11/! Broadcast
+00:44:37 INFO event: eid/dt: 8A2kfI43Aqw8A_NxuAfpGC/2016-02-23 00:44:37
+00:44:37 INFO event: cid/cn: UgxMqRbAYyqaJd_hVzB4AaABAagBv_DXAQ/daisy
+00:44:37 INFO event: c/g/un: 114381395495050993911/114381395495050993911/Daisy Burn
+00:44:37 INFO event: len/tx: 55/broadcast: /bot broadcast [info|message|add|remove|NOW]
+00:45:00 INFO event: eid/dt: 8A2kfI43Aqw8A_O-b-BSTv/2016-02-23 00:44:59
+00:45:00 INFO event: cid/cn: UgxMqRbAYyqaJd_hVzB4AaABAagBv_DXAQ/daisy
+00:45:00 INFO event: c/g/un: 113227689978504931898/113227689978504931898/Andrea Forlin
+00:45:00 INFO event: len/tx: 19//bot broadcast info
+00:45:00 INFO event: eid/dt: 8A2kfI43Aqw8A_O-fYeKcl/2016-02-23 00:45:00
+00:45:00 INFO event: cid/cn: UgxMqRbAYyqaJd_hVzB4AaABAagBv_DXAQ/daisy
+00:45:00 INFO event: c/g/un: 114381395495050993911/114381395495050993911/Daisy Burn
+00:45:00 INFO event: len/tx: 25/broadcast: no message set
+00:45:20 INFO event: eid/dt: 8A2kfI43Aqw8A_O22nnGHk/2016-02-23 00:45:19
+00:45:20 INFO event: cid/cn: UgxMqRbAYyqaJd_hVzB4AaABAagBv_DXAQ/daisy
+00:45:20 INFO event: c/g/un: 113227689978504931898/113227689978504931898/Andrea Forlin
+00:45:20 INFO event: len/tx: 29//bot broadcast info benvenuti
+00:45:20 INFO event: eid/dt: 8A2kfI43Aqw8A_O26pLUFe/2016-02-23 00:45:20
+00:45:20 INFO event: cid/cn: UgxMqRbAYyqaJd_hVzB4AaABAagBv_DXAQ/daisy
+00:45:20 INFO event: c/g/un: 114381395495050993911/114381395495050993911/Daisy Burn
+00:45:20 INFO event: len/tx: 25/broadcast: no message set
+00:45:27 INFO event: eid/dt: 8A2kfI43Aqw8A_O2zuG6cH/2016-02-23 00:45:27
+00:45:27 INFO event: cid/cn: UgxMqRbAYyqaJd_hVzB4AaABAagBv_DXAQ/daisy
+00:45:27 INFO event: c/g/un: 113227689978504931898/113227689978504931898/Andrea Forlin
+00:45:27 INFO event: len/tx: 23//bot broadcast info add
+00:45:28 INFO event: eid/dt: 8A2kfI43Aqw8A_O33Kk80Z/2016-02-23 00:45:28
+00:45:28 INFO event: cid/cn: UgxMqRbAYyqaJd_hVzB4AaABAagBv_DXAQ/daisy
+00:45:28 INFO event: c/g/un: 114381395495050993911/114381395495050993911/Daisy Burn
+00:45:28 INFO event: len/tx: 25/broadcast: no message set
+00:45:44 INFO event: eid/dt: 8A2kfI43Aqw8A_O52CnRTo/2016-02-23 00:45:44
+00:45:44 INFO event: cid/cn: UgxMqRbAYyqaJd_hVzB4AaABAagBv_DXAQ/daisy
+00:45:44 INFO event: c/g/un: 113227689978504931898/113227689978504931898/Andrea Forlin
+00:45:44 INFO event: len/tx: 23//bot broadcast add ciao
+00:45:45 INFO event: eid/dt: 8A2kfI43Aqw8A_O57QCAQx/2016-02-23 00:45:44
+00:45:45 INFO event: cid/cn: UgxMqRbAYyqaJd_hVzB4AaABAagBv_DXAQ/daisy
+00:45:45 INFO event: c/g/un: 114381395495050993911/114381395495050993911/Daisy Burn
+00:45:45 INFO event: len/tx: 28/broadcast: 0 conversation(s)
+00:46:00 INFO event: eid/dt: 8A2kfI43Aqw8A_O71cZ6Iq/2016-02-23 00:46:00
+00:46:00 INFO event: cid/cn: UgxMqRbAYyqaJd_hVzB4AaABAagBv_DXAQ/daisy
+00:46:00 INFO event: c/g/un: 113227689978504931898/113227689978504931898/Andrea Forlin
+00:46:00 INFO event: len/tx: 19//bot help broadcast
+00:46:00 INFO root: get_1on1: remembered UgxMqRbAYyqaJd_hVzB4AaABAagBv_DXAQ for 113227689978504931898
+00:46:01 INFO event: eid/dt: 8A2kfI43Aqw8A_O765MaFR/2016-02-23 00:46:01
+00:46:01 INFO event: cid/cn: UgxMqRbAYyqaJd_hVzB4AaABAagBv_DXAQ/daisy
+00:46:01 INFO event: c/g/un: 114381395495050993911/114381395495050993911/Daisy Burn
+00:46:01 INFO event: len/tx: 54/broadcast: broadcast a message to chats, use with care
+00:46:28 INFO event: eid/dt: 8A2kfI43Aqw8A_OARTLGDj/2016-02-23 00:46:28
+00:46:28 INFO event: cid/cn: UgxMqRbAYyqaJd_hVzB4AaABAagBv_DXAQ/daisy
+00:46:28 INFO event: c/g/un: 113227689978504931898/113227689978504931898/Andrea Forlin
+00:46:28 INFO event: len/tx: 19//bot broadcast info
+00:46:29 INFO event: eid/dt: 8A2kfI43Aqw8A_OAVrLV8X/2016-02-23 00:46:29
+00:46:29 INFO event: cid/cn: UgxMqRbAYyqaJd_hVzB4AaABAagBv_DXAQ/daisy
+00:46:29 INFO event: c/g/un: 114381395495050993911/114381395495050993911/Daisy Burn
+00:46:29 INFO event: len/tx: 25/broadcast: no message set
+00:46:41 INFO event: eid/dt: 8A2kfI43Aqw8A_OByVpYYz/2016-02-23 00:46:41
+00:46:41 INFO event: cid/cn: UgxMqRbAYyqaJd_hVzB4AaABAagBv_DXAQ/daisy
+00:46:41 INFO event: c/g/un: 113227689978504931898/113227689978504931898/Andrea Forlin
+00:46:41 INFO event: len/tx: 22//bot broadcast message
+00:46:41 INFO event: eid/dt: 8A2kfI43Aqw8A_OC1ron1L/2016-02-23 00:46:41
+00:46:41 INFO event: cid/cn: UgxMqRbAYyqaJd_hVzB4AaABAagBv_DXAQ/daisy
+00:46:41 INFO event: c/g/un: 114381395495050993911/114381395495050993911/Daisy Burn
+00:46:41 INFO event: len/tx: 52/broadcast: message must be supplied after subcommand
+00:46:54 INFO event: eid/dt: 8A2kfI43Aqw8A_OD_uLg8N/2016-02-23 00:46:54
+00:46:54 INFO event: cid/cn: UgxMqRbAYyqaJd_hVzB4AaABAagBv_DXAQ/daisy
+00:46:54 INFO event: c/g/un: 113227689978504931898/113227689978504931898/Andrea Forlin
+00:46:54 INFO event: len/tx: 30//bot broadcast message welcome
+00:47:09 INFO event: eid/dt: 8A2kfI43Aqw8A_OFSj5JqD/2016-02-23 00:47:09
+00:47:09 INFO event: cid/cn: UgxMqRbAYyqaJd_hVzB4AaABAagBv_DXAQ/daisy
+00:47:09 INFO event: c/g/un: 113227689978504931898/113227689978504931898/Andrea Forlin
+00:47:09 INFO event: len/tx: 6/! Help
+00:47:09 INFO root: get_1on1: remembered UgxMqRbAYyqaJd_hVzB4AaABAagBv_DXAQ for 113227689978504931898
+00:47:10 INFO event: eid/dt: 8A2kfI43Aqw8A_OFX6oTxp/2016-02-23 00:47:10
+00:47:10 INFO event: cid/cn: UgxMqRbAYyqaJd_hVzB4AaABAagBv_DXAQ/daisy
+00:47:10 INFO event: c/g/un: 114381395495050993911/114381395495050993911/Daisy Burn
+00:47:10 INFO event: len/tx: 786/User commands:
+bemorespecific, botalias, chat, dnd, echo, help, iamspartacus, optout, ping, pushbulletapi, remindall, remindme, setnickname, subscribe, tldr, unsubscribe, verifyme, version, whoami
+
+For more information, please see: https://github.com/hangoutsbot/hangoutsbot/wiki/User-Guide
+
+Admin commands:
+autoreply, broadcast, chatreset, config, convecho, convfilter, convleave, convrename, convusers, dumpconv, dumpunknownusers, files, hangouts, leave, locale, logconfig, lograise, makeallusersindefinite, mention, plugininfo, pluginload, pluginreload, pluginunload, quit, refreshusermemory, reload, removeconvrecord, rename, resetunknownusers, resourcememory, tagdel, tagindexdump, tagscommand, tagset, tagspurge, tagsuser, tagsuserlist, test_one2one_message, user, users, whereami
+07:48:40 INFO root: Connection lost!
+10:14:44 INFO event: eid/dt: 8A2kfI43Aqw8AaPCSw8j9y/2016-02-23 10:14:43
+10:14:44 INFO event: cid/cn: UgxMqRbAYyqaJd_hVzB4AaABAagBv_DXAQ/daisy
+10:14:44 INFO event: c/g/un: 113227689978504931898/113227689978504931898/Andrea Forlin
+10:14:44 INFO event: len/tx: 6/! Ping
+10:14:45 INFO event: eid/dt: 8A2kfI43Aqw8AaPCZLykJ4/2016-02-23 10:14:44
+10:14:45 INFO event: cid/cn: UgxMqRbAYyqaJd_hVzB4AaABAagBv_DXAQ/daisy
+10:14:45 INFO event: c/g/un: 114381395495050993911/114381395495050993911/Daisy Burn
+10:14:45 INFO event: len/tx: 4/pong
+12:36:54 INFO event: eid/dt: 8A2IrU_0QSf8AaeThmi1Qw/2016-02-23 12:36:53
+12:36:54 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+12:36:54 INFO event: c/g/un: 113233973177106453014/113233973177106453014/Michael Snidaro
+12:36:54 INFO event: len/tx: 8/Hi Daisy
+12:37:02 INFO event: eid/dt: 8A2IrU_0QSf8AaeUk871Cj/2016-02-23 12:37:02
+12:37:02 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+12:37:02 INFO event: c/g/un: 113233973177106453014/113233973177106453014/Michael Snidaro
+12:37:02 INFO event: len/tx: 6/Hi bot
+12:37:02 INFO plugins.autoreply: matched chat: hi bot
+12:37:03 INFO event: eid/dt: 8A2IrU_0QSf8AaeUpxLPHX/2016-02-23 12:37:02
+12:37:03 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+12:37:03 INFO event: c/g/un: 114381395495050993911/114381395495050993911/Daisy Burn
+12:37:03 INFO event: len/tx: 12/Hello world!
+12:37:18 INFO event: eid/dt: 8A2IrU_0QSf8AaeWeDcJPG/2016-02-23 12:37:17
+12:37:18 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+12:37:18 INFO event: c/g/un: 113227689978504931898/113227689978504931898/Andrea Forlin
+12:37:18 INFO event: len/tx: 6/! Ping
+12:37:18 INFO event: eid/dt: 8A2IrU_0QSf8AaeWibRn2x/2016-02-23 12:37:18
+12:37:18 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+12:37:18 INFO event: c/g/un: 114381395495050993911/114381395495050993911/Daisy Burn
+12:37:18 INFO event: len/tx: 4/pong
+12:37:24 INFO event: eid/dt: 8A2IrU_0QSf8AaeXSBnA5f/2016-02-23 12:37:24
+12:37:24 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+12:37:24 INFO event: c/g/un: 113227689978504931898/113227689978504931898/Andrea Forlin
+12:37:24 INFO event: len/tx: 4/@Gad
+12:37:24 INFO root: get_1on1: remembered UgxMqRbAYyqaJd_hVzB4AaABAagBv_DXAQ for 113227689978504931898
+12:37:24 INFO plugins.mentions: @mention 'Gad' in 'Hangout BOT workgroup' (Ugx2rN2i1Or-t_9iE4N4AaABAQ)
+12:37:24 INFO plugins.subscribe: keyword 'gad' in 'Hangout BOT workgroup' (Ugx2rN2i1Or-t_9iE4N4AaABAQ)
+12:37:24 INFO root: get_1on1: remembered Ugzc9QDaeT1UGq7mXKZ4AaABAagBsf2ODQ for 113233973177106453014
+12:37:25 INFO plugins.subscribe: Michael Snidaro (113233973177106453014) alerted via 1on1 (Ugzc9QDaeT1UGq7mXKZ4AaABAagBsf2ODQ)
+12:37:25 INFO event: eid/dt: 8A2khb34iE28AaeXXVRoeu/2016-02-23 12:37:24
+12:37:25 INFO event: cid/cn: Ugzc9QDaeT1UGq7mXKZ4AaABAagBsf2ODQ/Michael Snidaro
+12:37:25 INFO event: c/g/un: 114381395495050993911/114381395495050993911/Daisy Burn
+12:37:25 INFO event: len/tx: 60/Andrea Forlin mentioned 'gad' in Hangout BOT workgroup:
+@Gad
+12:37:39 INFO event: eid/dt: 8A2IrU_0QSf8AaeZIDAb1z/2016-02-23 12:37:39
+12:37:39 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+12:37:39 INFO event: c/g/un: 113227689978504931898/113227689978504931898/Andrea Forlin
+12:37:39 INFO event: len/tx: 31/Alla fine che si fa di sto BOT?
+12:38:53 INFO event: eid/dt: 8A2IrU_0QSf8AaehLAnEoI/2016-02-23 12:38:53
+12:38:53 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+12:38:53 INFO event: c/g/un: 113227689978504931898/113227689978504931898/Andrea Forlin
+12:38:53 INFO event: len/tx: 100/https://lh3.googleusercontent.com/-UMhtLOg3jHw/VsxEzG94LFI/AAAAAAAAtes/u2L0Fk0_LEY/s0/2016-02-23.jpg
+12:41:33 INFO event: eid/dt: 8A2IrU_0QSf8Aaf-oIuDUE/2016-02-23 12:41:33
+12:41:33 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+12:41:33 INFO event: c/g/un: 113233973177106453014/113233973177106453014/Michael Snidaro
+12:41:33 INFO event: len/tx: 26/lo gettiamo nella mischia?
+12:43:08 INFO event: eid/dt: 8A2IrU_0QSf8AafBS2FaSo/2016-02-23 12:43:08
+12:43:08 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+12:43:08 INFO event: c/g/un: 113233973177106453014/113233973177106453014/Michael Snidaro
+12:43:08 INFO event: len/tx: 6/! help
+12:43:08 INFO root: get_1on1: remembered Ugzc9QDaeT1UGq7mXKZ4AaABAagBsf2ODQ for 113233973177106453014
+12:43:09 INFO event: eid/dt: 8A2khb34iE28AafBYuled7/2016-02-23 12:43:09
+12:43:09 INFO event: cid/cn: Ugzc9QDaeT1UGq7mXKZ4AaABAagBsf2ODQ/Michael Snidaro
+12:43:09 INFO event: c/g/un: 114381395495050993911/114381395495050993911/Daisy Burn
+12:43:09 INFO event: len/tx: 290/User commands:
+bemorespecific, botalias, chat, dnd, echo, help, iamspartacus, optout, ping, pushbulletapi, remindall, remindme, setnickname, subscribe, tldr, unsubscribe, verifyme, version, whoami
+
+For more information, please see: https://github.com/hangoutsbot/hangoutsbot/wiki/User-Guide
+12:43:10 INFO event: eid/dt: 8A2IrU_0QSf8AafBaulgHi/2016-02-23 12:43:09
+12:43:10 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+12:43:10 INFO event: c/g/un: 114381395495050993911/114381395495050993911/Daisy Burn
+12:43:10 INFO event: len/tx: 43/Michael Snidaro, I've sent you some help ;)
+12:43:19 INFO event: eid/dt: 8A2IrU_0QSf8AafClzqOY6/2016-02-23 12:43:19
+12:43:19 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+12:43:19 INFO event: c/g/un: 113233973177106453014/113233973177106453014/Michael Snidaro
+12:43:19 INFO event: len/tx: 6/! tldr
+12:43:20 INFO event: eid/dt: 8A2IrU_0QSf8AafCqNzOdl/2016-02-23 12:43:19
+12:43:20 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+12:43:20 INFO event: c/g/un: 114381395495050993911/114381395495050993911/Daisy Burn
+12:43:20 INFO event: len/tx: 48/TL;DR (2 stored):
+1. test 4d ago
+2. test2 4d ago
+12:45:43 INFO event: eid/dt: 8A2IrU_0QSf8AafUORih_W/2016-02-23 12:45:43
+12:45:43 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+12:45:43 INFO event: c/g/un: 105205364708729768576/105205364708729768576/Kaeel L.
+12:45:43 INFO event: len/tx: 50/Iniziate con FVGRN, alto adriatico e la cena di PN
+12:48:50 INFO event: eid/dt: 8A2IrU_0QSf8AafqA7nqMh/2016-02-23 12:48:50
+12:48:50 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+12:48:50 INFO event: c/g/un: 113227689978504931898/113227689978504931898/Andrea Forlin
+12:48:50 INFO event: len/tx: 3/Yes
+12:49:21 INFO event: eid/dt: 8A2IrU_0QSf8AaftxKdqcs/2016-02-23 12:49:21
+12:49:21 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+12:49:21 INFO event: c/g/un: 113227689978504931898/113227689978504931898/Andrea Forlin
+12:49:21 INFO event: len/tx: 44/Un giorno @Gad mi spieghi l'utilità del tldr
+12:49:21 INFO root: get_1on1: remembered UgxMqRbAYyqaJd_hVzB4AaABAagBv_DXAQ for 113227689978504931898
+12:49:21 INFO plugins.mentions: @mention 'Gad' in 'Hangout BOT workgroup' (Ugx2rN2i1Or-t_9iE4N4AaABAQ)
+12:49:21 INFO plugins.subscribe: keyword 'gad' in 'Hangout BOT workgroup' (Ugx2rN2i1Or-t_9iE4N4AaABAQ)
+12:49:21 INFO root: get_1on1: remembered Ugzc9QDaeT1UGq7mXKZ4AaABAagBsf2ODQ for 113233973177106453014
+12:49:22 INFO plugins.subscribe: Michael Snidaro (113233973177106453014) alerted via 1on1 (Ugzc9QDaeT1UGq7mXKZ4AaABAagBsf2ODQ)
+12:49:22 INFO event: eid/dt: 8A2khb34iE28Aafu43Ks0U/2016-02-23 12:49:22
+12:49:22 INFO event: cid/cn: Ugzc9QDaeT1UGq7mXKZ4AaABAagBsf2ODQ/Michael Snidaro
+12:49:22 INFO event: c/g/un: 114381395495050993911/114381395495050993911/Daisy Burn
+12:49:22 INFO event: len/tx: 100/Andrea Forlin mentioned 'gad' in Hangout BOT workgroup:
+Un giorno @Gad mi spieghi l'utilità del tldr
+12:51:48 INFO event: eid/dt: 8A2IrU_0QSf8AagAvpwoCF/2016-02-23 12:51:48
+12:51:48 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+12:51:48 INFO event: c/g/un: 113233973177106453014/113233973177106453014/Michael Snidaro
+12:51:48 INFO event: len/tx: 59/indispensabile, quando hai link da tenere a portata di mano
+12:52:08 INFO event: eid/dt: 8A2IrU_0QSf8AagDLaE8sC/2016-02-23 12:52:08
+12:52:08 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+12:52:08 INFO event: c/g/un: 113233973177106453014/113233973177106453014/Michael Snidaro
+12:52:08 INFO event: len/tx: 77/ad esempio, nel canale per i nuovi, abbiamo dei shortlink a guide per neofiti
+12:52:18 INFO event: eid/dt: 8A2IrU_0QSf8AagEWvLK4g/2016-02-23 12:52:17
+12:52:18 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+12:52:18 INFO event: c/g/un: 113233973177106453014/113233973177106453014/Michael Snidaro
+12:52:18 INFO event: len/tx: 51/nel coordinamento abbiamo il link alla trello board
+12:52:46 INFO event: eid/dt: 8A2IrU_0QSf8AagHuv7erS/2016-02-23 12:52:45
+12:52:46 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+12:52:46 INFO event: c/g/un: 113233973177106453014/113233973177106453014/Michael Snidaro
+12:52:46 INFO event: len/tx: 100/insomma, cosette che se vengono inserite nel nome dell'hangout si perdono perché non le vede nessuno
+12:53:16 INFO event: eid/dt: 8A2IrU_0QSf8AagL_oIT3I/2016-02-23 12:53:15
+12:53:16 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+12:53:16 INFO event: c/g/un: 113233973177106453014/113233973177106453014/Michael Snidaro
+12:53:16 INFO event: len/tx: 133/quando si fanno le operazioni, nel tldr inserisci link a materiale condiviso (come i json) oppure i dati di accesso alle op su reswue
+12:59:37 INFO event: eid/dt: 8A2IrU_0QSf8Aah46Hs7Ef/2016-02-23 12:59:36
+12:59:37 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+12:59:37 INFO event: c/g/un: 113227689978504931898/113227689978504931898/Andrea Forlin
+12:59:37 INFO event: len/tx: 30/Ok allora serve come una lista
+13:02:51 INFO event: eid/dt: 8A2IrU_0QSf8AahRqnw_n0/2016-02-23 13:02:51
+13:02:51 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+13:02:51 INFO event: c/g/un: 113233973177106453014/113233973177106453014/Michael Snidaro
+13:02:51 INFO event: len/tx: 6/esatto
+13:03:00 INFO event: eid/dt: 8A2IrU_0QSf8AahSt4zLmp/2016-02-23 13:02:59
+13:03:00 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+13:03:00 INFO event: c/g/un: 113233973177106453014/113233973177106453014/Michael Snidaro
+13:03:00 INFO event: len/tx: 21/tecnicamente, lo è  ☺
+13:34:25 INFO event: eid/dt: 8A2IrU_0QSf8Aal30J7ZEU/2016-02-23 13:34:25
+13:34:25 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+13:34:25 INFO event: c/g/un: 113233973177106453014/113233973177106453014/Michael Snidaro
+13:34:25 INFO event: len/tx: 42/Possiamo cominciare a implementare il BOT?
+13:35:08 INFO event: eid/dt: 8A2IrU_0QSf8Aal8GXSIeU/2016-02-23 13:35:08
+13:35:08 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+13:35:08 INFO event: c/g/un: 113233973177106453014/113233973177106453014/Michael Snidaro
+13:35:08 INFO event: len/tx: 33/Il plugin di traduzione è online?
+13:37:38 INFO event: eid/dt: 8A2IrU_0QSf8AalQZYtDZe/2016-02-23 13:37:37
+13:37:38 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+13:37:38 INFO event: c/g/un: 113227689978504931898/113227689978504931898/Andrea Forlin
+13:37:38 INFO event: len/tx: 4/Che?
+13:37:39 INFO event: eid/dt: 8A2IrU_0QSf8AalQgdU8ph/2016-02-23 13:37:39
+13:37:39 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+13:37:39 INFO event: c/g/un: 113227689978504931898/113227689978504931898/Andrea Forlin
+13:37:39 INFO event: len/tx: 51/Implementare cosa? Hai terminato la localizzazione?
+13:37:55 INFO event: eid/dt: 8A2IrU_0QSf8AalSgUJYhY/2016-02-23 13:37:55
+13:37:55 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+13:37:55 INFO event: c/g/un: 113233973177106453014/113233973177106453014/Michael Snidaro
+13:37:55 INFO event: len/tx: 14/Ehm... Quasi 😅
+13:38:23 INFO event: eid/dt: 8A2IrU_0QSf8AalW3tDOoX/2016-02-23 13:38:23
+13:38:23 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+13:38:23 INFO event: c/g/un: 113227689978504931898/113227689978504931898/Andrea Forlin
+13:38:23 INFO event: len/tx: 55/Ok dai l'importante è che siamo a buon punto con quella
+13:38:28 INFO event: eid/dt: 8A2IrU_0QSf8AalWfL5ZNA/2016-02-23 13:38:28
+13:38:28 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+13:38:28 INFO event: c/g/un: 113227689978504931898/113227689978504931898/Andrea Forlin
+13:38:28 INFO event: len/tx: 1/😂
+13:38:54 INFO event: eid/dt: 8A2IrU_0QSf8AalZszgiKi/2016-02-23 13:38:54
+13:38:54 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+13:38:54 INFO event: c/g/un: 113233973177106453014/113233973177106453014/Michael Snidaro
+13:38:54 INFO event: len/tx: 79/Ci sono campi che non capisco ed altri in cui i comandi fanno parte delle frasi
+13:40:02 INFO event: eid/dt: 8A2IrU_0QSf8Aalh8Tkx78/2016-02-23 13:40:01
+13:40:02 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+13:40:02 INFO event: c/g/un: 113227689978504931898/113227689978504931898/Andrea Forlin
+13:40:02 INFO event: len/tx: 59/Poi mi metto in contatto x il rilascio della localizzazione
+13:40:17 INFO event: eid/dt: 8A2IrU_0QSf8Aalj2N3cLe/2016-02-23 13:40:17
+13:40:17 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+13:40:17 INFO event: c/g/un: 113227689978504931898/113227689978504931898/Andrea Forlin
+13:40:17 INFO event: len/tx: 33/Il plugin di traduzione è online?
+13:40:21 INFO event: eid/dt: 8A2IrU_0QSf8AaljSEI6xE/2016-02-23 13:40:20
+13:40:21 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+13:40:21 INFO event: c/g/un: 113227689978504931898/113227689978504931898/Andrea Forlin
+13:40:21 INFO event: len/tx: 6/Quale?
+13:40:39 INFO event: eid/dt: 8A2IrU_0QSf8AallgfUc6Q/2016-02-23 13:40:39
+13:40:39 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+13:40:39 INFO event: c/g/un: 113227689978504931898/113227689978504931898/Andrea Forlin
+13:40:39 INFO event: len/tx: 15/Quello /english
+13:40:39 INFO plugins.simplytranslate: "quello" to en
+13:40:40 INFO event: eid/dt: 8A2IrU_0QSf8Aallp0vsRS/2016-02-23 13:40:40
+13:40:40 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+13:40:40 INFO event: c/g/un: 114381395495050993911/114381395495050993911/Daisy Burn
+13:40:40 INFO event: len/tx: 13/english : one
+13:40:43 INFO event: eid/dt: 8A2IrU_0QSf8Aalm8mC2kG/2016-02-23 13:40:42
+13:40:43 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+13:40:43 INFO event: c/g/un: 113227689978504931898/113227689978504931898/Andrea Forlin
+13:40:43 INFO event: len/tx: 1/?
+13:40:45 INFO event: eid/dt: 8A2IrU_0QSf8AalmO_XW67/2016-02-23 13:40:44
+13:40:45 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+13:40:45 INFO event: c/g/un: 113233973177106453014/113233973177106453014/Michael Snidaro
+13:40:45 INFO event: len/tx: 6/Esatto
+13:40:47 INFO event: eid/dt: 8A2IrU_0QSf8AalmgT5sq6/2016-02-23 13:40:47
+13:40:47 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+13:40:47 INFO event: c/g/un: 113227689978504931898/113227689978504931898/Andrea Forlin
+13:40:47 INFO event: len/tx: 2/Si
+13:41:07 INFO event: eid/dt: 8A2IrU_0QSf8Aalp8MgvFk/2016-02-23 13:41:07
+13:41:07 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+13:41:07 INFO event: c/g/un: 113227689978504931898/113227689978504931898/Andrea Forlin
+13:41:07 INFO event: len/tx: 16/Fanculo /Chinese
+13:41:07 INFO plugins.simplytranslate: "fanculo" to zh
+13:41:08 INFO event: eid/dt: 8A2IrU_0QSf8AalpE8vPnr/2016-02-23 13:41:08
+13:41:08 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+13:41:08 INFO event: c/g/un: 114381395495050993911/114381395495050993911/Daisy Burn
+13:41:08 INFO event: len/tx: 13/chinese : 他妈的
+13:41:14 INFO event: eid/dt: 8A2IrU_0QSf8AalpzShsQD/2016-02-23 13:41:14
+13:41:14 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+13:41:14 INFO event: c/g/un: 113227689978504931898/113227689978504931898/Andrea Forlin
+13:41:14 INFO event: len/tx: 1/😂
+13:41:27 INFO event: eid/dt: 8A2IrU_0QSf8AalrVchRo2/2016-02-23 13:41:26
+13:41:27 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+13:41:27 INFO event: c/g/un: 113227689978504931898/113227689978504931898/Andrea Forlin
+13:41:27 INFO event: len/tx: 20/Non so se è corretto
+13:41:37 INFO event: eid/dt: 8A2IrU_0QSf8AalsodRi9B/2016-02-23 13:41:37
+13:41:37 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+13:41:37 INFO event: c/g/un: 113233973177106453014/113233973177106453014/Michael Snidaro
+13:41:37 INFO event: len/tx: 12/他妈的 /English
+13:41:37 INFO plugins.simplytranslate: "他妈的" to en
+13:41:38 INFO event: eid/dt: 8A2IrU_0QSf8AalsuOIe-x/2016-02-23 13:41:38
+13:41:38 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+13:41:38 INFO event: c/g/un: 114381395495050993911/114381395495050993911/Daisy Burn
+13:41:38 INFO event: len/tx: 14/english : Fuck
+13:41:45 INFO event: eid/dt: 8A2IrU_0QSf8AaltgHjkyq/2016-02-23 13:41:44
+13:41:45 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+13:41:45 INFO event: c/g/un: 113227689978504931898/113227689978504931898/Andrea Forlin
+13:41:45 INFO event: len/tx: 3/Yea
+13:41:55 INFO event: eid/dt: 8A2IrU_0QSf8AaluuT-CgT/2016-02-23 13:41:54
+13:41:55 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+13:41:55 INFO event: c/g/un: 113233973177106453014/113233973177106453014/Michael Snidaro
+13:41:55 INFO event: len/tx: 3/😂😂😂
+13:42:01 INFO event: eid/dt: 8A2IrU_0QSf8AalvfBmWzD/2016-02-23 13:42:00
+13:42:01 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+13:42:01 INFO event: c/g/un: 113227689978504931898/113227689978504931898/Andrea Forlin
+13:42:01 INFO event: len/tx: 12/他妈的 /Italian
+13:42:01 INFO plugins.simplytranslate: "他妈的" to it
+13:42:02 INFO event: eid/dt: 8A2IrU_0QSf8AalvkgiGq-/2016-02-23 13:42:01
+13:42:02 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+13:42:02 INFO event: c/g/un: 114381395495050993911/114381395495050993911/Daisy Burn
+13:42:02 INFO event: len/tx: 17/italian : inferno
+13:42:07 INFO event: eid/dt: 8A2IrU_0QSf8AalwSNRpmh/2016-02-23 13:42:07
+13:42:07 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+13:42:07 INFO event: c/g/un: 113227689978504931898/113227689978504931898/Andrea Forlin
+13:42:07 INFO event: len/tx: 1/😆
+13:42:08 INFO event: eid/dt: 8A2IrU_0QSf8AalwXa1Lzq/2016-02-23 13:42:08
+13:42:08 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+13:42:08 INFO event: c/g/un: 113233973177106453014/113233973177106453014/Michael Snidaro
+13:42:08 INFO event: len/tx: 10/Looooooool
+13:42:24 INFO event: eid/dt: 8A2IrU_0QSf8AalyXpZt58/2016-02-23 13:42:24
+13:42:24 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+13:42:24 INFO event: c/g/un: 113233973177106453014/113233973177106453014/Michael Snidaro
+13:42:24 INFO event: len/tx: 16/Inferno /chinese
+13:42:24 INFO plugins.simplytranslate: "inferno" to zh
+13:42:25 INFO event: eid/dt: 8A2IrU_0QSf8AalycbRCTb/2016-02-23 13:42:25
+13:42:25 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+13:42:25 INFO event: c/g/un: 114381395495050993911/114381395495050993911/Daisy Burn
+13:42:25 INFO event: len/tx: 12/chinese : 地狱
+13:42:51 INFO event: eid/dt: 8A2IrU_0QSf8Aam0mz9O6r/2016-02-23 13:42:51
+13:42:51 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+13:42:51 INFO event: c/g/un: 113233973177106453014/113233973177106453014/Michael Snidaro
+13:42:51 INFO event: len/tx: 11/地狱 /English
+13:42:51 INFO plugins.simplytranslate: "地狱" to en
+13:42:52 INFO event: eid/dt: 8A2IrU_0QSf8Aam0sx_pqk/2016-02-23 13:42:51
+13:42:52 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+13:42:52 INFO event: c/g/un: 114381395495050993911/114381395495050993911/Daisy Burn
+13:42:52 INFO event: len/tx: 14/english : hell
+13:43:01 INFO event: eid/dt: 8A2IrU_0QSf8Aam22hyI4g/2016-02-23 13:43:01
+13:43:01 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+13:43:01 INFO event: c/g/un: 113227689978504931898/113227689978504931898/Andrea Forlin
+13:43:01 INFO event: len/tx: 3/Umm
+13:43:08 INFO event: eid/dt: 8A2IrU_0QSf8Aam2o7EFDS/2016-02-23 13:43:07
+13:43:08 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+13:43:08 INFO event: c/g/un: 113227689978504931898/113227689978504931898/Andrea Forlin
+13:43:08 INFO event: len/tx: 9/Confusion
+13:43:11 INFO event: eid/dt: 8A2IrU_0QSf8Aam3CDIOMf/2016-02-23 13:43:10
+13:43:11 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+13:43:11 INFO event: c/g/un: 113227689978504931898/113227689978504931898/Andrea Forlin
+13:43:11 INFO event: len/tx: 2/We
+13:43:20 INFO event: eid/dt: 8A2IrU_0QSf8Aam4O6xALJ/2016-02-23 13:43:20
+13:43:20 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+13:43:20 INFO event: c/g/un: 113227689978504931898/113227689978504931898/Andrea Forlin
+13:43:20 INFO event: len/tx: 17/Parola più facile
+13:43:34 INFO event: eid/dt: 8A2IrU_0QSf8Aam64osReJ/2016-02-23 13:43:34
+13:43:34 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+13:43:34 INFO event: c/g/un: 113227689978504931898/113227689978504931898/Andrea Forlin
+13:43:34 INFO event: len/tx: 16/Stronzo /Chinese
+13:43:34 INFO plugins.simplytranslate: "stronzo" to zh
+13:43:35 INFO event: eid/dt: 8A2IrU_0QSf8Aam6C3J60d/2016-02-23 13:43:35
+13:43:35 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+13:43:35 INFO event: c/g/un: 114381395495050993911/114381395495050993911/Daisy Burn
+13:43:35 INFO event: len/tx: 12/chinese : 屁眼
+13:44:02 INFO event: eid/dt: 8A2IrU_0QSf8Aam9Riu12t/2016-02-23 13:44:02
+13:44:02 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+13:44:02 INFO event: c/g/un: 113233973177106453014/113233973177106453014/Michael Snidaro
+13:44:02 INFO event: len/tx: 11/屁眼 /English
+13:44:02 INFO plugins.simplytranslate: "屁眼" to en
+13:44:03 INFO event: eid/dt: 8A2IrU_0QSf8Aam9XaWQTe/2016-02-23 13:44:02
+13:44:03 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+13:44:03 INFO event: c/g/un: 114381395495050993911/114381395495050993911/Daisy Burn
+13:44:03 INFO event: len/tx: 17/english : Asshole
+13:44:11 INFO event: eid/dt: 8A2IrU_0QSf8AamAba2s7X/2016-02-23 13:44:11
+13:44:11 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+13:44:11 INFO event: c/g/un: 113227689978504931898/113227689978504931898/Andrea Forlin
+13:44:11 INFO event: len/tx: 2/Ok
+13:44:27 INFO event: eid/dt: 8A2IrU_0QSf8AamCVi3Rq9/2016-02-23 13:44:27
+13:44:27 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+13:44:27 INFO event: c/g/un: 113233973177106453014/113233973177106453014/Michael Snidaro
+13:44:27 INFO event: len/tx: 11/屁眼 /italian
+13:44:27 INFO plugins.simplytranslate: "屁眼" to it
+13:44:28 INFO event: eid/dt: 8A2IrU_0QSf8AamCaTIx5E/2016-02-23 13:44:27
+13:44:28 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+13:44:28 INFO event: c/g/un: 114381395495050993911/114381395495050993911/Daisy Burn
+13:44:28 INFO event: len/tx: 17/italian : Asshole
+13:45:09 INFO event: eid/dt: 8A2IrU_0QSf8AamHay9kRl/2016-02-23 13:45:08
+13:45:09 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+13:45:09 INFO event: c/g/un: 113233973177106453014/113233973177106453014/Michael Snidaro
+13:45:09 INFO event: len/tx: 7/Ah, beh
+13:45:12 INFO event: eid/dt: 8A2IrU_0QSf8AamI-vGjVa/2016-02-23 13:45:12
+13:45:12 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+13:45:12 INFO event: c/g/un: 113233973177106453014/113233973177106453014/Michael Snidaro
+13:45:12 INFO event: len/tx: 1/😁
+13:46:53 INFO event: eid/dt: 8A2IrU_0QSf8AamUJpIrxK/2016-02-23 13:46:53
+13:46:53 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+13:46:53 INFO event: c/g/un: 113227689978504931898/113227689978504931898/Andrea Forlin
+13:46:53 INFO event: len/tx: 59/Vabbè il sito dove prende le traduzioni è farlocco /English
+13:46:53 INFO plugins.simplytranslate: "vabbè il sito dove prende le traduzioni è farlocco" to en
+13:46:54 INFO event: eid/dt: 8A2IrU_0QSf8AamUS4UyLx/2016-02-23 13:46:54
+13:46:54 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+13:46:54 INFO event: c/g/un: 114381395495050993911/114381395495050993911/Daisy Burn
+13:46:54 INFO event: len/tx: 67/english : oh well the site where it takes the translations is phony
+13:47:20 INFO event: eid/dt: 8A2IrU_0QSf8AamXehVUMB/2016-02-23 13:47:20
+13:47:20 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+13:47:20 INFO event: c/g/un: 113227689978504931898/113227689978504931898/Andrea Forlin
+13:47:20 INFO event: len/tx: 14/Phony /Italian
+13:47:20 INFO plugins.simplytranslate: "phony" to it
+13:47:21 INFO event: eid/dt: 8A2IrU_0QSf8AamXkQnVVd/2016-02-23 13:47:21
+13:47:21 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+13:47:21 INFO event: c/g/un: 114381395495050993911/114381395495050993911/Daisy Burn
+13:47:21 INFO event: len/tx: 15/italian : falso
+13:47:35 INFO event: eid/dt: 8A2IrU_0QSf8AamZQUVtI8/2016-02-23 13:47:34
+13:47:35 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+13:47:35 INFO event: c/g/un: 113227689978504931898/113227689978504931898/Andrea Forlin
+13:47:35 INFO event: len/tx: 5/Bè be
+13:48:01 INFO event: eid/dt: 8A2IrU_0QSf8AambfS7gql/2016-02-23 13:48:01
+13:48:01 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+13:48:01 INFO event: c/g/un: 113233973177106453014/113233973177106453014/Michael Snidaro
+13:48:01 INFO event: len/tx: 27/Mi sembra che faccia il suo
+13:48:14 INFO event: eid/dt: 8A2IrU_0QSf8AamdE6DffU/2016-02-23 13:48:14
+13:48:14 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+13:48:14 INFO event: c/g/un: 113227689978504931898/113227689978504931898/Andrea Forlin
+13:48:14 INFO event: len/tx: 15/L'hai aggiunto?
+13:48:40 INFO event: eid/dt: 8A2IrU_0QSf8AamgNh-iGp/2016-02-23 13:48:40
+13:48:40 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+13:48:40 INFO event: c/g/un: 113227689978504931898/113227689978504931898/Andrea Forlin
+13:48:40 INFO event: len/tx: 26/Devo cambiare l'auto reply
+13:49:02 INFO event: eid/dt: 8A2IrU_0QSf8Aamj8p4_HP/2016-02-23 13:49:02
+13:49:02 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+13:49:02 INFO event: c/g/un: 113227689978504931898/113227689978504931898/Andrea Forlin
+13:49:02 INFO event: len/tx: 10/Ciao Daisy
+13:49:05 INFO event: eid/dt: 8A2IrU_0QSf8AamjVQfxr6/2016-02-23 13:49:05
+13:49:05 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+13:49:05 INFO event: c/g/un: 113227689978504931898/113227689978504931898/Andrea Forlin
+13:49:05 INFO event: len/tx: 15/Deve funzionare
+13:49:35 INFO event: eid/dt: 8A2IrU_0QSf8Aamn5Oq2lT/2016-02-23 13:49:35
+13:49:35 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+13:49:35 INFO event: c/g/un: 113227689978504931898/113227689978504931898/Andrea Forlin
+13:49:35 INFO event: len/tx: 39/L'auto reply è frase / frasi e risposta
+13:49:38 INFO event: eid/dt: 8A2IrU_0QSf8AamnRpBTA8/2016-02-23 13:49:37
+13:49:38 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+13:49:38 INFO event: c/g/un: 113227689978504931898/113227689978504931898/Andrea Forlin
+13:49:38 INFO event: len/tx: 6/Uovaaa
+13:49:49 INFO event: eid/dt: 8A2IrU_0QSf8AamonuIV41/2016-02-23 13:49:49
+13:49:49 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+13:49:49 INFO event: c/g/un: 113227689978504931898/113227689978504931898/Andrea Forlin
+13:49:49 INFO event: len/tx: 7/Uovaaaa
+13:49:49 INFO plugins.autoreply: matched chat: uovaaaa
+13:49:50 INFO event: eid/dt: 8A2IrU_0QSf8AamotXTqdl/2016-02-23 13:49:49
+13:49:50 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+13:49:50 INFO event: c/g/un: 114381395495050993911/114381395495050993911/Daisy Burn
+13:49:50 INFO event: len/tx: 5/pirla
+13:49:57 INFO event: eid/dt: 8A2IrU_0QSf8AamppsyY-X/2016-02-23 13:49:57
+13:49:57 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+13:49:57 INFO event: c/g/un: 113227689978504931898/113227689978504931898/Andrea Forlin
+13:49:57 INFO event: len/tx: 1/🙌
+13:50:19 INFO event: eid/dt: 8A2IrU_0QSf8AamsXdCgdN/2016-02-23 13:50:19
+13:50:19 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+13:50:19 INFO event: c/g/un: 113227689978504931898/113227689978504931898/Andrea Forlin
+13:50:19 INFO event: len/tx: 11/! Autoreply
+13:50:19 INFO config: /home/andrea/.local/share/hangupsbot/config.json read
+13:50:20 INFO event: eid/dt: 8A2IrU_0QSf8AamsbBHw09/2016-02-23 13:50:20
+13:50:20 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+13:50:20 INFO event: c/g/un: 114381395495050993911/114381395495050993911/Daisy Burn
+13:50:20 INFO event: len/tx: 113/Autoreply config: 
+ [[['hi bot', 'hello bot'], 'Hello world!'], [['uovaaaaaa'], 'pirla'], [['uovaaaa'], 'pirla']]
+13:50:32 INFO event: eid/dt: 8A2IrU_0QSf8Aamu3OFJSx/2016-02-23 13:50:32
+13:50:32 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+13:50:32 INFO event: c/g/un: 113227689978504931898/113227689978504931898/Andrea Forlin
+13:50:32 INFO event: len/tx: 4/Ecco
+13:52:34 INFO event: eid/dt: 8A2IrU_0QSf8Aan7yrfEWP/2016-02-23 13:52:34
+13:52:34 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+13:52:34 INFO event: c/g/un: 113227689978504931898/113227689978504931898/Andrea Forlin
+13:52:34 INFO event: len/tx: 34/La userguide si può personalizzare
+13:52:45 INFO event: eid/dt: 8A2IrU_0QSf8Aan9JqxxwP/2016-02-23 13:52:45
+13:52:45 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+13:52:45 INFO event: c/g/un: 113227689978504931898/113227689978504931898/Andrea Forlin
+13:52:45 INFO event: len/tx: 32/Se vuoi fai un documento di help
+13:52:55 INFO event: eid/dt: 8A2IrU_0QSf8AanAWKdVfI/2016-02-23 13:52:55
+13:52:55 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+13:52:55 INFO event: c/g/un: 113227689978504931898/113227689978504931898/Andrea Forlin
+13:52:55 INFO event: len/tx: 20/E sistemiamo il link
+13:53:12 INFO event: eid/dt: 8A2IrU_0QSf8AanCa-dPA0/2016-02-23 13:53:12
+13:53:12 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+13:53:12 INFO event: c/g/un: 113227689978504931898/113227689978504931898/Andrea Forlin
+13:53:12 INFO event: len/tx: 25/! BOT tldr userguide @Gad
+13:53:12 INFO root: get_1on1: remembered UgxMqRbAYyqaJd_hVzB4AaABAagBv_DXAQ for 113227689978504931898
+13:53:12 INFO plugins.mentions: @mention 'Gad' in 'Hangout BOT workgroup' (Ugx2rN2i1Or-t_9iE4N4AaABAQ)
+13:53:12 INFO plugins.subscribe: keyword 'gad' in 'Hangout BOT workgroup' (Ugx2rN2i1Or-t_9iE4N4AaABAQ)
+13:53:12 INFO root: get_1on1: remembered Ugzc9QDaeT1UGq7mXKZ4AaABAagBsf2ODQ for 113233973177106453014
+13:53:13 INFO plugins.subscribe: Michael Snidaro (113233973177106453014) alerted via 1on1 (Ugzc9QDaeT1UGq7mXKZ4AaABAagBsf2ODQ)
+13:53:13 INFO event: eid/dt: 8A2khb34iE28AanCgYstDS/2016-02-23 13:53:12
+13:53:13 INFO event: cid/cn: Ugzc9QDaeT1UGq7mXKZ4AaABAagBsf2ODQ/Michael Snidaro
+13:53:13 INFO event: c/g/un: 114381395495050993911/114381395495050993911/Daisy Burn
+13:53:13 INFO event: len/tx: 81/Andrea Forlin mentioned 'gad' in Hangout BOT workgroup:
+! BOT tldr userguide @Gad
+13:53:13 INFO event: eid/dt: 8A2IrU_0QSf8AanCjXHZ6I/2016-02-23 13:53:13
+13:53:13 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+13:53:13 INFO event: c/g/un: 114381395495050993911/114381395495050993911/Daisy Burn
+13:53:13 INFO event: len/tx: 30/Andrea Forlin: Unknown Command
+13:53:28 INFO event: eid/dt: 8A2IrU_0QSf8AanEaWtoFa/2016-02-23 13:53:28
+13:53:28 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+13:53:28 INFO event: c/g/un: 113227689978504931898/113227689978504931898/Andrea Forlin
+13:53:28 INFO event: len/tx: 21/! tldr userguide @Gad
+13:53:28 INFO root: get_1on1: remembered UgxMqRbAYyqaJd_hVzB4AaABAagBv_DXAQ for 113227689978504931898
+13:53:28 INFO plugins.mentions: @mention 'Gad' in 'Hangout BOT workgroup' (Ugx2rN2i1Or-t_9iE4N4AaABAQ)
+13:53:28 INFO plugins.subscribe: keyword 'gad' in 'Hangout BOT workgroup' (Ugx2rN2i1Or-t_9iE4N4AaABAQ)
+13:53:28 INFO root: get_1on1: remembered Ugzc9QDaeT1UGq7mXKZ4AaABAagBsf2ODQ for 113233973177106453014
+13:53:29 INFO plugins.subscribe: Michael Snidaro (113233973177106453014) alerted via 1on1 (Ugzc9QDaeT1UGq7mXKZ4AaABAagBsf2ODQ)
+13:53:29 INFO event: eid/dt: 8A2khb34iE28AanEfW-AMk/2016-02-23 13:53:29
+13:53:29 INFO event: cid/cn: Ugzc9QDaeT1UGq7mXKZ4AaABAagBsf2ODQ/Michael Snidaro
+13:53:29 INFO event: c/g/un: 114381395495050993911/114381395495050993911/Daisy Burn
+13:53:29 INFO event: len/tx: 77/Andrea Forlin mentioned 'gad' in Hangout BOT workgroup:
+! tldr userguide @Gad
+13:53:29 INFO event: eid/dt: 8A2IrU_0QSf8AanEiYEmjZ/2016-02-23 13:53:29
+13:53:29 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+13:53:29 INFO event: c/g/un: 114381395495050993911/114381395495050993911/Daisy Burn
+13:53:29 INFO event: len/tx: 39/userguide @Gad added to TL;DR. Count: 3
+13:53:30 INFO config: /home/andrea/.local/share/hangupsbot/memory.json write 0.0626070499420166
+13:53:45 INFO event: eid/dt: 8A2IrU_0QSf8AanGccpl-u/2016-02-23 13:53:45
+13:53:45 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+13:53:45 INFO event: c/g/un: 113227689978504931898/113227689978504931898/Andrea Forlin
+13:53:45 INFO event: len/tx: 30/! BOT tldr localizzazione @Gad
+13:53:45 INFO root: get_1on1: remembered UgxMqRbAYyqaJd_hVzB4AaABAagBv_DXAQ for 113227689978504931898
+13:53:45 INFO plugins.mentions: @mention 'Gad' in 'Hangout BOT workgroup' (Ugx2rN2i1Or-t_9iE4N4AaABAQ)
+13:53:45 INFO plugins.subscribe: keyword 'gad' in 'Hangout BOT workgroup' (Ugx2rN2i1Or-t_9iE4N4AaABAQ)
+13:53:45 INFO root: get_1on1: remembered Ugzc9QDaeT1UGq7mXKZ4AaABAagBsf2ODQ for 113233973177106453014
+13:53:45 INFO plugins.subscribe: Michael Snidaro (113233973177106453014) alerted via 1on1 (Ugzc9QDaeT1UGq7mXKZ4AaABAagBsf2ODQ)
+13:53:45 INFO event: eid/dt: 8A2khb34iE28AanGhEe5pI/2016-02-23 13:53:45
+13:53:45 INFO event: cid/cn: Ugzc9QDaeT1UGq7mXKZ4AaABAagBsf2ODQ/Michael Snidaro
+13:53:45 INFO event: c/g/un: 114381395495050993911/114381395495050993911/Daisy Burn
+13:53:45 INFO event: len/tx: 86/Andrea Forlin mentioned 'gad' in Hangout BOT workgroup:
+! BOT tldr localizzazione @Gad
+13:53:46 INFO event: eid/dt: 8A2IrU_0QSf8AanGkDPI51/2016-02-23 13:53:46
+13:53:46 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+13:53:46 INFO event: c/g/un: 114381395495050993911/114381395495050993911/Daisy Burn
+13:53:46 INFO event: len/tx: 30/Andrea Forlin: Unknown Command
+13:53:49 INFO event: eid/dt: 8A2IrU_0QSf8AanH5mWwyA/2016-02-23 13:53:49
+13:53:49 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+13:53:49 INFO event: c/g/un: 113227689978504931898/113227689978504931898/Andrea Forlin
+13:53:49 INFO event: len/tx: 1/😂
+13:54:03 INFO event: eid/dt: 8A2IrU_0QSf8AanInyIlvK/2016-02-23 13:54:02
+13:54:03 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+13:54:03 INFO event: c/g/un: 113227689978504931898/113227689978504931898/Andrea Forlin
+13:54:03 INFO event: len/tx: 27/!  tldr localizzazione @Gad
+13:54:03 INFO root: get_1on1: remembered UgxMqRbAYyqaJd_hVzB4AaABAagBv_DXAQ for 113227689978504931898
+13:54:03 INFO plugins.mentions: @mention 'Gad' in 'Hangout BOT workgroup' (Ugx2rN2i1Or-t_9iE4N4AaABAQ)
+13:54:03 INFO plugins.subscribe: keyword 'gad' in 'Hangout BOT workgroup' (Ugx2rN2i1Or-t_9iE4N4AaABAQ)
+13:54:03 INFO root: get_1on1: remembered Ugzc9QDaeT1UGq7mXKZ4AaABAagBsf2ODQ for 113233973177106453014
+13:54:03 INFO plugins.subscribe: Michael Snidaro (113233973177106453014) alerted via 1on1 (Ugzc9QDaeT1UGq7mXKZ4AaABAagBsf2ODQ)
+13:54:03 INFO event: eid/dt: 8A2khb34iE28AanIsjBWOc/2016-02-23 13:54:03
+13:54:03 INFO event: cid/cn: Ugzc9QDaeT1UGq7mXKZ4AaABAagBsf2ODQ/Michael Snidaro
+13:54:03 INFO event: c/g/un: 114381395495050993911/114381395495050993911/Daisy Burn
+13:54:03 INFO event: len/tx: 83/Andrea Forlin mentioned 'gad' in Hangout BOT workgroup:
+!  tldr localizzazione @Gad
+13:54:04 INFO event: eid/dt: 8A2IrU_0QSf8AanIvhhBHc/2016-02-23 13:54:03
+13:54:04 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+13:54:04 INFO event: c/g/un: 114381395495050993911/114381395495050993911/Daisy Burn
+13:54:04 INFO event: len/tx: 44/localizzazione @Gad added to TL;DR. Count: 4
+13:54:05 INFO config: /home/andrea/.local/share/hangupsbot/memory.json write 0.010468006134033203
+13:54:10 INFO event: eid/dt: 8A2IrU_0QSf8AanJce3rOB/2016-02-23 13:54:09
+13:54:10 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+13:54:10 INFO event: c/g/un: 113227689978504931898/113227689978504931898/Andrea Forlin
+13:54:10 INFO event: len/tx: 5/!tldr
+13:54:17 INFO event: eid/dt: 8A2IrU_0QSf8AanKXqccJR/2016-02-23 13:54:17
+13:54:17 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+13:54:17 INFO event: c/g/un: 113227689978504931898/113227689978504931898/Andrea Forlin
+13:54:17 INFO event: len/tx: 6/! Tldr
+13:54:18 INFO event: eid/dt: 8A2IrU_0QSf8AanKbfweYK/2016-02-23 13:54:17
+13:54:18 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+13:54:18 INFO event: c/g/un: 114381395495050993911/114381395495050993911/Daisy Burn
+13:54:18 INFO event: len/tx: 105/TL;DR (4 stored):
+1. test 4d ago
+2. test2 4d ago
+3. userguide @Gad 48s ago
+4. localizzazione @Gad 13s ago
+13:54:41 INFO event: eid/dt: 8A2IrU_0QSf8AanNPbUmja/2016-02-23 13:54:40
+13:54:41 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+13:54:41 INFO event: c/g/un: 113227689978504931898/113227689978504931898/Andrea Forlin
+13:54:41 INFO event: len/tx: 35/Ti ho trovato qualcosa da fare @Gad
+13:54:41 INFO root: get_1on1: remembered UgxMqRbAYyqaJd_hVzB4AaABAagBv_DXAQ for 113227689978504931898
+13:54:41 INFO plugins.mentions: @mention 'Gad' in 'Hangout BOT workgroup' (Ugx2rN2i1Or-t_9iE4N4AaABAQ)
+13:54:41 INFO plugins.subscribe: keyword 'gad' in 'Hangout BOT workgroup' (Ugx2rN2i1Or-t_9iE4N4AaABAQ)
+13:54:41 INFO root: get_1on1: remembered Ugzc9QDaeT1UGq7mXKZ4AaABAagBsf2ODQ for 113233973177106453014
+13:54:41 INFO plugins.subscribe: Michael Snidaro (113233973177106453014) alerted via 1on1 (Ugzc9QDaeT1UGq7mXKZ4AaABAagBsf2ODQ)
+13:54:41 INFO event: eid/dt: 8A2khb34iE28AanNUAP4R8/2016-02-23 13:54:41
+13:54:41 INFO event: cid/cn: Ugzc9QDaeT1UGq7mXKZ4AaABAagBsf2ODQ/Michael Snidaro
+13:54:41 INFO event: c/g/un: 114381395495050993911/114381395495050993911/Daisy Burn
+13:54:41 INFO event: len/tx: 91/Andrea Forlin mentioned 'gad' in Hangout BOT workgroup:
+Ti ho trovato qualcosa da fare @Gad
+13:55:03 INFO event: eid/dt: 8A2IrU_0QSf8AanQ9Q220z/2016-02-23 13:55:03
+13:55:03 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+13:55:03 INFO event: c/g/un: 113227689978504931898/113227689978504931898/Andrea Forlin
+13:55:03 INFO event: len/tx: 15/! Tldr remove 1
+13:55:04 INFO event: eid/dt: 8A2IrU_0QSf8AanQDfp5g2/2016-02-23 13:55:03
+13:55:04 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+13:55:04 INFO event: c/g/un: 114381395495050993911/114381395495050993911/Daisy Burn
+13:55:04 INFO event: len/tx: 33/remove 1 added to TL;DR. Count: 5
+13:55:05 INFO config: /home/andrea/.local/share/hangupsbot/memory.json write 0.015337944030761719
+13:55:13 INFO event: eid/dt: 8A2IrU_0QSf8AanRKM1069/2016-02-23 13:55:12
+13:55:13 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+13:55:13 INFO event: c/g/un: 113227689978504931898/113227689978504931898/Andrea Forlin
+13:55:13 INFO event: len/tx: 15/! Tldr remove 2
+13:55:13 INFO event: eid/dt: 8A2IrU_0QSf8AanROfO7Pk/2016-02-23 13:55:13
+13:55:13 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+13:55:13 INFO event: c/g/un: 114381395495050993911/114381395495050993911/Daisy Burn
+13:55:13 INFO event: len/tx: 33/remove 2 added to TL;DR. Count: 6
+13:55:14 INFO config: /home/andrea/.local/share/hangupsbot/memory.json write 0.010734319686889648
+13:55:40 INFO event: eid/dt: 8A2IrU_0QSf8AanUbrq4th/2016-02-23 13:55:39
+13:55:40 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+13:55:40 INFO event: c/g/un: 113227689978504931898/113227689978504931898/Andrea Forlin
+13:55:40 INFO event: len/tx: 35/🙌 credo d'aver capito come funziona
+13:56:03 INFO event: eid/dt: 8A2IrU_0QSf8AanXRgdorT/2016-02-23 13:56:02
+13:56:03 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+13:56:03 INFO event: c/g/un: 113227689978504931898/113227689978504931898/Andrea Forlin
+13:56:03 INFO event: len/tx: 15/! Meme fuck yea
+13:56:03 INFO event: eid/dt: 8A2IrU_0QSf8AanXXkNNdi/2016-02-23 13:56:03
+13:56:03 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+13:56:03 INFO event: c/g/un: 114381395495050993911/114381395495050993911/Daisy Burn
+13:56:03 INFO event: len/tx: 30/Andrea Forlin: Unknown Command
+13:56:44 INFO event: eid/dt: 8A2IrU_0QSf8AanbXXm-Y3/2016-02-23 13:56:44
+13:56:44 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+13:56:44 INFO event: c/g/un: 105205364708729768576/105205364708729768576/Kaeel L.
+13:56:44 INFO event: len/tx: 13/Daisy /german
+13:56:44 INFO plugins.simplytranslate: "daisy" to de
+13:56:45 INFO event: eid/dt: 8A2IrU_0QSf8Aanbe4LWdy/2016-02-23 13:56:45
+13:56:45 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+13:56:45 INFO event: c/g/un: 114381395495050993911/114381395495050993911/Daisy Burn
+13:56:45 INFO event: len/tx: 22/german : Gänseblümchen
+13:57:35 INFO event: eid/dt: 8A2IrU_0QSf8AanhblSv2i/2016-02-23 13:57:34
+13:57:35 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+13:57:35 INFO event: c/g/un: 113233973177106453014/113233973177106453014/Michael Snidaro
+13:57:35 INFO event: len/tx: 6/! Tldr
+13:57:35 INFO event: eid/dt: 8A2IrU_0QSf8Aanhjn2N-g/2016-02-23 13:57:35
+13:57:35 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+13:57:35 INFO event: c/g/un: 114381395495050993911/114381395495050993911/Daisy Burn
+13:57:35 INFO event: len/tx: 141/TL;DR (6 stored):
+1. test 4d ago
+2. test2 4d ago
+3. userguide @Gad 4m ago
+4. localizzazione @Gad 3m ago
+5. remove 1 2m ago
+6. remove 2 2m ago
+13:57:45 INFO event: eid/dt: 8A2IrU_0QSf8AaniwW7V2I/2016-02-23 13:57:45
+13:57:45 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+13:57:45 INFO event: c/g/un: 113227689978504931898/113227689978504931898/Andrea Forlin
+13:57:45 INFO event: len/tx: 2/No
+13:57:47 INFO event: eid/dt: 8A2IrU_0QSf8AanjDiYBjj/2016-02-23 13:57:47
+13:57:47 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+13:57:47 INFO event: c/g/un: 113233973177106453014/113233973177106453014/Michael Snidaro
+13:57:47 INFO event: len/tx: 14/! Tldr clear 6
+13:57:48 INFO event: eid/dt: 8A2IrU_0QSf8AanjI6X9vr/2016-02-23 13:57:48
+13:57:48 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+13:57:48 INFO event: c/g/un: 114381395495050993911/114381395495050993911/Daisy Burn
+13:57:48 INFO event: len/tx: 29/TL;DR #6 removed - "remove 2"
+13:57:49 INFO config: /home/andrea/.local/share/hangupsbot/memory.json write 0.006253480911254883
+13:57:53 INFO event: eid/dt: 8A2IrU_0QSf8AanjxuS_N6/2016-02-23 13:57:53
+13:57:53 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+13:57:53 INFO event: c/g/un: 113227689978504931898/113227689978504931898/Andrea Forlin
+13:57:53 INFO event: len/tx: 1/😢
+13:58:04 INFO event: eid/dt: 8A2IrU_0QSf8AanlDkYt8O/2016-02-23 13:58:03
+13:58:04 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+13:58:04 INFO event: c/g/un: 113233973177106453014/113233973177106453014/Michael Snidaro
+13:58:04 INFO event: len/tx: 14/! Tldr clear 5
+13:58:04 INFO event: eid/dt: 8A2IrU_0QSf8AanlHwvsPo/2016-02-23 13:58:04
+13:58:04 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+13:58:04 INFO event: c/g/un: 114381395495050993911/114381395495050993911/Daisy Burn
+13:58:04 INFO event: len/tx: 29/TL;DR #5 removed - "remove 1"
+13:58:05 INFO config: /home/andrea/.local/share/hangupsbot/memory.json write 0.007104635238647461
+13:58:38 INFO event: eid/dt: 8A2IrU_0QSf8AanpQSwdF7/2016-02-23 13:58:38
+13:58:38 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+13:58:38 INFO event: c/g/un: 113227689978504931898/113227689978504931898/Andrea Forlin
+13:58:38 INFO event: len/tx: 49/! Tldr aggiungere meme plugin sul config @paraflu
+13:58:38 INFO root: get_1on1: remembered UgxMqRbAYyqaJd_hVzB4AaABAagBv_DXAQ for 113227689978504931898
+13:58:38 INFO plugins.mentions: @mention 'paraflu' in 'Hangout BOT workgroup' (Ugx2rN2i1Or-t_9iE4N4AaABAQ)
+13:58:39 INFO event: eid/dt: 8A2IrU_0QSf8AanpWG0lzj/2016-02-23 13:58:39
+13:58:39 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+13:58:39 INFO event: c/g/un: 114381395495050993911/114381395495050993911/Daisy Burn
+13:58:39 INFO event: len/tx: 67/aggiungere meme plugin sul config @paraflu added to TL;DR. Count: 5
+13:58:40 INFO config: /home/andrea/.local/share/hangupsbot/memory.json write 0.007975339889526367
+13:58:56 INFO event: eid/dt: 8A2IrU_0QSf8AanrcZZbzM/2016-02-23 13:58:56
+13:58:56 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+13:58:56 INFO event: c/g/un: 113233973177106453014/113233973177106453014/Michael Snidaro
+13:58:56 INFO event: len/tx: 14/! Tldr clear 1
+13:58:57 INFO event: eid/dt: 8A2IrU_0QSf8AanrggyWgp/2016-02-23 13:58:56
+13:58:57 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+13:58:57 INFO event: c/g/un: 114381395495050993911/114381395495050993911/Daisy Burn
+13:58:57 INFO event: len/tx: 25/TL;DR #1 removed - "test"
+13:58:58 INFO config: /home/andrea/.local/share/hangupsbot/memory.json write 0.006264925003051758
+13:59:01 INFO event: eid/dt: 8A2IrU_0QSf8AansFqqYfa/2016-02-23 13:59:01
+13:59:01 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+13:59:01 INFO event: c/g/un: 113233973177106453014/113233973177106453014/Michael Snidaro
+13:59:01 INFO event: len/tx: 14/! Tldr clear 2
+13:59:02 INFO event: eid/dt: 8A2IrU_0QSf8AansJyXFno/2016-02-23 13:59:02
+13:59:02 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+13:59:02 INFO event: c/g/un: 114381395495050993911/114381395495050993911/Daisy Burn
+13:59:02 INFO event: len/tx: 35/TL;DR #2 removed - "userguide @Gad"
+13:59:03 INFO config: /home/andrea/.local/share/hangupsbot/memory.json write 0.0062787532806396484
+13:59:09 INFO event: eid/dt: 8A2IrU_0QSf8AantBaCpWt/2016-02-23 13:59:09
+13:59:09 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+13:59:09 INFO event: c/g/un: 113233973177106453014/113233973177106453014/Michael Snidaro
+13:59:09 INFO event: len/tx: 10/Ops, sorry
+13:59:13 INFO event: eid/dt: 8A2IrU_0QSf8AantgYOITQ/2016-02-23 13:59:13
+13:59:13 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+13:59:13 INFO event: c/g/un: 113233973177106453014/113233973177106453014/Michael Snidaro
+13:59:13 INFO event: len/tx: 6/! Tldr
+13:59:14 INFO event: eid/dt: 8A2IrU_0QSf8Aantl-zUnW/2016-02-23 13:59:13
+13:59:14 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+13:59:14 INFO event: c/g/un: 114381395495050993911/114381395495050993911/Daisy Burn
+13:59:14 INFO event: len/tx: 117/TL;DR (3 stored):
+1. test2 4d ago
+2. localizzazione @Gad 5m ago
+3. aggiungere meme plugin sul config @paraflu 34s ago
+13:59:24 INFO event: eid/dt: 8A2IrU_0QSf8Aanv1G9Mi8/2016-02-23 13:59:24
+13:59:24 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+13:59:24 INFO event: c/g/un: 113233973177106453014/113233973177106453014/Michael Snidaro
+13:59:24 INFO event: len/tx: 14/! Tldr clear 1
+13:59:25 INFO event: eid/dt: 8A2IrU_0QSf8Aanv5g7qf_/2016-02-23 13:59:24
+13:59:25 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+13:59:25 INFO event: c/g/un: 114381395495050993911/114381395495050993911/Daisy Burn
+13:59:25 INFO event: len/tx: 26/TL;DR #1 removed - "test2"
+13:59:26 INFO config: /home/andrea/.local/share/hangupsbot/memory.json write 0.006557464599609375
+13:59:41 INFO event: eid/dt: 8A2IrU_0QSf8Aanx1ASnOL/2016-02-23 13:59:40
+13:59:41 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+13:59:41 INFO event: c/g/un: 113233973177106453014/113233973177106453014/Michael Snidaro
+13:59:41 INFO event: len/tx: 23/! Tldr userguide @gad 1
+13:59:41 INFO root: get_1on1: remembered Ugzc9QDaeT1UGq7mXKZ4AaABAagBsf2ODQ for 113233973177106453014
+13:59:41 INFO plugins.mentions: @mention 'gad' in 'Hangout BOT workgroup' (Ugx2rN2i1Or-t_9iE4N4AaABAQ)
+13:59:41 INFO event: eid/dt: 8A2IrU_0QSf8Aanx5YbXwL/2016-02-23 13:59:41
+13:59:41 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+13:59:41 INFO event: c/g/un: 114381395495050993911/114381395495050993911/Daisy Burn
+13:59:41 INFO event: len/tx: 41/userguide @gad 1 added to TL;DR. Count: 3
+13:59:42 INFO config: /home/andrea/.local/share/hangupsbot/memory.json write 0.011901140213012695
+13:59:54 INFO event: eid/dt: 8A2IrU_0QSf8Aanye31cnr/2016-02-23 13:59:53
+13:59:54 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+13:59:54 INFO event: c/g/un: 113227689978504931898/113227689978504931898/Andrea Forlin
+13:59:54 INFO event: len/tx: 33/Grazie @Gad credevo d'aver capito
+13:59:54 INFO root: get_1on1: remembered UgxMqRbAYyqaJd_hVzB4AaABAagBv_DXAQ for 113227689978504931898
+13:59:54 INFO plugins.mentions: @mention 'Gad' in 'Hangout BOT workgroup' (Ugx2rN2i1Or-t_9iE4N4AaABAQ)
+13:59:54 INFO plugins.subscribe: keyword 'gad' in 'Hangout BOT workgroup' (Ugx2rN2i1Or-t_9iE4N4AaABAQ)
+13:59:54 INFO root: get_1on1: remembered Ugzc9QDaeT1UGq7mXKZ4AaABAagBsf2ODQ for 113233973177106453014
+13:59:54 INFO plugins.subscribe: Michael Snidaro (113233973177106453014) alerted via 1on1 (Ugzc9QDaeT1UGq7mXKZ4AaABAagBsf2ODQ)
+13:59:54 INFO event: eid/dt: 8A2khb34iE28AanyjG2sLc/2016-02-23 13:59:54
+13:59:54 INFO event: cid/cn: Ugzc9QDaeT1UGq7mXKZ4AaABAagBsf2ODQ/Michael Snidaro
+13:59:54 INFO event: c/g/un: 114381395495050993911/114381395495050993911/Daisy Burn
+13:59:54 INFO event: len/tx: 89/Andrea Forlin mentioned 'gad' in Hangout BOT workgroup:
+Grazie @Gad credevo d'aver capito
+13:59:58 INFO event: eid/dt: 8A2IrU_0QSf8AanzAgkcS7/2016-02-23 13:59:58
+13:59:58 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+13:59:58 INFO event: c/g/un: 113227689978504931898/113227689978504931898/Andrea Forlin
+13:59:58 INFO event: len/tx: 1/😂
+14:00:12 INFO event: eid/dt: 8A2IrU_0QSf8Aao-ugcSJB/2016-02-23 14:00:12
+14:00:12 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+14:00:12 INFO event: c/g/un: 113227689978504931898/113227689978504931898/Andrea Forlin
+14:00:12 INFO event: len/tx: 50/Ma il @Gad lo prende come mention? Non l'ho capito
+14:00:12 INFO root: get_1on1: remembered UgxMqRbAYyqaJd_hVzB4AaABAagBv_DXAQ for 113227689978504931898
+14:00:12 INFO plugins.mentions: @mention 'Gad' in 'Hangout BOT workgroup' (Ugx2rN2i1Or-t_9iE4N4AaABAQ)
+14:00:12 INFO plugins.subscribe: keyword 'gad' in 'Hangout BOT workgroup' (Ugx2rN2i1Or-t_9iE4N4AaABAQ)
+14:00:12 INFO root: get_1on1: remembered Ugzc9QDaeT1UGq7mXKZ4AaABAagBsf2ODQ for 113233973177106453014
+14:00:13 INFO plugins.subscribe: Michael Snidaro (113233973177106453014) alerted via 1on1 (Ugzc9QDaeT1UGq7mXKZ4AaABAagBsf2ODQ)
+14:00:13 INFO event: eid/dt: 8A2khb34iE28Aao-zVNKNk/2016-02-23 14:00:13
+14:00:13 INFO event: cid/cn: Ugzc9QDaeT1UGq7mXKZ4AaABAagBsf2ODQ/Michael Snidaro
+14:00:13 INFO event: c/g/un: 114381395495050993911/114381395495050993911/Daisy Burn
+14:00:13 INFO event: len/tx: 106/Andrea Forlin mentioned 'gad' in Hangout BOT workgroup:
+Ma il @Gad lo prende come mention? Non l'ho capito
+14:00:26 INFO event: eid/dt: 8A2IrU_0QSf8Aao1YbLp0D/2016-02-23 14:00:25
+14:00:26 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+14:00:26 INFO event: c/g/un: 113233973177106453014/113233973177106453014/Michael Snidaro
+14:00:26 INFO event: len/tx: 17/Sì, anche senza @
+14:00:54 INFO event: eid/dt: 8A2IrU_0QSf8Aao4ycmVIZ/2016-02-23 14:00:53
+14:00:54 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+14:00:54 INFO event: c/g/un: 113227689978504931898/113227689978504931898/Andrea Forlin
+14:00:54 INFO event: len/tx: 2/Ok
+14:00:56 INFO event: eid/dt: 8A2IrU_0QSf8Aao5Idm99l/2016-02-23 14:00:56
+14:00:56 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+14:00:56 INFO event: c/g/un: 113227689978504931898/113227689978504931898/Andrea Forlin
+14:00:56 INFO event: len/tx: 24/Ma se sei in questa chat
+14:01:07 INFO event: eid/dt: 8A2IrU_0QSf8Aao6YzzOjk/2016-02-23 14:01:06
+14:01:07 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+14:01:07 INFO event: c/g/un: 113227689978504931898/113227689978504931898/Andrea Forlin
+14:01:07 INFO event: len/tx: 27/Ti fa il mention lo stesso?
+14:01:12 INFO event: eid/dt: 8A2IrU_0QSf8Aao7DULNzM/2016-02-23 14:01:12
+14:01:12 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+14:01:12 INFO event: c/g/un: 113233973177106453014/113233973177106453014/Michael Snidaro
+14:01:12 INFO event: len/tx: 2/Sì
+14:01:14 INFO event: eid/dt: 8A2IrU_0QSf8Aao7TQG-Bb/2016-02-23 14:01:14
+14:01:14 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+14:01:14 INFO event: c/g/un: 113227689978504931898/113227689978504931898/Andrea Forlin
+14:01:14 INFO event: len/tx: 31/A me non mi mention mai nessuno
+14:01:18 INFO event: eid/dt: 8A2IrU_0QSf8Aao7us6fAB/2016-02-23 14:01:18
+14:01:18 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+14:01:18 INFO event: c/g/un: 113227689978504931898/113227689978504931898/Andrea Forlin
+14:01:18 INFO event: len/tx: 1/😂
+14:01:23 INFO event: eid/dt: 8A2IrU_0QSf8Aao8YnVFAH/2016-02-23 14:01:23
+14:01:23 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+14:01:23 INFO event: c/g/un: 113233973177106453014/113233973177106453014/Michael Snidaro
+14:01:23 INFO event: len/tx: 7/Paraflu
+14:01:25 INFO event: eid/dt: 8A2IrU_0QSf8Aao8jJcUZg/2016-02-23 14:01:24
+14:01:25 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+14:01:25 INFO event: c/g/un: 113227689978504931898/113227689978504931898/Andrea Forlin
+14:01:25 INFO event: len/tx: 15/A si? Che palle
+14:01:34 INFO event: eid/dt: 8A2IrU_0QSf8Aao9sh4Q6G/2016-02-23 14:01:34
+14:01:34 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+14:01:34 INFO event: c/g/un: 113227689978504931898/113227689978504931898/Andrea Forlin
+14:01:34 INFO event: len/tx: 2/No
+14:01:45 INFO event: eid/dt: 8A2IrU_0QSf8AaoBG6n_FD/2016-02-23 14:01:45
+14:01:45 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+14:01:45 INFO event: c/g/un: 113233973177106453014/113233973177106453014/Michael Snidaro
+14:01:45 INFO event: len/tx: 10/A me lo fa
+14:01:58 INFO event: eid/dt: 8A2IrU_0QSf8AaoCmDv4Ke/2016-02-23 14:01:57
+14:01:58 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+14:01:58 INFO event: c/g/un: 113233973177106453014/113233973177106453014/Michael Snidaro
+14:01:58 INFO event: len/tx: 31/Hai fatto il subscribe, vero? 😁
+14:02:51 INFO event: eid/dt: 8A2IrU_0QSf8AaoJCK6kES/2016-02-23 14:02:50
+14:02:51 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+14:02:51 INFO event: c/g/un: 105205364708729768576/105205364708729768576/Kaeel L.
+14:02:51 INFO event: len/tx: 49/Devi fare subscribe a delle keywords prima, credo
+14:03:06 INFO event: eid/dt: 8A2IrU_0QSf8AaoL5UarI3/2016-02-23 14:03:06
+14:03:06 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+14:03:06 INFO event: c/g/un: 105205364708729768576/105205364708729768576/Kaeel L.
+14:03:06 INFO event: len/tx: 14/@andrea funge?
+14:03:06 INFO root: get_1on1: remembered UgzVXtkQCY8v_GyyAYp4AaABAagB1YTECQ for 105205364708729768576
+14:03:06 INFO plugins.mentions: @mention 'andrea' in 'Hangout BOT workgroup' (Ugx2rN2i1Or-t_9iE4N4AaABAQ)
+14:03:06 INFO plugins.mentions: user Andrea Forlin (113227689978504931898) is present
+14:03:06 INFO plugins.mentions: prioritising single case-sensitive fragment match for Andrea Forlin
+14:03:06 INFO root: get_1on1: remembered UgxMqRbAYyqaJd_hVzB4AaABAagBv_DXAQ for 113227689978504931898
+14:03:07 INFO plugins.mentions: Andrea Forlin (113227689978504931898) alerted via 1on1 (UgxMqRbAYyqaJd_hVzB4AaABAagBv_DXAQ)
+14:03:07 INFO event: eid/dt: 8A2kfI43Aqw8AaoLCJHnZg/2016-02-23 14:03:06
+14:03:07 INFO event: cid/cn: UgxMqRbAYyqaJd_hVzB4AaABAagBv_DXAQ/daisy
+14:03:07 INFO event: c/g/un: 114381395495050993911/114381395495050993911/Daisy Burn
+14:03:07 INFO event: len/tx: 64/Kaeel L. @mentioned you in Hangout BOT workgroup:
+@andrea funge?
+14:03:10 INFO event: eid/dt: 8A2IrU_0QSf8AaoLen4hAn/2016-02-23 14:03:10
+14:03:10 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+14:03:10 INFO event: c/g/un: 113233973177106453014/113233973177106453014/Michael Snidaro
+14:03:10 INFO event: len/tx: 100/Qualche domanda riguardo alla sicurezza, visto che dovremo diffondere almeno un po' le crede del bot
+14:03:23 INFO event: eid/dt: 8A2IrU_0QSf8AaoJCK6kES/2016-02-23 14:02:50
+14:03:23 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+14:03:23 INFO event: c/g/un: 105205364708729768576/105205364708729768576/Kaeel L.
+14:03:23 INFO event: len/tx: 49/Devi fare subscribe a delle keywords prima, credo
+14:03:47 INFO event: eid/dt: 8A2IrU_0QSf8AaoQ8jkMl-/2016-02-23 14:03:47
+14:03:47 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+14:03:47 INFO event: c/g/un: 113227689978504931898/113227689978504931898/Andrea Forlin
+14:03:47 INFO event: len/tx: 1/?
+14:03:56 INFO event: eid/dt: 8A2IrU_0QSf8AaoRBjX7iz/2016-02-23 14:03:55
+14:03:56 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+14:03:56 INFO event: c/g/un: 113233973177106453014/113233973177106453014/Michael Snidaro
+14:03:56 INFO event: len/tx: 133/Se uno si logga su Google con l'identità del bot, immagino che abbia automaticamente accesso a tutte le chat in cui è inserito il bot
+14:04:02 INFO event: eid/dt: 8A2IrU_0QSf8AaoRwvd5vN/2016-02-23 14:04:02
+14:04:02 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+14:04:02 INFO event: c/g/un: 113227689978504931898/113227689978504931898/Andrea Forlin
+14:04:02 INFO event: len/tx: 41/Perché devi di diffondere le credenziali?
+14:04:21 INFO event: eid/dt: 8A2IrU_0QSf8AaoUGcnfrQ/2016-02-23 14:04:21
+14:04:21 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+14:04:21 INFO event: c/g/un: 113227689978504931898/113227689978504931898/Andrea Forlin
+14:04:21 INFO event: len/tx: 27/Si se mi loggo vedo le chat
+14:04:29 INFO event: eid/dt: 8A2IrU_0QSf8AaoVEvpqYG/2016-02-23 14:04:29
+14:04:29 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+14:04:29 INFO event: c/g/un: 113233973177106453014/113233973177106453014/Michael Snidaro
+14:04:29 INFO event: len/tx: 76/Perché è l'unico modo che mi viene in mente per rimuovere il bot da una chat
+14:04:41 INFO event: eid/dt: 8A2IrU_0QSf8AaoWi6ONk0/2016-02-23 14:04:41
+14:04:41 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+14:04:41 INFO event: c/g/un: 113227689978504931898/113227689978504931898/Andrea Forlin
+14:04:41 INFO event: len/tx: 2/No
+14:04:46 INFO event: eid/dt: 8A2IrU_0QSf8AaoXJtpIx1/2016-02-23 14:04:46
+14:04:46 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+14:04:46 INFO event: c/g/un: 113227689978504931898/113227689978504931898/Andrea Forlin
+14:04:46 INFO event: len/tx: 12/C'è il leave
+14:04:53 INFO event: eid/dt: 8A2IrU_0QSf8AaoYEH-Tu2/2016-02-23 14:04:53
+14:04:53 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+14:04:53 INFO event: c/g/un: 113233973177106453014/113233973177106453014/Michael Snidaro
+14:04:53 INFO event: len/tx: 9/Allora ok
+14:04:57 INFO event: eid/dt: 8A2IrU_0QSf8AaoYgMZqQi/2016-02-23 14:04:57
+14:04:57 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+14:04:57 INFO event: c/g/un: 113227689978504931898/113227689978504931898/Andrea Forlin
+14:04:57 INFO event: len/tx: 36/Devo leggere il discorso degli admin
+14:05:00 INFO event: eid/dt: 8A2IrU_0QSf8AaoZ3RITvU/2016-02-23 14:05:00
+14:05:00 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+14:05:00 INFO event: c/g/un: 113227689978504931898/113227689978504931898/Andrea Forlin
+14:05:00 INFO event: len/tx: 7/! Leave
+14:05:01 INFO event: eid/dt: 8A2IrU_0QSf8AaoZ9UemPY/2016-02-23 14:05:01
+14:05:01 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+14:05:01 INFO event: c/g/un: 114381395495050993911/114381395495050993911/Daisy Burn
+14:05:01 INFO event: len/tx: 13/I'll be back!
+14:05:03 INFO permamem: removing conv: Ugx2rN2i1Or-t_9iE4N4AaABAQ Hangout BOT workgroup
+14:05:04 INFO config: /home/andrea/.local/share/hangupsbot/memory.json write 0.02205944061279297
+14:05:29 INFO event: eid/dt: 8A2IrU_0QSf8AaobS4Kp0V/2016-02-23 14:05:28
+14:05:29 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+14:05:29 INFO event: c/g/un: 113227689978504931898/113227689978504931898/Andrea Forlin
+14:05:29 INFO event: len/tx: 0/
+14:05:29 INFO permamem: new conv Hangout BOT workgroup (Ugx2rN2i1Or-t_9iE4N4AaABAQ)
+14:05:29 INFO permamem: conv Ugx2rN2i1Or-t_9iE4N4AaABAQ updated Hangout BOT workgroup
+14:05:30 INFO config: /home/andrea/.local/share/hangupsbot/memory.json write 0.007025480270385742
+14:05:41 INFO event: eid/dt: 8A2IrU_0QSf8Aaoczryyf4/2016-02-23 14:05:40
+14:05:41 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+14:05:41 INFO event: c/g/un: 113227689978504931898/113227689978504931898/Andrea Forlin
+14:05:41 INFO event: len/tx: 21/Prova a farlo tu @Gad
+14:05:41 INFO root: get_1on1: remembered UgxMqRbAYyqaJd_hVzB4AaABAagBv_DXAQ for 113227689978504931898
+14:05:41 INFO plugins.mentions: @mention 'Gad' in 'Hangout BOT workgroup' (Ugx2rN2i1Or-t_9iE4N4AaABAQ)
+14:05:41 INFO plugins.subscribe: keyword 'gad' in 'Hangout BOT workgroup' (Ugx2rN2i1Or-t_9iE4N4AaABAQ)
+14:05:41 INFO root: get_1on1: remembered Ugzc9QDaeT1UGq7mXKZ4AaABAagBsf2ODQ for 113233973177106453014
+14:05:41 INFO plugins.subscribe: Michael Snidaro (113233973177106453014) alerted via 1on1 (Ugzc9QDaeT1UGq7mXKZ4AaABAagBsf2ODQ)
+14:05:42 INFO event: eid/dt: 8A2khb34iE28Aaod5uuh1r/2016-02-23 14:05:41
+14:05:42 INFO event: cid/cn: Ugzc9QDaeT1UGq7mXKZ4AaABAagBsf2ODQ/Michael Snidaro
+14:05:42 INFO event: c/g/un: 114381395495050993911/114381395495050993911/Daisy Burn
+14:05:42 INFO event: len/tx: 77/Andrea Forlin mentioned 'gad' in Hangout BOT workgroup:
+Prova a farlo tu @Gad
+14:05:55 INFO event: eid/dt: 8A2IrU_0QSf8AaoeiuFkLA/2016-02-23 14:05:55
+14:05:55 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+14:05:55 INFO event: c/g/un: 113233973177106453014/113233973177106453014/Michael Snidaro
+14:05:55 INFO event: len/tx: 7/! Leave
+14:05:56 INFO event: eid/dt: 8A2IrU_0QSf8AaoenMDMPT/2016-02-23 14:05:55
+14:05:56 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+14:05:56 INFO event: c/g/un: 114381395495050993911/114381395495050993911/Daisy Burn
+14:05:56 INFO event: len/tx: 31/Michael Snidaro: Can't do that.
+14:06:01 INFO event: eid/dt: 8A2IrU_0QSf8AaofWtqtKA/2016-02-23 14:06:01
+14:06:01 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+14:06:01 INFO event: c/g/un: 113227689978504931898/113227689978504931898/Andrea Forlin
+14:06:01 INFO event: len/tx: 2/Ok
+14:06:07 INFO event: eid/dt: 8A2IrU_0QSf8AaogFrqnFo/2016-02-23 14:06:07
+14:06:07 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+14:06:07 INFO event: c/g/un: 113227689978504931898/113227689978504931898/Andrea Forlin
+14:06:07 INFO event: len/tx: 13/Io sono admin
+14:06:19 INFO event: eid/dt: 8A2IrU_0QSf8Aaohgwltix/2016-02-23 14:06:19
+14:06:19 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+14:06:19 INFO event: c/g/un: 113227689978504931898/113227689978504931898/Andrea Forlin
+14:06:19 INFO event: len/tx: 37/Poi si possono aggiungere altri admin
+14:06:21 INFO event: eid/dt: 7-H0Z7-Jq1P8AaohsUrvEW/2016-02-23 14:06:20
+14:06:21 INFO event: cid/cn: UgygYiqxSUTc7bNQriF4AaABAQ/Nerd disadattati della bassa che donano soldi alla Esso con la scusa di giocare ad Ingress (PSCZ®)
+14:06:21 INFO event: c/g/un: 105205364708729768576/105205364708729768576/Kaeel L.
+14:06:21 INFO event: len/tx: 53/https://plus.google.com/+AdamBotbyl/posts/W7aSjWmnMSh
+14:06:21 WARNING permamem: unknown users returned from Nerd disadattati della bassa che donano soldi alla Esso con la scusa di giocare ad Ingress (PSCZ®) (UgygYiqxSUTc7bNQriF4AaABAQ): ['100710742925270496280']
+14:06:34 INFO event: eid/dt: 7-H0Z7-Jq1P8AaojU_YjHW/2016-02-23 14:06:34
+14:06:34 INFO event: cid/cn: UgygYiqxSUTc7bNQriF4AaABAQ/Nerd disadattati della bassa che donano soldi alla Esso con la scusa di giocare ad Ingress (PSCZ®)
+14:06:34 INFO event: c/g/un: 105205364708729768576/105205364708729768576/Kaeel L.
+14:06:34 INFO event: len/tx: 24/Funzionamento nuovo cubo
+14:06:34 WARNING permamem: unknown users returned from Nerd disadattati della bassa che donano soldi alla Esso con la scusa di giocare ad Ingress (PSCZ®) (UgygYiqxSUTc7bNQriF4AaABAQ): ['100710742925270496280']
+14:06:38 INFO event: eid/dt: 8A2IrU_0QSf8Aaojy8001F/2016-02-23 14:06:37
+14:06:38 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+14:06:38 INFO event: c/g/un: 113227689978504931898/113227689978504931898/Andrea Forlin
+14:06:38 INFO event: len/tx: 13/Fai un Whoami
+14:06:51 INFO event: eid/dt: 8A2IrU_0QSf8Aaolc-GiZ9/2016-02-23 14:06:51
+14:06:51 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+14:06:51 INFO event: c/g/un: 113233973177106453014/113233973177106453014/Michael Snidaro
+14:06:51 INFO event: len/tx: 8/! Whoami
+14:06:52 INFO event: eid/dt: 8A2IrU_0QSf8Aaolg-3X40/2016-02-23 14:06:52
+14:06:52 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+14:06:52 INFO event: c/g/un: 114381395495050993911/114381395495050993911/Daisy Burn
+14:06:52 INFO event: len/tx: 49/Michael (Gadjet), chat_id = 113233973177106453014
+14:07:18 INFO event: eid/dt: 8A2IrU_0QSf8AaoovfiIsU/2016-02-23 14:07:18
+14:07:18 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+14:07:18 INFO event: c/g/un: 113227689978504931898/113227689978504931898/Andrea Forlin
+14:07:18 INFO event: len/tx: 2/Ok
+14:07:27 INFO event: eid/dt: 8A2IrU_0QSf8Aaoq11O3bv/2016-02-23 14:07:27
+14:07:27 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+14:07:27 INFO event: c/g/un: 113227689978504931898/113227689978504931898/Andrea Forlin
+14:07:27 INFO event: len/tx: 28/Metti un tldr di aggiungerti
+14:07:48 INFO event: eid/dt: 8A2IrU_0QSf8AaosU8oVZL/2016-02-23 14:07:47
+14:07:48 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+14:07:48 INFO event: c/g/un: 113233973177106453014/113233973177106453014/Michael Snidaro
+14:07:48 INFO event: len/tx: 32/! Tldr add Gad + Kaeel as admins
+14:07:48 INFO plugins.subscribe: keyword 'kaeel' in 'Hangout BOT workgroup' (Ugx2rN2i1Or-t_9iE4N4AaABAQ)
+14:07:48 INFO root: get_1on1: remembered UgzVXtkQCY8v_GyyAYp4AaABAagB1YTECQ for 105205364708729768576
+14:07:48 INFO plugins.subscribe: Kaeel L. (105205364708729768576) alerted via 1on1 (UgzVXtkQCY8v_GyyAYp4AaABAagB1YTECQ)
+14:07:49 INFO event: eid/dt: 8A2qmnfYwt08Aaosb1mcE2/2016-02-23 14:07:48
+14:07:49 INFO event: cid/cn: UgzVXtkQCY8v_GyyAYp4AaABAagB1YTECQ/Kaeel L.
+14:07:49 INFO event: c/g/un: 114381395495050993911/114381395495050993911/Daisy Burn
+14:07:49 INFO event: len/tx: 92/Michael Snidaro mentioned 'kaeel' in Hangout BOT workgroup:
+! Tldr add Gad + Kaeel as admins
+14:07:49 INFO event: eid/dt: 8A2IrU_0QSf8Aaosenf7GY/2016-02-23 14:07:49
+14:07:49 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+14:07:49 INFO event: c/g/un: 114381395495050993911/114381395495050993911/Daisy Burn
+14:07:49 INFO event: len/tx: 50/add Gad + Kaeel as admins added to TL;DR. Count: 4
+14:07:50 INFO config: /home/andrea/.local/share/hangupsbot/memory.json write 0.00701594352722168
+14:07:53 INFO event: eid/dt: 8A2IrU_0QSf8Aaot9CLwAd/2016-02-23 14:07:53
+14:07:53 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+14:07:53 INFO event: c/g/un: 113227689978504931898/113227689978504931898/Andrea Forlin
+14:07:53 INFO event: len/tx: 17/Che sono a lavoro
+14:08:00 INFO event: eid/dt: 8A2IrU_0QSf8AaotzLGwlk/2016-02-23 14:08:00
+14:08:00 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+14:08:00 INFO event: c/g/un: 113227689978504931898/113227689978504931898/Andrea Forlin
+14:08:00 INFO event: len/tx: 20/Ok Gad mi serve l'id
+14:08:00 INFO plugins.subscribe: keyword 'gad' in 'Hangout BOT workgroup' (Ugx2rN2i1Or-t_9iE4N4AaABAQ)
+14:08:00 INFO root: get_1on1: remembered Ugzc9QDaeT1UGq7mXKZ4AaABAagBsf2ODQ for 113233973177106453014
+14:08:00 INFO plugins.subscribe: Michael Snidaro (113233973177106453014) alerted via 1on1 (Ugzc9QDaeT1UGq7mXKZ4AaABAagBsf2ODQ)
+14:08:00 INFO event: eid/dt: 8A2khb34iE28Aaou2vTddB/2016-02-23 14:08:00
+14:08:00 INFO event: cid/cn: Ugzc9QDaeT1UGq7mXKZ4AaABAagBsf2ODQ/Michael Snidaro
+14:08:00 INFO event: c/g/un: 114381395495050993911/114381395495050993911/Daisy Burn
+14:08:00 INFO event: len/tx: 76/Andrea Forlin mentioned 'gad' in Hangout BOT workgroup:
+Ok Gad mi serve l'id
+14:08:23 INFO event: eid/dt: 8A2IrU_0QSf8AaowpaSSla/2016-02-23 14:08:23
+14:08:23 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+14:08:23 INFO event: c/g/un: 113233973177106453014/113233973177106453014/Michael Snidaro
+14:08:23 INFO event: len/tx: 33/L'id è legato alla chat o al bot?
+14:08:32 INFO event: eid/dt: 8A2IrU_0QSf8AaoxqoqxhN/2016-02-23 14:08:31
+14:08:32 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+14:08:32 INFO event: c/g/un: 113227689978504931898/113227689978504931898/Andrea Forlin
+14:08:32 INFO event: len/tx: 10/All'utente
+14:08:41 INFO event: eid/dt: 8A2IrU_0QSf8Aaoz2Fhl_A/2016-02-23 14:08:41
+14:08:41 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+14:08:41 INFO event: c/g/un: 113227689978504931898/113227689978504931898/Andrea Forlin
+14:08:41 INFO event: len/tx: 28/Si possono fare anche x chat
+14:08:52 INFO event: eid/dt: 8A2IrU_0QSf8Aap-NYAV2r/2016-02-23 14:08:52
+14:08:52 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+14:08:52 INFO event: c/g/un: 113227689978504931898/113227689978504931898/Andrea Forlin
+14:08:52 INFO event: len/tx: 34/Ma non ho ben capito come funziona
+14:09:02 INFO event: eid/dt: 8A2IrU_0QSf8Aap0bpu8MK/2016-02-23 14:09:02
+14:09:02 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+14:09:02 INFO event: c/g/un: 113233973177106453014/113233973177106453014/Michael Snidaro
+14:09:02 INFO event: len/tx: 47/Restiamo sull'utente, altrimenti ci incasiniamo
+14:09:15 INFO event: eid/dt: 8A2IrU_0QSf8Aap291dJ1K/2016-02-23 14:09:15
+14:09:15 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+14:09:15 INFO event: c/g/un: 113233973177106453014/113233973177106453014/Michael Snidaro
+14:09:15 INFO event: len/tx: 6/! Tldr
+14:09:16 INFO event: eid/dt: 8A2IrU_0QSf8Aap2FCR2Mz/2016-02-23 14:09:15
+14:09:16 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+14:09:16 INFO event: c/g/un: 114381395495050993911/114381395495050993911/Daisy Burn
+14:09:16 INFO event: len/tx: 165/TL;DR (4 stored):
+1. localizzazione @Gad 15m ago
+2. aggiungere meme plugin sul config @paraflu 10m ago
+3. userguide @gad 1 9m ago
+4. add Gad + Kaeel as admins 1m ago
+14:09:21 INFO event: eid/dt: 8A2IrU_0QSf8Aap2x4XNHl/2016-02-23 14:09:21
+14:09:21 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+14:09:21 INFO event: c/g/un: 113227689978504931898/113227689978504931898/Andrea Forlin
+14:09:21 INFO event: len/tx: 37/Quindi come dicevo tldr con id vostro
+14:09:25 INFO event: eid/dt: 8A2IrU_0QSf8Aap3Nrc8pD/2016-02-23 14:09:25
+14:09:25 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+14:09:25 INFO event: c/g/un: 113233973177106453014/113233973177106453014/Michael Snidaro
+14:09:25 INFO event: len/tx: 14/! Tldr clear 4
+14:09:26 INFO event: eid/dt: 8A2IrU_0QSf8Aap3SG33MS/2016-02-23 14:09:25
+14:09:26 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+14:09:26 INFO event: c/g/un: 114381395495050993911/114381395495050993911/Daisy Burn
+14:09:26 INFO event: len/tx: 46/TL;DR #4 removed - "add Gad + Kaeel as admins"
+14:09:26 INFO config: /home/andrea/.local/share/hangupsbot/memory.json write 0.0064716339111328125
+14:09:38 INFO event: eid/dt: 8A2IrU_0QSf8Aap4yvcNTr/2016-02-23 14:09:38
+14:09:38 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+14:09:38 INFO event: c/g/un: 113233973177106453014/113233973177106453014/Michael Snidaro
+14:09:38 INFO event: len/tx: 66/! Tldr add admin Michael (Gadjet), chat_id = 113233973177106453014
+14:09:39 INFO event: eid/dt: 8A2IrU_0QSf8Aap52gAZv2/2016-02-23 14:09:38
+14:09:39 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+14:09:39 INFO event: c/g/un: 114381395495050993911/114381395495050993911/Daisy Burn
+14:09:39 INFO event: len/tx: 84/add admin Michael (Gadjet), chat_id = 113233973177106453014 added to TL;DR. Count: 4
+14:09:40 INFO config: /home/andrea/.local/share/hangupsbot/memory.json write 0.007512331008911133
+14:09:51 INFO event: eid/dt: 8A2IrU_0QSf8Aap6_9qj11/2016-02-23 14:09:51
+14:09:51 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+14:09:51 INFO event: c/g/un: 113233973177106453014/113233973177106453014/Michael Snidaro
+14:09:51 INFO event: len/tx: 8/Vai Paul
+14:09:51 INFO plugins.subscribe: keyword 'paul' in 'Hangout BOT workgroup' (Ugx2rN2i1Or-t_9iE4N4AaABAQ)
+14:09:51 INFO root: get_1on1: remembered UgzVXtkQCY8v_GyyAYp4AaABAagB1YTECQ for 105205364708729768576
+14:09:52 INFO plugins.subscribe: Kaeel L. (105205364708729768576) alerted via 1on1 (UgzVXtkQCY8v_GyyAYp4AaABAagB1YTECQ)
+14:09:52 INFO event: eid/dt: 8A2qmnfYwt08Aap6ebnFaG/2016-02-23 14:09:52
+14:09:52 INFO event: cid/cn: UgzVXtkQCY8v_GyyAYp4AaABAagB1YTECQ/Kaeel L.
+14:09:52 INFO event: c/g/un: 114381395495050993911/114381395495050993911/Daisy Burn
+14:09:52 INFO event: len/tx: 67/Michael Snidaro mentioned 'paul' in Hangout BOT workgroup:
+Vai Paul
+14:10:10 INFO event: eid/dt: 8A2IrU_0QSf8Aap8qBh9Hn/2016-02-23 14:10:09
+14:10:10 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+14:10:10 INFO event: c/g/un: 113227689978504931898/113227689978504931898/Andrea Forlin
+14:10:10 INFO event: len/tx: 20/Cmq funziona @Andrea
+14:10:10 INFO root: get_1on1: remembered UgxMqRbAYyqaJd_hVzB4AaABAagBv_DXAQ for 113227689978504931898
+14:10:10 INFO plugins.mentions: @mention 'Andrea' in 'Hangout BOT workgroup' (Ugx2rN2i1Or-t_9iE4N4AaABAQ)
+14:10:10 INFO plugins.mentions: user Andrea Forlin (113227689978504931898) is present
+14:10:28 INFO event: eid/dt: 8A2IrU_0QSf8AapB6IauvD/2016-02-23 14:10:28
+14:10:28 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+14:10:28 INFO event: c/g/un: 113227689978504931898/113227689978504931898/Andrea Forlin
+14:10:28 INFO event: len/tx: 21/! SetNickname paraflu
+14:10:29 INFO event: eid/dt: 8A2IrU_0QSf8AapBCeJLab/2016-02-23 14:10:29
+14:10:29 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+14:10:29 INFO event: c/g/un: 114381395495050993911/114381395495050993911/Daisy Burn
+14:10:29 INFO event: len/tx: 29/Setting nickname to 'paraflu'
+14:10:29 INFO config: /home/andrea/.local/share/hangupsbot/memory.json write 0.006143808364868164
+14:11:27 INFO event: eid/dt: 7-H0Z7-Jq1P8AapIBmZ3PC/2016-02-23 14:11:26
+14:11:27 INFO event: cid/cn: UgygYiqxSUTc7bNQriF4AaABAQ/Nerd disadattati della bassa che donano soldi alla Esso con la scusa di giocare ad Ingress (PSCZ®)
+14:11:27 INFO event: c/g/un: 113233973177106453014/113233973177106453014/Michael Snidaro
+14:11:27 INFO event: len/tx: 14/Già hackabile?
+14:11:27 WARNING permamem: unknown users returned from Nerd disadattati della bassa che donano soldi alla Esso con la scusa di giocare ad Ingress (PSCZ®) (UgygYiqxSUTc7bNQriF4AaABAQ): ['100710742925270496280']
+14:11:43 INFO event: eid/dt: 8A2IrU_0QSf8AapKH5Uzc9/2016-02-23 14:11:43
+14:11:43 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+14:11:43 INFO event: c/g/un: 113233973177106453014/113233973177106453014/Michael Snidaro
+14:11:43 INFO event: len/tx: 7/Paraflu
+14:11:52 INFO event: eid/dt: 8A2IrU_0QSf8AapLIkWgs2/2016-02-23 14:11:52
+14:11:52 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+14:11:52 INFO event: c/g/un: 113227689978504931898/113227689978504931898/Andrea Forlin
+14:11:52 INFO event: len/tx: 2/No
+14:12:04 INFO event: eid/dt: 8A2IrU_0QSf8AapMj_Ycbr/2016-02-23 14:12:03
+14:12:04 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+14:12:04 INFO event: c/g/un: 113233973177106453014/113233973177106453014/Michael Snidaro
+14:12:04 INFO event: len/tx: 6/Strano
+14:12:12 INFO event: eid/dt: 8A2IrU_0QSf8AapNhyA3ni/2016-02-23 14:12:11
+14:12:12 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+14:12:12 INFO event: c/g/un: 113233973177106453014/113233973177106453014/Michael Snidaro
+14:12:12 INFO event: len/tx: 26/Hai fatto anche subscribe?
+14:12:13 INFO event: eid/dt: 8A2IrU_0QSf8AapNpgsdLf/2016-02-23 14:12:12
+14:12:13 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+14:12:13 INFO event: c/g/un: 113227689978504931898/113227689978504931898/Andrea Forlin
+14:12:13 INFO event: len/tx: 3/Mom
+14:12:25 INFO event: eid/dt: 8A2IrU_0QSf8AapPO3u7O2/2016-02-23 14:12:25
+14:12:25 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+14:12:25 INFO event: c/g/un: 113227689978504931898/113227689978504931898/Andrea Forlin
+14:12:25 INFO event: len/tx: 13/Non ho la sub
+14:12:44 INFO event: eid/dt: 8A2IrU_0QSf8AapRitgjb7/2016-02-23 14:12:44
+14:12:44 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+14:12:44 INFO event: c/g/un: 113227689978504931898/113227689978504931898/Andrea Forlin
+14:12:44 INFO event: len/tx: 37/Ma se metto la sub  non è una mention
+14:12:45 INFO event: eid/dt: 8A2IrU_0QSf8AapRqJE-2O/2016-02-23 14:12:45
+14:12:45 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+14:12:45 INFO event: c/g/un: 113233973177106453014/113233973177106453014/Michael Snidaro
+14:12:45 INFO event: len/tx: 11// subscribe
+14:12:52 INFO event: eid/dt: 8A2IrU_0QSf8AapSh6Ifdu/2016-02-23 14:12:52
+14:12:52 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+14:12:52 INFO event: c/g/un: 113227689978504931898/113227689978504931898/Andrea Forlin
+14:12:52 INFO event: len/tx: 20/Son due cose diverse
+14:12:54 INFO event: eid/dt: 8A2IrU_0QSf8AapSvvikE2/2016-02-23 14:12:54
+14:12:54 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+14:12:54 INFO event: c/g/un: 113233973177106453014/113233973177106453014/Michael Snidaro
+14:12:54 INFO event: len/tx: 11/! Subscribe
+14:12:54 INFO root: get_1on1: remembered Ugzc9QDaeT1UGq7mXKZ4AaABAagBsf2ODQ for 113233973177106453014
+14:12:55 INFO event: eid/dt: 8A2IrU_0QSf8AapT1-6F1M/2016-02-23 14:12:55
+14:12:55 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+14:12:55 INFO event: c/g/un: 114381395495050993911/114381395495050993911/Daisy Burn
+14:12:55 INFO event: len/tx: 31/Usage: /bot subscribe [keyword]
+14:12:56 INFO event: eid/dt: 8A2IrU_0QSf8AapT4ePxuH/2016-02-23 14:12:55
+14:12:56 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+14:12:56 INFO event: c/g/un: 114381395495050993911/114381395495050993911/Daisy Burn
+14:12:56 INFO event: len/tx: 43/Subscribed to: gad, michael, gadjet, gadget
+14:14:51 INFO event: eid/dt: 8A2IrU_0QSf8Aapg6yLsCF/2016-02-23 14:14:50
+14:14:51 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+14:14:51 INFO event: c/g/un: 113233973177106453014/113233973177106453014/Michael Snidaro
+14:14:51 INFO event: len/tx: 38/Così a me arrivano le notifiche in pvt
+14:15:10 INFO event: eid/dt: 8A2IrU_0QSf8AapiVZZgZ8/2016-02-23 14:15:10
+14:15:10 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+14:15:10 INFO event: c/g/un: 113227689978504931898/113227689978504931898/Andrea Forlin
+14:15:10 INFO event: len/tx: 19/Puoi far @ paraflu?
+14:15:23 INFO event: eid/dt: 8A2IrU_0QSf8Aapk6_GqN0/2016-02-23 14:15:23
+14:15:23 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+14:15:23 INFO event: c/g/un: 113233973177106453014/113233973177106453014/Michael Snidaro
+14:15:23 INFO event: len/tx: 8/@paraflu
+14:15:23 INFO root: get_1on1: remembered Ugzc9QDaeT1UGq7mXKZ4AaABAagBsf2ODQ for 113233973177106453014
+14:15:23 INFO plugins.mentions: @mention 'paraflu' in 'Hangout BOT workgroup' (Ugx2rN2i1Or-t_9iE4N4AaABAQ)
+14:15:23 INFO plugins.mentions: user Andrea Forlin (113227689978504931898) is present
+14:15:23 INFO plugins.mentions: prioritising nickname match for Andrea Forlin
+14:15:23 INFO root: get_1on1: remembered UgxMqRbAYyqaJd_hVzB4AaABAagBv_DXAQ for 113227689978504931898
+14:15:24 INFO plugins.mentions: Andrea Forlin (113227689978504931898) alerted via 1on1 (UgxMqRbAYyqaJd_hVzB4AaABAagBv_DXAQ)
+14:15:24 INFO event: eid/dt: 8A2kfI43Aqw8AapkDDi4Rb/2016-02-23 14:15:24
+14:15:24 INFO event: cid/cn: UgxMqRbAYyqaJd_hVzB4AaABAagBv_DXAQ/daisy
+14:15:24 INFO event: c/g/un: 114381395495050993911/114381395495050993911/Daisy Burn
+14:15:24 INFO event: len/tx: 65/Michael Snidaro @mentioned you in Hangout BOT workgroup:
+@paraflu
+14:15:40 INFO event: eid/dt: 8A2IrU_0QSf8AapmA7WOmx/2016-02-23 14:15:40
+14:15:40 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+14:15:40 INFO event: c/g/un: 113227689978504931898/113227689978504931898/Andrea Forlin
+14:15:40 INFO event: len/tx: 7/Ok così
+14:16:14 INFO event: eid/dt: 8A2IrU_0QSf8AapqFMDjD8/2016-02-23 14:16:13
+14:16:14 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+14:16:14 INFO event: c/g/un: 113233973177106453014/113233973177106453014/Michael Snidaro
+14:16:14 INFO event: len/tx: 22/Prova con il subscribe
+14:16:28 INFO event: eid/dt: 8A2IrU_0QSf8Aaps-1beLZ/2016-02-23 14:16:28
+14:16:28 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+14:16:28 INFO event: c/g/un: 113227689978504931898/113227689978504931898/Andrea Forlin
+14:16:28 INFO event: len/tx: 18/Con @nick funziona
+14:16:28 INFO root: get_1on1: remembered UgxMqRbAYyqaJd_hVzB4AaABAagBv_DXAQ for 113227689978504931898
+14:16:28 INFO plugins.mentions: @mention 'nick' in 'Hangout BOT workgroup' (Ugx2rN2i1Or-t_9iE4N4AaABAQ)
+14:16:43 INFO event: eid/dt: 7-H0Z7-Jq1P8Aaptr8W8W5/2016-02-23 14:16:43
+14:16:43 INFO event: cid/cn: UgygYiqxSUTc7bNQriF4AaABAQ/Nerd disadattati della bassa che donano soldi alla Esso con la scusa di giocare ad Ingress (PSCZ®)
+14:16:43 INFO event: c/g/un: 105205364708729768576/105205364708729768576/Kaeel L.
+14:16:43 INFO event: len/tx: 27/Dalle screenshot pare di sì
+14:16:43 WARNING permamem: unknown users returned from Nerd disadattati della bassa che donano soldi alla Esso con la scusa di giocare ad Ingress (PSCZ®) (UgygYiqxSUTc7bNQriF4AaABAQ): ['100710742925270496280']
+14:17:01 INFO event: eid/dt: 8A2IrU_0QSf8Aapw30Sj3s/2016-02-23 14:17:01
+14:17:01 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+14:17:01 INFO event: c/g/un: 113233973177106453014/113233973177106453014/Michael Snidaro
+14:17:01 INFO event: len/tx: 42/Sì, ma nessuno si ricorda mai di mettere @
+14:17:11 INFO event: eid/dt: 8A2IrU_0QSf8AapxI7zP7L/2016-02-23 14:17:11
+14:17:11 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+14:17:11 INFO event: c/g/un: 113233973177106453014/113233973177106453014/Michael Snidaro
+14:17:11 INFO event: len/tx: 33/Per cui il subscribe è più comodo
+14:17:14 INFO event: eid/dt: 8A2IrU_0QSf8AapxaRJ_Of/2016-02-23 14:17:13
+14:17:14 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+14:17:14 INFO event: c/g/un: 113227689978504931898/113227689978504931898/Andrea Forlin
+14:17:14 INFO event: len/tx: 18/Ma è come telegram
+14:17:20 INFO event: eid/dt: 8A2IrU_0QSf8AapyNZ2mTN/2016-02-23 14:17:20
+14:17:20 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+14:17:20 INFO event: c/g/un: 113227689978504931898/113227689978504931898/Andrea Forlin
+14:17:20 INFO event: len/tx: 20/Io l'ho sempre usata
+14:18:14 INFO event: eid/dt: 8A2IrU_0QSf8Aaq3wqVvXT/2016-02-23 14:18:14
+14:18:14 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+14:18:14 INFO event: c/g/un: 113233973177106453014/113233973177106453014/Michael Snidaro
+14:18:14 INFO event: len/tx: 18/Tu non fai testo 😁
+14:18:22 INFO event: eid/dt: 8A2IrU_0QSf8Aaq4yGfm7M/2016-02-23 14:18:22
+14:18:22 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+14:18:22 INFO event: c/g/un: 113227689978504931898/113227689978504931898/Andrea Forlin
+14:18:22 INFO event: len/tx: 2/Ok
+14:19:21 INFO event: eid/dt: 8A2IrU_0QSf8AaqC5ZEPxb/2016-02-23 14:19:20
+14:19:21 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+14:19:21 INFO event: c/g/un: 113233973177106453014/113233973177106453014/Michael Snidaro
+14:19:21 INFO event: len/tx: 36/La ggente non sa e quando sa è pigra
+14:19:34 INFO event: eid/dt: 8A2IrU_0QSf8AaqDkWzVZQ/2016-02-23 14:19:34
+14:19:34 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+14:19:34 INFO event: c/g/un: 113233973177106453014/113233973177106453014/Michael Snidaro
+14:19:34 INFO event: len/tx: 43/Sai che non si può prescindere dagli utonti
+14:19:37 INFO event: eid/dt: 8A2IrU_0QSf8AaqE0hBZfZ/2016-02-23 14:19:36
+14:19:37 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+14:19:37 INFO event: c/g/un: 113233973177106453014/113233973177106453014/Michael Snidaro
+14:19:37 INFO event: len/tx: 1/😁
+14:19:38 INFO event: eid/dt: 8A2IrU_0QSf8AaqE9seCcB/2016-02-23 14:19:37
+14:19:38 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+14:19:38 INFO event: c/g/un: 113227689978504931898/113227689978504931898/Andrea Forlin
+14:19:38 INFO event: len/tx: 23/Be faranno il subscribe
+14:19:46 INFO event: eid/dt: 8A2IrU_0QSf8AaqF8uHmiY/2016-02-23 14:19:45
+14:19:46 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+14:19:46 INFO event: c/g/un: 113227689978504931898/113227689978504931898/Andrea Forlin
+14:19:46 INFO event: len/tx: 21/Nella guida tu scrivi
+14:19:59 INFO event: eid/dt: 8A2IrU_0QSf8AaqGiCUW06/2016-02-23 14:19:58
+14:19:59 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+14:19:59 INFO event: c/g/un: 113227689978504931898/113227689978504931898/Andrea Forlin
+14:19:59 INFO event: len/tx: 30/Il mention e come si deve fare
+14:20:02 INFO event: eid/dt: 8A2IrU_0QSf8AaqH7Nn6Vo/2016-02-23 14:20:02
+14:20:02 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+14:20:02 INFO event: c/g/un: 113227689978504931898/113227689978504931898/Andrea Forlin
+14:20:02 INFO event: len/tx: 1/😂
+14:20:05 INFO event: eid/dt: 8A2IrU_0QSf8AaqHYMlnhB/2016-02-23 14:20:05
+14:20:05 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+14:20:05 INFO event: c/g/un: 113233973177106453014/113233973177106453014/Michael Snidaro
+14:20:05 INFO event: len/tx: 3/Yep
+14:20:14 INFO event: eid/dt: 8A2IrU_0QSf8AaqIZm3syb/2016-02-23 14:20:13
+14:20:14 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+14:20:14 INFO event: c/g/un: 113227689978504931898/113227689978504931898/Andrea Forlin
+14:20:14 INFO event: len/tx: 6/! Tldr
+14:20:15 INFO event: eid/dt: 8A2IrU_0QSf8AaqIhMVLwB/2016-02-23 14:20:15
+14:20:15 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+14:20:15 INFO event: c/g/un: 114381395495050993911/114381395495050993911/Daisy Burn
+14:20:15 INFO event: len/tx: 201/TL;DR (4 stored):
+1. localizzazione @Gad 26m ago
+2. aggiungere meme plugin sul config @paraflu 21m ago
+3. userguide @gad 1 20m ago
+4. add admin Michael (Gadjet), chat_id = 113233973177106453014 10m ago
+14:20:16 INFO event: eid/dt: 8A2IrU_0QSf8AaqIoka9xc/2016-02-23 14:20:15
+14:20:16 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+14:20:16 INFO event: c/g/un: 113233973177106453014/113233973177106453014/Michael Snidaro
+14:20:16 INFO event: len/tx: 31/Hai anche il file per la guida?
+14:23:41 INFO event: eid/dt: 8A2IrU_0QSf8AaqgpnOV0f/2016-02-23 14:23:40
+14:23:41 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+14:23:41 INFO event: c/g/un: 113227689978504931898/113227689978504931898/Andrea Forlin
+14:23:41 INFO event: len/tx: 53/https://github.com/paraflu/hangoutsbot/wiki/UserGuide
+14:25:09 INFO event: eid/dt: 8A2IrU_0QSf8Aaqrdx_s2E/2016-02-23 14:25:09
+14:25:09 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+14:25:09 INFO event: c/g/un: 113227689978504931898/113227689978504931898/Andrea Forlin
+14:25:09 INFO event: len/tx: 46/credo tu debba far un login su github @michael
+14:25:09 INFO root: get_1on1: remembered UgxMqRbAYyqaJd_hVzB4AaABAagBv_DXAQ for 113227689978504931898
+14:25:09 INFO plugins.mentions: @mention 'michael' in 'Hangout BOT workgroup' (Ugx2rN2i1Or-t_9iE4N4AaABAQ)
+14:25:09 INFO plugins.mentions: user Michael Snidaro (113233973177106453014) is present
+14:25:09 INFO plugins.mentions: prioritising single case-sensitive fragment match for Michael Snidaro
+14:25:09 INFO root: get_1on1: remembered Ugzc9QDaeT1UGq7mXKZ4AaABAagBsf2ODQ for 113233973177106453014
+14:25:10 INFO plugins.mentions: Michael Snidaro (113233973177106453014) alerted via 1on1 (Ugzc9QDaeT1UGq7mXKZ4AaABAagBsf2ODQ)
+14:25:10 INFO plugins.subscribe: keyword 'michael' in 'Hangout BOT workgroup' (Ugx2rN2i1Or-t_9iE4N4AaABAQ)
+14:25:10 INFO root: get_1on1: remembered Ugzc9QDaeT1UGq7mXKZ4AaABAagBsf2ODQ for 113233973177106453014
+14:25:10 INFO event: eid/dt: 8A2khb34iE28AaqrkVZ4J8/2016-02-23 14:25:10
+14:25:10 INFO event: cid/cn: Ugzc9QDaeT1UGq7mXKZ4AaABAagBsf2ODQ/Michael Snidaro
+14:25:10 INFO event: c/g/un: 114381395495050993911/114381395495050993911/Daisy Burn
+14:25:10 INFO event: len/tx: 101/Andrea Forlin @mentioned you in Hangout BOT workgroup:
+credo tu debba far un login su github @michael
+14:25:10 INFO plugins.subscribe: Michael Snidaro (113233973177106453014) alerted via 1on1 (Ugzc9QDaeT1UGq7mXKZ4AaABAagBsf2ODQ)
+14:25:11 INFO event: eid/dt: 8A2khb34iE28Aaqrnv4Wob/2016-02-23 14:25:10
+14:25:11 INFO event: cid/cn: Ugzc9QDaeT1UGq7mXKZ4AaABAagBsf2ODQ/Michael Snidaro
+14:25:11 INFO event: c/g/un: 114381395495050993911/114381395495050993911/Daisy Burn
+14:25:11 INFO event: len/tx: 106/Andrea Forlin mentioned 'michael' in Hangout BOT workgroup:
+credo tu debba far un login su github @michael
+14:49:24 INFO event: eid/dt: 8A2IrU_0QSf8AatdBXfHsN/2016-02-23 14:49:23
+14:49:24 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+14:49:24 INFO event: c/g/un: 113233973177106453014/113233973177106453014/Michael Snidaro
+14:49:24 INFO event: len/tx: 43/Cioè dovrei tradurre la pagina della guida?
+14:54:15 INFO event: eid/dt: 8A2IrU_0QSf8AauBnjnbg2/2016-02-23 14:54:15
+14:54:15 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+14:54:15 INFO event: c/g/un: 113227689978504931898/113227689978504931898/Andrea Forlin
+14:54:15 INFO event: len/tx: 30/Tronca tutto e fanne una adhoc
+15:17:53 INFO event: eid/dt: 8A2IrU_0QSf8Aawts0C4Lk/2016-02-23 15:17:53
+15:17:53 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+15:17:53 INFO event: c/g/un: 113233973177106453014/113233973177106453014/Michael Snidaro
+15:17:53 INFO event: len/tx: 42/Quella è una cosa piuttosto lunga comunque
+15:18:41 INFO event: eid/dt: 8A2IrU_0QSf8Aawzf2PH_G/2016-02-23 15:18:40
+15:18:41 INFO event: cid/cn: Ugx2rN2i1Or-t_9iE4N4AaABAQ/Hangout BOT workgroup
+15:18:41 INFO event: c/g/un: 113233973177106453014/113233973177106453014/Michael Snidaro
+15:18:41 INFO event: len/tx: 138/E la farei più per la community di github che per quella di Ingress, visto che sono sufficientemente sicuro che nessuno leggerà la guida 😅
+15:46:37 INFO event: eid/dt: 7-H0Z7-Jq1P8Ab-BGc95Mw/2016-02-23 15:46:36
+15:46:37 INFO event: cid/cn: UgygYiqxSUTc7bNQriF4AaABAQ/Nerd disadattati della bassa che donano soldi alla Esso con la scusa di giocare ad Ingress (PSCZ®)
+15:46:37 INFO event: c/g/un: 105205364708729768576/105205364708729768576/Kaeel L.
+15:46:37 INFO event: len/tx: 135/altra info non confermata dalla chat di Conegliano... pare gli scudi AXA non siano più hackabili e che le capsule non li duplichino più
+15:46:37 WARNING permamem: unknown users returned from Nerd disadattati della bassa che donano soldi alla Esso con la scusa di giocare ad Ingress (PSCZ®) (UgygYiqxSUTc7bNQriF4AaABAQ): ['100710742925270496280']
+15:47:09 INFO event: eid/dt: 7-H0Z7-Jq1P8Ab-FC6ef8V/2016-02-23 15:47:09
+15:47:09 INFO event: cid/cn: UgygYiqxSUTc7bNQriF4AaABAQ/Nerd disadattati della bassa che donano soldi alla Esso con la scusa di giocare ad Ingress (PSCZ®)
+15:47:09 INFO event: c/g/un: 105205364708729768576/105205364708729768576/Kaeel L.
+15:47:09 INFO event: len/tx: 124/dicono sia dovuto alla scadenza dell'accodo fra niantic ed axa; ora sono curioso di sapere se i portali AXA li lasciano o no
+15:47:09 WARNING permamem: unknown users returned from Nerd disadattati della bassa che donano soldi alla Esso con la scusa di giocare ad Ingress (PSCZ®) (UgygYiqxSUTc7bNQriF4AaABAQ): ['100710742925270496280']
+15:47:39 INFO event: eid/dt: 7-H0Z7-Jq1P8Ab-Is3zwK6/2016-02-23 15:47:39
+15:47:39 INFO event: cid/cn: UgygYiqxSUTc7bNQriF4AaABAQ/Nerd disadattati della bassa che donano soldi alla Esso con la scusa di giocare ad Ingress (PSCZ®)
+15:47:39 INFO event: c/g/un: 105205364708729768576/105205364708729768576/Kaeel L.
+15:47:39 INFO event: len/tx: 104/comunque non mi sono informato, prendetela come una bufala, finché qualcuno non ha voglia di indagare  😉
+15:47:39 WARNING permamem: unknown users returned from Nerd disadattati della bassa che donano soldi alla Esso con la scusa di giocare ad Ingress (PSCZ®) (UgygYiqxSUTc7bNQriF4AaABAQ): ['100710742925270496280']
+15:53:04 INFO event: eid/dt: 7-H0Z7-Jq1P8Ab-vZAky1Q/2016-02-23 15:53:04
+15:53:04 INFO event: cid/cn: UgygYiqxSUTc7bNQriF4AaABAQ/Nerd disadattati della bassa che donano soldi alla Esso con la scusa di giocare ad Ingress (PSCZ®)
+15:53:04 INFO event: c/g/un: 113233973177106453014/113233973177106453014/Michael Snidaro
+15:53:04 INFO event: len/tx: 79/Se così fosse, per coerenza dovrebbero ripristinare i vecchi valori degli scudi
+15:53:04 WARNING permamem: unknown users returned from Nerd disadattati della bassa che donano soldi alla Esso con la scusa di giocare ad Ingress (PSCZ®) (UgygYiqxSUTc7bNQriF4AaABAQ): ['100710742925270496280']
+15:54:55 INFO event: eid/dt: 7-H0Z7-Jq1P8Ab080PP9uS/2016-02-23 15:54:54
+15:54:55 INFO event: cid/cn: UgygYiqxSUTc7bNQriF4AaABAQ/Nerd disadattati della bassa che donano soldi alla Esso con la scusa di giocare ad Ingress (PSCZ®)
+15:54:55 INFO event: c/g/un: 105205364708729768576/105205364708729768576/Kaeel L.
+15:54:55 INFO event: len/tx: 57/magari sostituiscono veramente lo sponsor con la durex :D
+15:54:55 WARNING permamem: unknown users returned from Nerd disadattati della bassa che donano soldi alla Esso con la scusa di giocare ad Ingress (PSCZ®) (UgygYiqxSUTc7bNQriF4AaABAQ): ['100710742925270496280']
+15:56:29 INFO event: eid/dt: 7-H0Z7-Jq1P8Ab0JUdObt6/2016-02-23 15:56:28
+15:56:29 INFO event: cid/cn: UgygYiqxSUTc7bNQriF4AaABAQ/Nerd disadattati della bassa che donano soldi alla Esso con la scusa di giocare ad Ingress (PSCZ®)
+15:56:29 INFO event: c/g/un: 117188762955379722381/117188762955379722381/Massimo Goss
+15:56:29 INFO event: len/tx: 8/Azzzzzzz
+15:56:29 WARNING permamem: unknown users returned from Nerd disadattati della bassa che donano soldi alla Esso con la scusa di giocare ad Ingress (PSCZ®) (UgygYiqxSUTc7bNQriF4AaABAQ): ['100710742925270496280']
+16:24:00 INFO event: eid/dt: 7-H0Z7-Jq1P8Ab3T4nhfhc/2016-02-23 16:24:00
+16:24:00 INFO event: cid/cn: UgygYiqxSUTc7bNQriF4AaABAQ/Nerd disadattati della bassa che donano soldi alla Esso con la scusa di giocare ad Ingress (PSCZ®)
+16:24:00 INFO event: c/g/un: 115015747211922750658/115015747211922750658/Stefano Gervasutti
+16:24:00 INFO event: len/tx: 48/Nel basso Piave dicono di aver preso axa stamane
+16:24:00 WARNING permamem: unknown users returned from Nerd disadattati della bassa che donano soldi alla Esso con la scusa di giocare ad Ingress (PSCZ®) (UgygYiqxSUTc7bNQriF4AaABAQ): ['100710742925270496280']
+16:59:05 INFO event: eid/dt: 7-H0Z7-Jq1P8Ab7U1rV7yZ/2016-02-23 16:59:05
+16:59:05 INFO event: cid/cn: UgygYiqxSUTc7bNQriF4AaABAQ/Nerd disadattati della bassa che donano soldi alla Esso con la scusa di giocare ad Ingress (PSCZ®)
+16:59:05 INFO event: c/g/un: 113227689978504931898/113227689978504931898/Andrea Forlin
+16:59:05 INFO event: len/tx: 32/Considerando chi l'ha detto... 😏
+16:59:05 WARNING permamem: unknown users returned from Nerd disadattati della bassa che donano soldi alla Esso con la scusa di giocare ad Ingress (PSCZ®) (UgygYiqxSUTc7bNQriF4AaABAQ): ['100710742925270496280']
+16:59:35 INFO event: eid/dt: 7-H0Z7-Jq1P8Ab7XjwsGx5/2016-02-23 16:59:35
+16:59:35 INFO event: cid/cn: UgygYiqxSUTc7bNQriF4AaABAQ/Nerd disadattati della bassa che donano soldi alla Esso con la scusa di giocare ad Ingress (PSCZ®)
+16:59:35 INFO event: c/g/un: 113227689978504931898/113227689978504931898/Andrea Forlin
+16:59:35 INFO event: len/tx: 32/Quindi @ste leggi pure la chat 😱
+16:59:35 WARNING permamem: unknown users returned from Nerd disadattati della bassa che donano soldi alla Esso con la scusa di giocare ad Ingress (PSCZ®) (UgygYiqxSUTc7bNQriF4AaABAQ): ['100710742925270496280']
+16:59:36 INFO root: get_1on1: remembered UgxMqRbAYyqaJd_hVzB4AaABAagBv_DXAQ for 113227689978504931898
+16:59:36 INFO plugins.mentions: @mention 'ste' in 'Nerd disadattati della bassa che donano soldi alla Esso con la scusa di giocare ad Ingress (PSCZ®)' (UgygYiqxSUTc7bNQriF4AaABAQ)
+16:59:36 INFO plugins.mentions: user Kristina Steckiene (104199549131362603257) is present
+16:59:36 INFO plugins.mentions: user Asterion Nemesis (104957687930118967562) is present
+16:59:36 INFO plugins.mentions: user Stefano Gervasutti (115015747211922750658) is present
+16:59:36 WARNING plugins.mentions: @ste not sent due to multiple recipients
+16:59:36 INFO event: eid/dt: 8A2kfI43Aqw8Ab7XsND7w8/2016-02-23 16:59:36
+16:59:36 INFO event: cid/cn: UgxMqRbAYyqaJd_hVzB4AaABAagBv_DXAQ/daisy
+16:59:36 INFO event: c/g/un: 114381395495050993911/114381395495050993911/Daisy Burn
+16:59:36 INFO event: len/tx: 192/3 users would be mentioned with "@ste"! Be more specific. List of matching users:
+Kristina Steckiene
+Asterion Nemesis
+Stefano Gervasutti
+
+To toggle this message on/off, use /bot bemorespecific
+17:00:04 INFO event: eid/dt: 7-H0Z7-Jq1P8Ab7aE8g1P7/2016-02-23 17:00:03
+17:00:04 INFO event: cid/cn: UgygYiqxSUTc7bNQriF4AaABAQ/Nerd disadattati della bassa che donano soldi alla Esso con la scusa di giocare ad Ingress (PSCZ®)
+17:00:04 INFO event: c/g/un: 113227689978504931898/113227689978504931898/Andrea Forlin
+17:00:04 INFO event: len/tx: 3/Ops
+17:00:04 WARNING permamem: unknown users returned from Nerd disadattati della bassa che donano soldi alla Esso con la scusa di giocare ad Ingress (PSCZ®) (UgygYiqxSUTc7bNQriF4AaABAQ): ['100710742925270496280']
+17:00:08 INFO event: eid/dt: 7-H0Z7-Jq1P8Ab7ak_CvQl/2016-02-23 17:00:08
+17:00:08 INFO event: cid/cn: UgygYiqxSUTc7bNQriF4AaABAQ/Nerd disadattati della bassa che donano soldi alla Esso con la scusa di giocare ad Ingress (PSCZ®)
+17:00:08 INFO event: c/g/un: 113227689978504931898/113227689978504931898/Andrea Forlin
+17:00:08 INFO event: len/tx: 192/3 users would be mentioned with "@ste"! Be more specific. List of matching users:
+Kristina Steckiene
+Asterion Nemesis
+Stefano Gervasutti
+
+To toggle this message on/off, use /bot bemorespecific
+17:00:08 WARNING permamem: unknown users returned from Nerd disadattati della bassa che donano soldi alla Esso con la scusa di giocare ad Ingress (PSCZ®) (UgygYiqxSUTc7bNQriF4AaABAQ): ['100710742925270496280']
+17:00:18 INFO event: eid/dt: 7-H0Z7-Jq1P8Ab7c-8aS_1/2016-02-23 17:00:18
+17:00:18 INFO event: cid/cn: UgygYiqxSUTc7bNQriF4AaABAQ/Nerd disadattati della bassa che donano soldi alla Esso con la scusa di giocare ad Ingress (PSCZ®)
+17:00:18 INFO event: c/g/un: 113227689978504931898/113227689978504931898/Andrea Forlin
+17:00:18 INFO event: len/tx: 9/Scusate 😰
+17:00:18 WARNING permamem: unknown users returned from Nerd disadattati della bassa che donano soldi alla Esso con la scusa di giocare ad Ingress (PSCZ®) (UgygYiqxSUTc7bNQriF4AaABAQ): ['100710742925270496280']
+17:00:41 INFO event: eid/dt: 7-H0Z7-Jq1P8Ab7eobUaT0/2016-02-23 17:00:41
+17:00:41 INFO event: cid/cn: UgygYiqxSUTc7bNQriF4AaABAQ/Nerd disadattati della bassa che donano soldi alla Esso con la scusa di giocare ad Ingress (PSCZ®)
+17:00:41 INFO event: c/g/un: 113227689978504931898/113227689978504931898/Andrea Forlin
+17:00:41 INFO event: len/tx: 6/@Gerva
+17:00:41 WARNING permamem: unknown users returned from Nerd disadattati della bassa che donano soldi alla Esso con la scusa di giocare ad Ingress (PSCZ®) (UgygYiqxSUTc7bNQriF4AaABAQ): ['100710742925270496280']
+17:00:42 INFO root: get_1on1: remembered UgxMqRbAYyqaJd_hVzB4AaABAagBv_DXAQ for 113227689978504931898
+17:00:42 INFO plugins.mentions: @mention 'Gerva' in 'Nerd disadattati della bassa che donano soldi alla Esso con la scusa di giocare ad Ingress (PSCZ®)' (UgygYiqxSUTc7bNQriF4AaABAQ)
+17:00:42 INFO plugins.mentions: user Stefano Gervasutti (115015747211922750658) is present
+17:00:42 INFO root: get_1on1: remembered UgzPbdpxwtYXJH93vfN4AaABAagB7_HuCA for 115015747211922750658
+17:00:42 INFO plugins.mentions: Stefano Gervasutti (115015747211922750658) alerted via 1on1 (UgzPbdpxwtYXJH93vfN4AaABAagB7_HuCA)
+17:00:42 INFO event: eid/dt: 8APfsHb98NR8Ab7ewYjv_w/2016-02-23 17:00:42
+17:00:42 INFO event: cid/cn: UgzPbdpxwtYXJH93vfN4AaABAagB7_HuCA/Stefano Gervasutti
+17:00:42 INFO event: c/g/un: 114381395495050993911/114381395495050993911/Daisy Burn
+17:00:42 INFO event: len/tx: 138/Andrea Forlin @mentioned you in Nerd disadattati della bassa che donano soldi alla Esso con la scusa di giocare ad Ingress (PSCZ®):
+@Gerva
+17:01:12 INFO event: eid/dt: 7-H0Z7-Jq1P8Ab7iZ-wYPz/2016-02-23 17:01:12
+17:01:12 INFO event: cid/cn: UgygYiqxSUTc7bNQriF4AaABAQ/Nerd disadattati della bassa che donano soldi alla Esso con la scusa di giocare ad Ingress (PSCZ®)
+17:01:12 INFO event: c/g/un: 115015747211922750658/115015747211922750658/Stefano Gervasutti
+17:01:12 INFO event: len/tx: 3/Lol
+17:01:12 WARNING permamem: unknown users returned from Nerd disadattati della bassa che donano soldi alla Esso con la scusa di giocare ad Ingress (PSCZ®) (UgygYiqxSUTc7bNQriF4AaABAQ): ['100710742925270496280']
+17:01:26 INFO event: eid/dt: 7-H0Z7-Jq1P8Ab7kDjkddA/2016-02-23 17:01:25
+17:01:26 INFO event: cid/cn: UgygYiqxSUTc7bNQriF4AaABAQ/Nerd disadattati della bassa che donano soldi alla Esso con la scusa di giocare ad Ingress (PSCZ®)
+17:01:26 INFO event: c/g/un: 115015747211922750658/115015747211922750658/Stefano Gervasutti
+17:01:26 INFO event: len/tx: 9/Dicono...
+17:01:26 WARNING permamem: unknown users returned from Nerd disadattati della bassa che donano soldi alla Esso con la scusa di giocare ad Ingress (PSCZ®) (UgygYiqxSUTc7bNQriF4AaABAQ): ['100710742925270496280']
+18:35:58 INFO event: eid/dt: 7-H0Z7-Jq1P8AbIZfWOx2Q/2016-02-23 18:35:58
+18:35:58 INFO event: cid/cn: UgygYiqxSUTc7bNQriF4AaABAQ/Nerd disadattati della bassa che donano soldi alla Esso con la scusa di giocare ad Ingress (PSCZ®)
+18:35:58 INFO event: c/g/un: 115015747211922750658/115015747211922750658/Stefano Gervasutti
+18:35:58 INFO event: len/tx: 100/https://lh3.googleusercontent.com/-6GIbLd62CzM/VsyYfOoIJTI/AAAAAAAAb1k/D2KeMZipgtY/s0/2016-02-23.jpg
+18:35:58 WARNING permamem: unknown users returned from Nerd disadattati della bassa che donano soldi alla Esso con la scusa di giocare ad Ingress (PSCZ®) (UgygYiqxSUTc7bNQriF4AaABAQ): ['100710742925270496280']
+18:36:04 INFO event: eid/dt: 7-H0Z7-Jq1P8AbI_LpGLMO/2016-02-23 18:36:03
+18:36:04 INFO event: cid/cn: UgygYiqxSUTc7bNQriF4AaABAQ/Nerd disadattati della bassa che donano soldi alla Esso con la scusa di giocare ad Ingress (PSCZ®)
+18:36:04 INFO event: c/g/un: 115015747211922750658/115015747211922750658/Stefano Gervasutti
+18:36:04 INFO event: len/tx: 9/Tiro Gad?
+18:36:04 WARNING permamem: unknown users returned from Nerd disadattati della bassa che donano soldi alla Esso con la scusa di giocare ad Ingress (PSCZ®) (UgygYiqxSUTc7bNQriF4AaABAQ): ['100710742925270496280']
+18:36:04 INFO plugins.subscribe: keyword 'gad' in 'Nerd disadattati della bassa che donano soldi alla Esso con la scusa di giocare ad Ingress (PSCZ®)' (UgygYiqxSUTc7bNQriF4AaABAQ)
+18:36:04 INFO root: get_1on1: remembered Ugzc9QDaeT1UGq7mXKZ4AaABAagBsf2ODQ for 113233973177106453014
+18:36:05 INFO plugins.subscribe: Michael Snidaro (113233973177106453014) alerted via 1on1 (Ugzc9QDaeT1UGq7mXKZ4AaABAagBsf2ODQ)
+18:36:05 INFO event: eid/dt: 8A2khb34iE28AbI_UEbjUI/2016-02-23 18:36:05
+18:36:05 INFO event: cid/cn: Ugzc9QDaeT1UGq7mXKZ4AaABAagBsf2ODQ/Michael Snidaro
+18:36:05 INFO event: c/g/un: 114381395495050993911/114381395495050993911/Daisy Burn
+18:36:05 INFO event: len/tx: 147/Stefano Gervasutti mentioned 'gad' in Nerd disadattati della bassa che donano soldi alla Esso con la scusa di giocare ad Ingress (PSCZ®):
+Tiro Gad?
+18:36:11 INFO event: eid/dt: 7-H0Z7-Jq1P8AbIaEAnVDn/2016-02-23 18:36:11
+18:36:11 INFO event: cid/cn: UgygYiqxSUTc7bNQriF4AaABAQ/Nerd disadattati della bassa che donano soldi alla Esso con la scusa di giocare ad Ingress (PSCZ®)
+18:36:11 INFO event: c/g/un: 115015747211922750658/115015747211922750658/Stefano Gervasutti
+18:36:11 INFO event: len/tx: 5/😂😂😂😂😂
+18:36:11 WARNING permamem: unknown users returned from Nerd disadattati della bassa che donano soldi alla Esso con la scusa di giocare ad Ingress (PSCZ®) (UgygYiqxSUTc7bNQriF4AaABAQ): ['100710742925270496280']
+18:36:17 INFO event: eid/dt: 7-H0Z7-Jq1P8AbIawG0R44/2016-02-23 18:36:16
+18:36:17 INFO event: cid/cn: UgygYiqxSUTc7bNQriF4AaABAQ/Nerd disadattati della bassa che donano soldi alla Esso con la scusa di giocare ad Ingress (PSCZ®)
+18:36:17 INFO event: c/g/un: 105205364708729768576/105205364708729768576/Kaeel L.
+18:36:17 INFO event: len/tx: 9/Siiiiiiii
+18:36:17 WARNING permamem: unknown users returned from Nerd disadattati della bassa che donano soldi alla Esso con la scusa di giocare ad Ingress (PSCZ®) (UgygYiqxSUTc7bNQriF4AaABAQ): ['100710742925270496280']
+18:36:27 INFO event: eid/dt: 7-H0Z7-Jq1P8AbIc8dIlu8/2016-02-23 18:36:26
+18:36:27 INFO event: cid/cn: UgygYiqxSUTc7bNQriF4AaABAQ/Nerd disadattati della bassa che donano soldi alla Esso con la scusa di giocare ad Ingress (PSCZ®)
+18:36:27 INFO event: c/g/un: 115015747211922750658/115015747211922750658/Stefano Gervasutti
+18:36:27 INFO event: len/tx: 100/https://lh3.googleusercontent.com/-SYk2BE3M8pA/VsyYmG-XusI/AAAAAAAAb1s/vEArptvjHJI/s0/2016-02-23.jpg
+18:36:27 WARNING permamem: unknown users returned from Nerd disadattati della bassa che donano soldi alla Esso con la scusa di giocare ad Ingress (PSCZ®) (UgygYiqxSUTc7bNQriF4AaABAQ): ['100710742925270496280']
+18:36:43 INFO event: eid/dt: 7-H0Z7-Jq1P8AbIe73f7kQ/2016-02-23 18:36:43
+18:36:43 INFO event: cid/cn: UgygYiqxSUTc7bNQriF4AaABAQ/Nerd disadattati della bassa che donano soldi alla Esso con la scusa di giocare ad Ingress (PSCZ®)
+18:36:43 INFO event: c/g/un: 115015747211922750658/115015747211922750658/Stefano Gervasutti
+18:36:43 INFO event: len/tx: 42/Un link Firenze Cervignano....sai che fico
+18:36:43 WARNING permamem: unknown users returned from Nerd disadattati della bassa che donano soldi alla Esso con la scusa di giocare ad Ingress (PSCZ®) (UgygYiqxSUTc7bNQriF4AaABAQ): ['100710742925270496280']
+18:37:06 INFO event: eid/dt: 7-H0Z7-Jq1P8AbIgxv5N1t/2016-02-23 18:37:06
+18:37:06 INFO event: cid/cn: UgygYiqxSUTc7bNQriF4AaABAQ/Nerd disadattati della bassa che donano soldi alla Esso con la scusa di giocare ad Ingress (PSCZ®)
+18:37:06 INFO event: c/g/un: 113233973177106453014/113233973177106453014/Michael Snidaro
+18:37:06 INFO event: len/tx: 465/nuooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+18:37:06 WARNING permamem: unknown users returned from Nerd disadattati della bassa che donano soldi alla Esso con la scusa di giocare ad Ingress (PSCZ®) (UgygYiqxSUTc7bNQriF4AaABAQ): ['100710742925270496280']
+18:37:29 INFO event: eid/dt: 7-H0Z7-Jq1P8AbIjniT515/2016-02-23 18:37:29
+18:37:29 INFO event: cid/cn: UgygYiqxSUTc7bNQriF4AaABAQ/Nerd disadattati della bassa che donano soldi alla Esso con la scusa di giocare ad Ingress (PSCZ®)
+18:37:29 INFO event: c/g/un: 105205364708729768576/105205364708729768576/Kaeel L.
+18:37:29 INFO event: len/tx: 12/*celebrates*
+18:37:29 WARNING permamem: unknown users returned from Nerd disadattati della bassa che donano soldi alla Esso con la scusa di giocare ad Ingress (PSCZ®) (UgygYiqxSUTc7bNQriF4AaABAQ): ['100710742925270496280']
+18:38:36 INFO event: eid/dt: 7-H0Z7-Jq1P8AbIrw5ungz/2016-02-23 18:38:36
+18:38:36 INFO event: cid/cn: UgygYiqxSUTc7bNQriF4AaABAQ/Nerd disadattati della bassa che donano soldi alla Esso con la scusa di giocare ad Ingress (PSCZ®)
+18:38:36 INFO event: c/g/un: 115015747211922750658/115015747211922750658/Stefano Gervasutti
+18:38:36 INFO event: len/tx: 32/Mi da tutta Cervignano linkabile
+18:38:36 WARNING permamem: unknown users returned from Nerd disadattati della bassa che donano soldi alla Esso con la scusa di giocare ad Ingress (PSCZ®) (UgygYiqxSUTc7bNQriF4AaABAQ): ['100710742925270496280']
+18:38:39 INFO event: eid/dt: 7-H0Z7-Jq1P8AbIsLXDmN7/2016-02-23 18:38:39
+18:38:39 INFO event: cid/cn: UgygYiqxSUTc7bNQriF4AaABAQ/Nerd disadattati della bassa che donano soldi alla Esso con la scusa di giocare ad Ingress (PSCZ®)
+18:38:39 INFO event: c/g/un: 115015747211922750658/115015747211922750658/Stefano Gervasutti
+18:38:39 INFO event: len/tx: 1/😈
+18:38:39 WARNING permamem: unknown users returned from Nerd disadattati della bassa che donano soldi alla Esso con la scusa di giocare ad Ingress (PSCZ®) (UgygYiqxSUTc7bNQriF4AaABAQ): ['100710742925270496280']
+18:38:48 INFO event: eid/dt: 7-H0Z7-Jq1P8AbItRonllq/2016-02-23 18:38:48
+18:38:48 INFO event: cid/cn: UgygYiqxSUTc7bNQriF4AaABAQ/Nerd disadattati della bassa che donano soldi alla Esso con la scusa di giocare ad Ingress (PSCZ®)
+18:38:48 INFO event: c/g/un: 115015747211922750658/115015747211922750658/Stefano Gervasutti
+18:38:48 INFO event: len/tx: 8/Medaglia
+18:38:48 WARNING permamem: unknown users returned from Nerd disadattati della bassa che donano soldi alla Esso con la scusa di giocare ad Ingress (PSCZ®) (UgygYiqxSUTc7bNQriF4AaABAQ): ['100710742925270496280']
+18:38:51 INFO event: eid/dt: 7-H0Z7-Jq1P8AbItj5w9lc/2016-02-23 18:38:50
+18:38:51 INFO event: cid/cn: UgygYiqxSUTc7bNQriF4AaABAQ/Nerd disadattati della bassa che donano soldi alla Esso con la scusa di giocare ad Ingress (PSCZ®)
+18:38:51 INFO event: c/g/un: 115015747211922750658/115015747211922750658/Stefano Gervasutti
+18:38:51 INFO event: len/tx: 100/https://lh3.googleusercontent.com/-iQ-zEX3utCc/VsyZKaSM9oI/AAAAAAAAb10/IFRFX3iDdLQ/s0/2016-02-23.jpg
+18:38:51 WARNING permamem: unknown users returned from Nerd disadattati della bassa che donano soldi alla Esso con la scusa di giocare ad Ingress (PSCZ®) (UgygYiqxSUTc7bNQriF4AaABAQ): ['100710742925270496280']
+18:39:25 INFO event: eid/dt: 7-H0Z7-Jq1P8AbIxv3-fRG/2016-02-23 18:39:25
+18:39:25 INFO event: cid/cn: UgygYiqxSUTc7bNQriF4AaABAQ/Nerd disadattati della bassa che donano soldi alla Esso con la scusa di giocare ad Ingress (PSCZ®)
+18:39:25 INFO event: c/g/un: 113233973177106453014/113233973177106453014/Michael Snidaro
+18:39:25 INFO event: len/tx: 111/ste, allora vieni a cervignano, fai tutti i link interni e te ne esci con un bel po' di punti e stat pompate  😇
+18:39:25 WARNING permamem: unknown users returned from Nerd disadattati della bassa che donano soldi alla Esso con la scusa di giocare ad Ingress (PSCZ®) (UgygYiqxSUTc7bNQriF4AaABAQ): ['100710742925270496280']
+18:39:46 INFO event: eid/dt: 7-H0Z7-Jq1P8AbJ-Sx7PZJ/2016-02-23 18:39:46
+18:39:46 INFO event: cid/cn: UgygYiqxSUTc7bNQriF4AaABAQ/Nerd disadattati della bassa che donano soldi alla Esso con la scusa di giocare ad Ingress (PSCZ®)
+18:39:46 INFO event: c/g/un: 115015747211922750658/115015747211922750658/Stefano Gervasutti
+18:39:46 INFO event: len/tx: 6/Ap io?
+18:39:46 WARNING permamem: unknown users returned from Nerd disadattati della bassa che donano soldi alla Esso con la scusa di giocare ad Ingress (PSCZ®) (UgygYiqxSUTc7bNQriF4AaABAQ): ['100710742925270496280']
+18:40:04 INFO event: eid/dt: 7-H0Z7-Jq1P8AbJ1i8eRJ8/2016-02-23 18:40:04
+18:40:04 INFO event: cid/cn: UgygYiqxSUTc7bNQriF4AaABAQ/Nerd disadattati della bassa che donano soldi alla Esso con la scusa di giocare ad Ingress (PSCZ®)
+18:40:04 INFO event: c/g/un: 115015747211922750658/115015747211922750658/Stefano Gervasutti
+18:40:04 INFO event: len/tx: 13/*guarda Paul*
+18:40:04 WARNING permamem: unknown users returned from Nerd disadattati della bassa che donano soldi alla Esso con la scusa di giocare ad Ingress (PSCZ®) (UgygYiqxSUTc7bNQriF4AaABAQ): ['100710742925270496280']
+18:40:05 INFO plugins.subscribe: keyword 'paul' in 'Nerd disadattati della bassa che donano soldi alla Esso con la scusa di giocare ad Ingress (PSCZ®)' (UgygYiqxSUTc7bNQriF4AaABAQ)
+18:40:05 INFO root: get_1on1: remembered UgzVXtkQCY8v_GyyAYp4AaABAagB1YTECQ for 105205364708729768576
+18:40:05 INFO plugins.subscribe: Kaeel L. (105205364708729768576) alerted via 1on1 (UgzVXtkQCY8v_GyyAYp4AaABAagB1YTECQ)
+18:40:05 INFO event: eid/dt: 8A2qmnfYwt08AbJ1rXED0p/2016-02-23 18:40:05
+18:40:05 INFO event: cid/cn: UgzVXtkQCY8v_GyyAYp4AaABAagB1YTECQ/Kaeel L.
+18:40:05 INFO event: c/g/un: 114381395495050993911/114381395495050993911/Daisy Burn
+18:40:05 INFO event: len/tx: 150/Stefano Gervasutti mentioned 'paul' in Nerd disadattati della bassa che donano soldi alla Esso con la scusa di giocare ad Ingress (PSCZ®):
+guarda Paul
+18:41:23 INFO event: eid/dt: 7-H0Z7-Jq1P8AbJBGV0ZYC/2016-02-23 18:41:22
+18:41:23 INFO event: cid/cn: UgygYiqxSUTc7bNQriF4AaABAQ/Nerd disadattati della bassa che donano soldi alla Esso con la scusa di giocare ad Ingress (PSCZ®)
+18:41:23 INFO event: c/g/un: 115015747211922750658/115015747211922750658/Stefano Gervasutti
+18:41:23 INFO event: len/tx: 13/Chiedi a Fede
+18:41:23 WARNING permamem: unknown users returned from Nerd disadattati della bassa che donano soldi alla Esso con la scusa di giocare ad Ingress (PSCZ®) (UgygYiqxSUTc7bNQriF4AaABAQ): ['100710742925270496280']
+18:49:25 INFO event: eid/dt: 7-H0Z7-Jq1P8AbK6BuLlZK/2016-02-23 18:49:25
+18:49:25 INFO event: cid/cn: UgygYiqxSUTc7bNQriF4AaABAQ/Nerd disadattati della bassa che donano soldi alla Esso con la scusa di giocare ad Ingress (PSCZ®)
+18:49:25 INFO event: c/g/un: 113233973177106453014/113233973177106453014/Michael Snidaro
+18:49:25 INFO event: len/tx: 46/punti gratis al primo che arriva a cervignano!
+18:49:25 WARNING permamem: unknown users returned from Nerd disadattati della bassa che donano soldi alla Esso con la scusa di giocare ad Ingress (PSCZ®) (UgygYiqxSUTc7bNQriF4AaABAQ): ['100710742925270496280']
+18:49:39 INFO event: eid/dt: 7-H0Z7-Jq1P8AbK7qPKtwV/2016-02-23 18:49:38
+18:49:39 INFO event: cid/cn: UgygYiqxSUTc7bNQriF4AaABAQ/Nerd disadattati della bassa che donano soldi alla Esso con la scusa di giocare ad Ingress (PSCZ®)
+18:49:39 INFO event: c/g/un: 113233973177106453014/113233973177106453014/Michael Snidaro
+18:49:39 INFO event: len/tx: 78/prima che stegerva linki qualunque portale da palmanova, per cui sbrigatevi!!!
+18:49:39 WARNING permamem: unknown users returned from Nerd disadattati della bassa che donano soldi alla Esso con la scusa di giocare ad Ingress (PSCZ®) (UgygYiqxSUTc7bNQriF4AaABAQ): ['100710742925270496280']
+18:49:44 INFO event: eid/dt: 7-H0Z7-Jq1P8AbK8T5ltip/2016-02-23 18:49:44
+18:49:44 INFO event: cid/cn: UgygYiqxSUTc7bNQriF4AaABAQ/Nerd disadattati della bassa che donano soldi alla Esso con la scusa di giocare ad Ingress (PSCZ®)
+18:49:44 INFO event: c/g/un: 113233973177106453014/113233973177106453014/Michael Snidaro
+18:49:44 INFO event: len/tx: 3/😂😂😂
+18:49:44 WARNING permamem: unknown users returned from Nerd disadattati della bassa che donano soldi alla Esso con la scusa di giocare ad Ingress (PSCZ®) (UgygYiqxSUTc7bNQriF4AaABAQ): ['100710742925270496280']
+19:17:56 INFO event: eid/dt: 7-H0Z7-Jq1P8AbNMxD9R6y/2016-02-23 19:17:55
+19:17:56 INFO event: cid/cn: UgygYiqxSUTc7bNQriF4AaABAQ/Nerd disadattati della bassa che donano soldi alla Esso con la scusa di giocare ad Ingress (PSCZ®)
+19:17:56 INFO event: c/g/un: 115015747211922750658/115015747211922750658/Stefano Gervasutti
+19:17:56 INFO event: len/tx: 16/Pure da Udine...
+19:17:56 WARNING permamem: unknown users returned from Nerd disadattati della bassa che donano soldi alla Esso con la scusa di giocare ad Ingress (PSCZ®) (UgygYiqxSUTc7bNQriF4AaABAQ): ['100710742925270496280']
+19:18:05 INFO event: eid/dt: 7-H0Z7-Jq1P8AbNO6ToCxv/2016-02-23 19:18:05
+19:18:05 INFO event: cid/cn: UgygYiqxSUTc7bNQriF4AaABAQ/Nerd disadattati della bassa che donano soldi alla Esso con la scusa di giocare ad Ingress (PSCZ®)
+19:18:05 INFO event: c/g/un: 115015747211922750658/115015747211922750658/Stefano Gervasutti
+19:18:05 INFO event: len/tx: 21/Ilpirla sta liberando
+19:18:05 WARNING permamem: unknown users returned from Nerd disadattati della bassa che donano soldi alla Esso con la scusa di giocare ad Ingress (PSCZ®) (UgygYiqxSUTc7bNQriF4AaABAQ): ['100710742925270496280']
+19:18:24 INFO event: eid/dt: 7-H0Z7-Jq1P8AbNQUJzSbw/2016-02-23 19:18:24
+19:18:24 INFO event: cid/cn: UgygYiqxSUTc7bNQriF4AaABAQ/Nerd disadattati della bassa che donano soldi alla Esso con la scusa di giocare ad Ingress (PSCZ®)
+19:18:24 INFO event: c/g/un: 115015747211922750658/115015747211922750658/Stefano Gervasutti
+19:18:24 INFO event: len/tx: 24/Gnegni ha liberato palma
+19:18:24 WARNING permamem: unknown users returned from Nerd disadattati della bassa che donano soldi alla Esso con la scusa di giocare ad Ingress (PSCZ®) (UgygYiqxSUTc7bNQriF4AaABAQ): ['100710742925270496280']
+19:18:31 INFO event: eid/dt: 7-H0Z7-Jq1P8AbNRDHzTW3/2016-02-23 19:18:30
+19:18:31 INFO event: cid/cn: UgygYiqxSUTc7bNQriF4AaABAQ/Nerd disadattati della bassa che donano soldi alla Esso con la scusa di giocare ad Ingress (PSCZ®)
+19:18:31 INFO event: c/g/un: 115015747211922750658/115015747211922750658/Stefano Gervasutti
+19:18:31 INFO event: len/tx: 1/😅
+19:18:31 WARNING permamem: unknown users returned from Nerd disadattati della bassa che donano soldi alla Esso con la scusa di giocare ad Ingress (PSCZ®) (UgygYiqxSUTc7bNQriF4AaABAQ): ['100710742925270496280']
+19:35:12 INFO event: eid/dt: 7-H0Z7-Jq1P8AbPLTtvPeS/2016-02-23 19:35:12
+19:35:12 INFO event: cid/cn: UgygYiqxSUTc7bNQriF4AaABAQ/Nerd disadattati della bassa che donano soldi alla Esso con la scusa di giocare ad Ingress (PSCZ®)
+19:35:12 INFO event: c/g/un: 113233973177106453014/113233973177106453014/Michael Snidaro
+19:35:12 INFO event: len/tx: 96/Leofriul invece ha ricominciato a frequentare la croce verde di Cervignano con lo scanner acceso
+19:35:12 WARNING permamem: unknown users returned from Nerd disadattati della bassa che donano soldi alla Esso con la scusa di giocare ad Ingress (PSCZ®) (UgygYiqxSUTc7bNQriF4AaABAQ): ['100710742925270496280']
+20:14:56 INFO event: eid/dt: 7-H0Z7-Jq1P8AbTtVKk5Py/2016-02-23 20:14:56
+20:14:56 INFO event: cid/cn: UgygYiqxSUTc7bNQriF4AaABAQ/Nerd disadattati della bassa che donano soldi alla Esso con la scusa di giocare ad Ingress (PSCZ®)
+20:14:56 INFO event: c/g/un: 115015747211922750658/115015747211922750658/Stefano Gervasutti
+20:14:56 INFO event: len/tx: 92/Cmq ho creato un mostro... Paul sta coordinando tutta la west coast per l'anomaly di Seattle
+20:14:56 WARNING permamem: unknown users returned from Nerd disadattati della bassa che donano soldi alla Esso con la scusa di giocare ad Ingress (PSCZ®) (UgygYiqxSUTc7bNQriF4AaABAQ): ['100710742925270496280']
+20:14:57 INFO plugins.subscribe: keyword 'paul' in 'Nerd disadattati della bassa che donano soldi alla Esso con la scusa di giocare ad Ingress (PSCZ®)' (UgygYiqxSUTc7bNQriF4AaABAQ)
+20:14:57 INFO root: get_1on1: remembered UgzVXtkQCY8v_GyyAYp4AaABAagB1YTECQ for 105205364708729768576
+20:14:57 INFO plugins.subscribe: Kaeel L. (105205364708729768576) alerted via 1on1 (UgzVXtkQCY8v_GyyAYp4AaABAagB1YTECQ)
+20:14:57 INFO event: eid/dt: 8A2qmnfYwt08AbTteN7HrF/2016-02-23 20:14:57
+20:14:57 INFO event: cid/cn: UgzVXtkQCY8v_GyyAYp4AaABAagB1YTECQ/Kaeel L.
+20:14:57 INFO event: c/g/un: 114381395495050993911/114381395495050993911/Daisy Burn
+20:14:57 INFO event: len/tx: 231/Stefano Gervasutti mentioned 'paul' in Nerd disadattati della bassa che donano soldi alla Esso con la scusa di giocare ad Ingress (PSCZ®):
+Cmq ho creato un mostro... Paul sta coordinando tutta la west coast per l'anomaly di Seattle
+20:15:18 INFO event: eid/dt: 7-H0Z7-Jq1P8AbTwA9tLJL/2016-02-23 20:15:18
+20:15:18 INFO event: cid/cn: UgygYiqxSUTc7bNQriF4AaABAQ/Nerd disadattati della bassa che donano soldi alla Esso con la scusa di giocare ad Ingress (PSCZ®)
+20:15:18 INFO event: c/g/un: 115015747211922750658/115015747211922750658/Stefano Gervasutti
+20:15:18 INFO event: len/tx: 102/https://lh3.googleusercontent.com/-RanD8d8Fkm0/UpQC6PnlMjI/AAAAAAAAAB0/PA60gll2qDY/s0/scared_image.gif
+20:15:18 WARNING permamem: unknown users returned from Nerd disadattati della bassa che donano soldi alla Esso con la scusa di giocare ad Ingress (PSCZ®) (UgygYiqxSUTc7bNQriF4AaABAQ): ['100710742925270496280']
+20:16:44 INFO event: eid/dt: 7-H0Z7-Jq1P8AbU5i_gBy7/2016-02-23 20:16:44
+20:16:44 INFO event: cid/cn: UgygYiqxSUTc7bNQriF4AaABAQ/Nerd disadattati della bassa che donano soldi alla Esso con la scusa di giocare ad Ingress (PSCZ®)
+20:16:44 INFO event: c/g/un: 113233973177106453014/113233973177106453014/Michael Snidaro
+20:16:44 INFO event: len/tx: 17/Il Friuli domina!
+20:16:44 WARNING permamem: unknown users returned from Nerd disadattati della bassa che donano soldi alla Esso con la scusa di giocare ad Ingress (PSCZ®) (UgygYiqxSUTc7bNQriF4AaABAQ): ['100710742925270496280']
+20:17:20 INFO event: eid/dt: 7-H0Z7-Jq1P8AbUA3iVVgJ/2016-02-23 20:17:20
+20:17:20 INFO event: cid/cn: UgygYiqxSUTc7bNQriF4AaABAQ/Nerd disadattati della bassa che donano soldi alla Esso con la scusa di giocare ad Ingress (PSCZ®)
+20:17:20 INFO event: c/g/un: 113233973177106453014/113233973177106453014/Michael Snidaro
+20:17:20 INFO event: len/tx: 75/Anche se Kaeel non sarà mai "fondamentale sugli scenari internazionali" 😂😂😂
+20:17:20 WARNING permamem: unknown users returned from Nerd disadattati della bassa che donano soldi alla Esso con la scusa di giocare ad Ingress (PSCZ®) (UgygYiqxSUTc7bNQriF4AaABAQ): ['100710742925270496280']
+20:17:21 INFO plugins.subscribe: keyword 'kaeel' in 'Nerd disadattati della bassa che donano soldi alla Esso con la scusa di giocare ad Ingress (PSCZ®)' (UgygYiqxSUTc7bNQriF4AaABAQ)
+20:17:21 INFO root: get_1on1: remembered UgzVXtkQCY8v_GyyAYp4AaABAagB1YTECQ for 105205364708729768576
+20:17:21 INFO plugins.subscribe: Kaeel L. (105205364708729768576) alerted via 1on1 (UgzVXtkQCY8v_GyyAYp4AaABAagB1YTECQ)
+20:17:21 INFO event: eid/dt: 8A2qmnfYwt08AbUAFK0QJ6/2016-02-23 20:17:21
+20:17:21 INFO event: cid/cn: UgzVXtkQCY8v_GyyAYp4AaABAagB1YTECQ/Kaeel L.
+20:17:21 INFO event: c/g/un: 114381395495050993911/114381395495050993911/Daisy Burn
+20:17:21 INFO event: len/tx: 212/Michael Snidaro mentioned 'kaeel' in Nerd disadattati della bassa che donano soldi alla Esso con la scusa di giocare ad Ingress (PSCZ®):
+Anche se Kaeel non sarà mai "fondamentale sugli scenari internazionali" 😂😂😂
+20:17:30 INFO event: eid/dt: 7-H0Z7-Jq1P8AbUBEBCDbZ/2016-02-23 20:17:29
+20:17:30 INFO event: cid/cn: UgygYiqxSUTc7bNQriF4AaABAQ/Nerd disadattati della bassa che donano soldi alla Esso con la scusa di giocare ad Ingress (PSCZ®)
+20:17:30 INFO event: c/g/un: 105205364708729768576/105205364708729768576/Kaeel L.
+20:17:30 INFO event: len/tx: 66/"iscriviti, l'altra volta mi hanno fatto guardare un parco" (cit.)
+20:17:30 WARNING permamem: unknown users returned from Nerd disadattati della bassa che donano soldi alla Esso con la scusa di giocare ad Ingress (PSCZ®) (UgygYiqxSUTc7bNQriF4AaABAQ): ['100710742925270496280']
+20:17:46 INFO event: eid/dt: 7-H0Z7-Jq1P8AbUDCIC4ze/2016-02-23 20:17:45
+20:17:46 INFO event: cid/cn: UgygYiqxSUTc7bNQriF4AaABAQ/Nerd disadattati della bassa che donano soldi alla Esso con la scusa di giocare ad Ingress (PSCZ®)
+20:17:46 INFO event: c/g/un: 105205364708729768576/105205364708729768576/Kaeel L.
+20:17:46 INFO event: len/tx: 9/#bioparco
+20:17:46 WARNING permamem: unknown users returned from Nerd disadattati della bassa che donano soldi alla Esso con la scusa di giocare ad Ingress (PSCZ®) (UgygYiqxSUTc7bNQriF4AaABAQ): ['100710742925270496280']
+20:18:12 INFO event: eid/dt: 7-H0Z7-Jq1P8AbUGO7-LjB/2016-02-23 20:18:11
+20:18:12 INFO event: cid/cn: UgygYiqxSUTc7bNQriF4AaABAQ/Nerd disadattati della bassa che donano soldi alla Esso con la scusa di giocare ad Ingress (PSCZ®)
+20:18:12 INFO event: c/g/un: 113233973177106453014/113233973177106453014/Michael Snidaro
+20:18:12 INFO event: len/tx: 3/Lol
+20:18:12 WARNING permamem: unknown users returned from Nerd disadattati della bassa che donano soldi alla Esso con la scusa di giocare ad Ingress (PSCZ®) (UgygYiqxSUTc7bNQriF4AaABAQ): ['100710742925270496280']
+20:18:30 INFO event: eid/dt: 7-H0Z7-Jq1P8AbUIZ5_o61/2016-02-23 20:18:29
+20:18:30 INFO event: cid/cn: UgygYiqxSUTc7bNQriF4AaABAQ/Nerd disadattati della bassa che donano soldi alla Esso con la scusa di giocare ad Ingress (PSCZ®)
+20:18:30 INFO event: c/g/un: 113233973177106453014/113233973177106453014/Michael Snidaro
+20:18:30 INFO event: len/tx: 48/Stefano sta guardando un parco anche stavolta? 😂
+20:18:30 WARNING permamem: unknown users returned from Nerd disadattati della bassa che donano soldi alla Esso con la scusa di giocare ad Ingress (PSCZ®) (UgygYiqxSUTc7bNQriF4AaABAQ): ['100710742925270496280']
+20:19:05 INFO event: eid/dt: 7-H0Z7-Jq1P8AbUMpwFzfz/2016-02-23 20:19:04
+20:19:05 INFO event: cid/cn: UgygYiqxSUTc7bNQriF4AaABAQ/Nerd disadattati della bassa che donano soldi alla Esso con la scusa di giocare ad Ingress (PSCZ®)
+20:19:05 INFO event: c/g/un: 105205364708729768576/105205364708729768576/Kaeel L.
+20:19:05 INFO event: len/tx: 79/Chiccazzo ha cancellato la descrizione di OKEY, che avevo messo tutti i link? 😑
+20:19:05 WARNING permamem: unknown users returned from Nerd disadattati della bassa che donano soldi alla Esso con la scusa di giocare ad Ingress (PSCZ®) (UgygYiqxSUTc7bNQriF4AaABAQ): ['100710742925270496280']
+20:19:23 INFO event: eid/dt: 7-H0Z7-Jq1P8AbUP7fjDbV/2016-02-23 20:19:23
+20:19:23 INFO event: cid/cn: UgygYiqxSUTc7bNQriF4AaABAQ/Nerd disadattati della bassa che donano soldi alla Esso con la scusa di giocare ad Ingress (PSCZ®)
+20:19:23 INFO event: c/g/un: 113233973177106453014/113233973177106453014/Michael Snidaro
+20:19:23 INFO event: len/tx: 10/Chi? Dove?
+20:19:23 WARNING permamem: unknown users returned from Nerd disadattati della bassa che donano soldi alla Esso con la scusa di giocare ad Ingress (PSCZ®) (UgygYiqxSUTc7bNQriF4AaABAQ): ['100710742925270496280']
+20:25:59 INFO event: eid/dt: 7-H0Z7-Jq1P8AbV9QZAfUQ/2016-02-23 20:25:59
+20:25:59 INFO event: cid/cn: UgygYiqxSUTc7bNQriF4AaABAQ/Nerd disadattati della bassa che donano soldi alla Esso con la scusa di giocare ad Ingress (PSCZ®)
+20:25:59 INFO event: c/g/un: 115015747211922750658/115015747211922750658/Stefano Gervasutti
+20:25:59 INFO event: len/tx: 83/Io guardavo L'Oregon dall'alto poi é arrivato Kaeel e non ci ho più capito un razzo
+20:25:59 WARNING permamem: unknown users returned from Nerd disadattati della bassa che donano soldi alla Esso con la scusa di giocare ad Ingress (PSCZ®) (UgygYiqxSUTc7bNQriF4AaABAQ): ['100710742925270496280']
+20:26:00 INFO plugins.subscribe: keyword 'kaeel' in 'Nerd disadattati della bassa che donano soldi alla Esso con la scusa di giocare ad Ingress (PSCZ®)' (UgygYiqxSUTc7bNQriF4AaABAQ)
+20:26:00 INFO root: get_1on1: remembered UgzVXtkQCY8v_GyyAYp4AaABAagB1YTECQ for 105205364708729768576
+20:26:00 INFO plugins.subscribe: Kaeel L. (105205364708729768576) alerted via 1on1 (UgzVXtkQCY8v_GyyAYp4AaABAagB1YTECQ)
+20:26:00 INFO event: eid/dt: 8A2qmnfYwt08AbV9_wEKFz/2016-02-23 20:26:00
+20:26:00 INFO event: cid/cn: UgzVXtkQCY8v_GyyAYp4AaABAagB1YTECQ/Kaeel L.
+20:26:00 INFO event: c/g/un: 114381395495050993911/114381395495050993911/Daisy Burn
+20:26:00 INFO event: len/tx: 223/Stefano Gervasutti mentioned 'kaeel' in Nerd disadattati della bassa che donano soldi alla Esso con la scusa di giocare ad Ingress (PSCZ®):
+Io guardavo L'Oregon dall'alto poi é arrivato Kaeel e non ci ho più capito un razzo
+20:26:01 INFO event: eid/dt: 7-H0Z7-Jq1P8AbV9QZAfUQ/2016-02-23 20:25:59
+20:26:01 INFO event: cid/cn: UgygYiqxSUTc7bNQriF4AaABAQ/Nerd disadattati della bassa che donano soldi alla Esso con la scusa di giocare ad Ingress (PSCZ®)
+20:26:01 INFO event: c/g/un: 115015747211922750658/115015747211922750658/Stefano Gervasutti
+20:26:01 INFO event: len/tx: 83/Io guardavo L'Oregon dall'alto poi é arrivato Kaeel e non ci ho più capito un razzo
+20:26:01 WARNING permamem: unknown users returned from Nerd disadattati della bassa che donano soldi alla Esso con la scusa di giocare ad Ingress (PSCZ®) (UgygYiqxSUTc7bNQriF4AaABAQ): ['100710742925270496280']
+20:26:02 INFO plugins.subscribe: keyword 'kaeel' in 'Nerd disadattati della bassa che donano soldi alla Esso con la scusa di giocare ad Ingress (PSCZ®)' (UgygYiqxSUTc7bNQriF4AaABAQ)
+20:26:02 INFO root: get_1on1: remembered UgzVXtkQCY8v_GyyAYp4AaABAagB1YTECQ for 105205364708729768576
+20:26:02 INFO plugins.subscribe: Kaeel L. (105205364708729768576) alerted via 1on1 (UgzVXtkQCY8v_GyyAYp4AaABAagB1YTECQ)
+20:26:02 INFO event: eid/dt: 8A2qmnfYwt08AbV9qYgrgr/2016-02-23 20:26:02
+20:26:02 INFO event: cid/cn: UgzVXtkQCY8v_GyyAYp4AaABAagB1YTECQ/Kaeel L.
+20:26:02 INFO event: c/g/un: 114381395495050993911/114381395495050993911/Daisy Burn
+20:26:02 INFO event: len/tx: 223/Stefano Gervasutti mentioned 'kaeel' in Nerd disadattati della bassa che donano soldi alla Esso con la scusa di giocare ad Ingress (PSCZ®):
+Io guardavo L'Oregon dall'alto poi é arrivato Kaeel e non ci ho più capito un razzo
+20:26:12 INFO event: eid/dt: 7-H0Z7-Jq1P8AbVB28aedI/2016-02-23 20:26:12
+20:26:12 INFO event: cid/cn: UgygYiqxSUTc7bNQriF4AaABAQ/Nerd disadattati della bassa che donano soldi alla Esso con la scusa di giocare ad Ingress (PSCZ®)
+20:26:12 INFO event: c/g/un: 115015747211922750658/115015747211922750658/Stefano Gervasutti
+20:26:12 INFO event: len/tx: 1/😐
+20:26:12 WARNING permamem: unknown users returned from Nerd disadattati della bassa che donano soldi alla Esso con la scusa di giocare ad Ingress (PSCZ®) (UgygYiqxSUTc7bNQriF4AaABAQ): ['100710742925270496280']
+20:38:40 INFO root: Connection lost!
+20:50:22 INFO event: eid/dt: 7-H0Z7-Jq1P8AbXx1Iy1hl/2016-02-23 20:50:22
+20:50:22 INFO event: cid/cn: UgygYiqxSUTc7bNQriF4AaABAQ/Nerd disadattati della bassa che donano soldi alla Esso con la scusa di giocare ad Ingress (PSCZ®)
+20:50:22 INFO event: c/g/un: 115015747211922750658/115015747211922750658/Stefano Gervasutti
+20:50:22 INFO event: len/tx: 22/Ho avuto l'allert Paul
+20:50:22 WARNING permamem: unknown users returned from Nerd disadattati della bassa che donano soldi alla Esso con la scusa di giocare ad Ingress (PSCZ®) (UgygYiqxSUTc7bNQriF4AaABAQ): ['100710742925270496280']
+20:50:23 INFO plugins.subscribe: keyword 'paul' in 'Nerd disadattati della bassa che donano soldi alla Esso con la scusa di giocare ad Ingress (PSCZ®)' (UgygYiqxSUTc7bNQriF4AaABAQ)
+20:50:23 INFO root: get_1on1: remembered UgzVXtkQCY8v_GyyAYp4AaABAagB1YTECQ for 105205364708729768576
+20:50:23 INFO plugins.subscribe: Kaeel L. (105205364708729768576) alerted via 1on1 (UgzVXtkQCY8v_GyyAYp4AaABAagB1YTECQ)
+20:50:23 INFO event: eid/dt: 8A2qmnfYwt08AbXxBa3Dei/2016-02-23 20:50:23
+20:50:23 INFO event: cid/cn: UgzVXtkQCY8v_GyyAYp4AaABAagB1YTECQ/Kaeel L.
+20:50:23 INFO event: c/g/un: 114381395495050993911/114381395495050993911/Daisy Burn
+20:50:23 INFO event: len/tx: 161/Stefano Gervasutti mentioned 'paul' in Nerd disadattati della bassa che donano soldi alla Esso con la scusa di giocare ad Ingress (PSCZ®):
+Ho avuto l'allert Paul
+20:58:08 INFO event: eid/dt: 7-H0Z7-Jq1P8AbYpuwIDZV/2016-02-23 20:58:08
+20:58:08 INFO event: cid/cn: UgygYiqxSUTc7bNQriF4AaABAQ/Nerd disadattati della bassa che donano soldi alla Esso con la scusa di giocare ad Ingress (PSCZ®)
+20:58:08 INFO event: c/g/un: 113803422009593836663/113803422009593836663/Diego Troian
+20:58:08 INFO event: len/tx: 199/Del nuovo cubo per adesso neanche l'ombra, comunque dopo l'aggiornamento sto riscontrando diversi bug, non mi da le valutazioni delle missioni appena compiute in più non mi ha notificato una medaglia
+20:58:08 WARNING permamem: unknown users returned from Nerd disadattati della bassa che donano soldi alla Esso con la scusa di giocare ad Ingress (PSCZ®) (UgygYiqxSUTc7bNQriF4AaABAQ): ['100710742925270496280']
+21:30:54 INFO event: eid/dt: 7-H0Z7-Jq1P8Abb_tANyHw/2016-02-23 21:30:54
+21:30:54 INFO event: cid/cn: UgygYiqxSUTc7bNQriF4AaABAQ/Nerd disadattati della bassa che donano soldi alla Esso con la scusa di giocare ad Ingress (PSCZ®)
+21:30:54 INFO event: c/g/un: 113233973177106453014/113233973177106453014/Michael Snidaro
+21:30:54 INFO event: len/tx: 57/Tranquilli, Frizzy ne prenderà uno sicuramente in breve 😂
+21:30:54 WARNING permamem: unknown users returned from Nerd disadattati della bassa che donano soldi alla Esso con la scusa di giocare ad Ingress (PSCZ®) (UgygYiqxSUTc7bNQriF4AaABAQ): ['100710742925270496280']
+21:32:17 INFO event: eid/dt: 7-H0Z7-Jq1P8Abbk0BarVK/2016-02-23 21:32:17
+21:32:17 INFO event: cid/cn: UgygYiqxSUTc7bNQriF4AaABAQ/Nerd disadattati della bassa che donano soldi alla Esso con la scusa di giocare ad Ingress (PSCZ®)
+21:32:17 INFO event: c/g/un: 117188762955379722381/117188762955379722381/Massimo Goss
+21:32:17 INFO event: len/tx: 88/Io non aggiorno... Manca solo che per un bug dell'aggiornamento mi sfanculo la sojourner
+21:32:17 WARNING permamem: unknown users returned from Nerd disadattati della bassa che donano soldi alla Esso con la scusa di giocare ad Ingress (PSCZ®) (UgygYiqxSUTc7bNQriF4AaABAQ): ['100710742925270496280']
+21:33:01 INFO event: eid/dt: 7-H0Z7-Jq1P8AbbpRm68Et/2016-02-23 21:33:01
+21:33:01 INFO event: cid/cn: UgygYiqxSUTc7bNQriF4AaABAQ/Nerd disadattati della bassa che donano soldi alla Esso con la scusa di giocare ad Ingress (PSCZ®)
+21:33:01 INFO event: c/g/un: 113233973177106453014/113233973177106453014/Michael Snidaro
+21:33:01 INFO event: len/tx: 86/Io sarò fuori zona proprio sabato e domenica... E non so ancora se ci saranno portali!
+21:33:01 WARNING permamem: unknown users returned from Nerd disadattati della bassa che donano soldi alla Esso con la scusa di giocare ad Ingress (PSCZ®) (UgygYiqxSUTc7bNQriF4AaABAQ): ['100710742925270496280']
+21:33:28 INFO event: eid/dt: 7-H0Z7-Jq1P8AbbscnHQ_I/2016-02-23 21:33:27
+21:33:28 INFO event: cid/cn: UgygYiqxSUTc7bNQriF4AaABAQ/Nerd disadattati della bassa che donano soldi alla Esso con la scusa di giocare ad Ingress (PSCZ®)
+21:33:28 INFO event: c/g/un: 117188762955379722381/117188762955379722381/Massimo Goss
+21:33:28 INFO event: len/tx: 31/Passa l'account a qualcun altro
+21:33:28 WARNING permamem: unknown users returned from Nerd disadattati della bassa che donano soldi alla Esso con la scusa di giocare ad Ingress (PSCZ®) (UgygYiqxSUTc7bNQriF4AaABAQ): ['100710742925270496280']
+21:33:30 INFO event: eid/dt: 7-H0Z7-Jq1P8AbbsvGMmdM/2016-02-23 21:33:30
+21:33:30 INFO event: cid/cn: UgygYiqxSUTc7bNQriF4AaABAQ/Nerd disadattati della bassa che donano soldi alla Esso con la scusa di giocare ad Ingress (PSCZ®)
+21:33:30 INFO event: c/g/un: 117188762955379722381/117188762955379722381/Massimo Goss
+21:33:30 INFO event: len/tx: 2/XD
+21:33:30 WARNING permamem: unknown users returned from Nerd disadattati della bassa che donano soldi alla Esso con la scusa di giocare ad Ingress (PSCZ®) (UgygYiqxSUTc7bNQriF4AaABAQ): ['100710742925270496280']
+21:36:08 INFO event: eid/dt: 7-H0Z7-Jq1P8AbcBFa469C/2016-02-23 21:36:08
+21:36:08 INFO event: cid/cn: UgygYiqxSUTc7bNQriF4AaABAQ/Nerd disadattati della bassa che donano soldi alla Esso con la scusa di giocare ad Ingress (PSCZ®)
+21:36:08 INFO event: c/g/un: 105205364708729768576/105205364708729768576/Kaeel L.
+21:36:08 INFO event: len/tx: 96/Max, gad, fede, avete visto che su G+ c'è un evento con premi NIA per chi fa la black sojourner?
+21:36:08 WARNING permamem: unknown users returned from Nerd disadattati della bassa che donano soldi alla Esso con la scusa di giocare ad Ingress (PSCZ®) (UgygYiqxSUTc7bNQriF4AaABAQ): ['100710742925270496280']
+21:36:09 INFO plugins.subscribe: keyword 'gad' in 'Nerd disadattati della bassa che donano soldi alla Esso con la scusa di giocare ad Ingress (PSCZ®)' (UgygYiqxSUTc7bNQriF4AaABAQ)
+21:36:09 INFO root: get_1on1: remembered Ugzc9QDaeT1UGq7mXKZ4AaABAagBsf2ODQ for 113233973177106453014
+21:36:09 INFO plugins.subscribe: Michael Snidaro (113233973177106453014) alerted via 1on1 (Ugzc9QDaeT1UGq7mXKZ4AaABAagBsf2ODQ)
+21:36:09 INFO event: eid/dt: 8A2khb34iE28AbcBPKS87a/2016-02-23 21:36:09
+21:36:09 INFO event: cid/cn: Ugzc9QDaeT1UGq7mXKZ4AaABAagBsf2ODQ/Michael Snidaro
+21:36:09 INFO event: c/g/un: 114381395495050993911/114381395495050993911/Daisy Burn
+21:36:09 INFO event: len/tx: 224/Kaeel L. mentioned 'gad' in Nerd disadattati della bassa che donano soldi alla Esso con la scusa di giocare ad Ingress (PSCZ®):
+Max, gad, fede, avete visto che su G+ c'è un evento con premi NIA per chi fa la black sojourner?
+21:36:23 INFO event: eid/dt: 7-H0Z7-Jq1P8AbcD53tiSW/2016-02-23 21:36:23
+21:36:23 INFO event: cid/cn: UgygYiqxSUTc7bNQriF4AaABAQ/Nerd disadattati della bassa che donano soldi alla Esso con la scusa di giocare ad Ingress (PSCZ®)
+21:36:23 INFO event: c/g/un: 113233973177106453014/113233973177106453014/Michael Snidaro
+21:36:23 INFO event: len/tx: 4/Nope
+21:36:23 WARNING permamem: unknown users returned from Nerd disadattati della bassa che donano soldi alla Esso con la scusa di giocare ad Ingress (PSCZ®) (UgygYiqxSUTc7bNQriF4AaABAQ): ['100710742925270496280']
+21:39:13 INFO event: eid/dt: 7-H0Z7-Jq1P8AbcXmRjyZ-/2016-02-23 21:39:12
+21:39:13 INFO event: cid/cn: UgygYiqxSUTc7bNQriF4AaABAQ/Nerd disadattati della bassa che donano soldi alla Esso con la scusa di giocare ad Ingress (PSCZ®)
+21:39:13 INFO event: c/g/un: 113233973177106453014/113233973177106453014/Michael Snidaro
+21:39:13 INFO event: len/tx: 9/Non trovo
+21:39:13 WARNING permamem: unknown users returned from Nerd disadattati della bassa che donano soldi alla Esso con la scusa di giocare ad Ingress (PSCZ®) (UgygYiqxSUTc7bNQriF4AaABAQ): ['100710742925270496280']

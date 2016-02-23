@@ -1,0 +1,55 @@
+config:
+{
+ "admins": [
+   "113227689978504931898"
+ ],
+ "autoreplies": [
+   [
+     [
+       "hi bot",
+       "hello bot"
+     ],
+     "Hello world!"
+   ],
+   [
+     [
+       "uovaaaaaa"
+     ],
+     "pirla"
+   ],
+   [
+     [
+       "uovaaaa"
+     ],
+     "pirla"
+   ]
+ ],
+ "autoreplies_enabled": true,
+ "commands_enabled": true,
+ "commands_user": [],
+ "conversations": {
+   "CONV_ID": {
+     "autoreplies_enabled": false,
+     "commands_enabled": false,
+     "silentmode": true
+   }
+ },
+ "link_to_guide": "https://github.com/hangoutsbot/hangoutsbot/wiki/User-Guide",
+ "mentionall": true,
+ "mentionallwhitelist": [],
+ "mentionerrors": true,
+ "mentionquidproquo": false,
+ "plugins": [
+   "default",
+   "mentions",
+   "autoreply",
+   "cleverbot",
+   "dnd",
+   "starter",
+   "remind",
+   "tldr",
+   "botaliases",
+   "subscribe"
+ ],
+ "silentmode": false
+}
